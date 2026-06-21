@@ -129,6 +129,7 @@
         <wa-button
           size="small"
           pill
+          [attr.disabled]="c.count === 0 ? true : null"
           [attr.appearance]="svc.activeCategory() === c.name ? 'accent' : 'outlined'"
           [attr.variant]="svc.activeCategory() === c.name ? 'brand' : 'neutral'"
           (click)="toggleCategory(c.name)"

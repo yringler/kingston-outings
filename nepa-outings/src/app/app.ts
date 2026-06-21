@@ -51,8 +51,17 @@ export class App {
    */
   private sliderDragging = false;
 
-  /** Category names with live counts (react to the current filters). */
-  protected readonly chips = computed(() => this.svc.categoryCounts());
+  /**
+   * Category names with live counts (react to the current filters). Categories
+   * with no matches under the current drive-time limit sort to the end (their
+   * chips render disabled).
+   */
+  protected readonly chips = computed(() =>
+    [...this.svc.categoryCounts()].sort(
+      (a, b) =>
+        Number(a.count === 0) - Number(b.count === 0) || a.name.localeCompare(b.name),
+    ),
+  );
 
   /** Number of refinements active inside the drawer (category + drive time). */
   protected readonly activeFilterCount = computed(
