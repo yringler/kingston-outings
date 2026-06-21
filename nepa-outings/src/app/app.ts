@@ -1,4 +1,4 @@
-import { Component, computed, inject } from '@angular/core';
+import { Component, computed, CUSTOM_ELEMENTS_SCHEMA, inject, signal } from '@angular/core';
 import { OutingsService } from './outings.service';
 import { OutingCard } from './outing-card';
 import { OriginId } from './outings.models';
@@ -8,13 +8,22 @@ import { OriginId } from './outings.models';
   imports: [OutingCard],
   templateUrl: './app.html',
   styleUrl: './app.scss',
+  schemas: [CUSTOM_ELEMENTS_SCHEMA],
 })
 export class App {
   protected readonly svc = inject(OutingsService);
 
+  /** Whether the filters drawer is open. */
+  protected readonly filtersOpen = signal(false);
+
   /** Category names with counts, for the filter chips. */
   protected readonly chips = computed(() =>
     this.svc.categories.map((c) => ({ name: c.name, count: c.items.length })),
+  );
+
+  /** Number of refinements active inside the drawer (category + drive time). */
+  protected readonly activeFilterCount = computed(
+    () => (this.svc.activeCategory() ? 1 : 0) + (this.svc.maxTime() != null ? 1 : 0),
   );
 
   protected setOrigin(id: OriginId): void {

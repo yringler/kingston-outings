@@ -28,9 +28,15 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "**/*.svg",
+                "input": "node_modules/@fortawesome/fontawesome-free/svgs",
+                "output": "fa-icons"
               }
             ],
             "styles": [
+              "@awesome.me/webawesome/dist/styles/webawesome.css",
               "src/styles.scss"
             ]
           },
@@ -39,8 +45,8 @@
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "500kB",
-                  "maximumError": "1MB"
+                  "maximumWarning": "750kB",
+                  "maximumError": "1.5MB"
                 },
                 {
                   "type": "anyComponentStyle",

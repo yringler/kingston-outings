@@ -1,16 +1,20 @@
-import { Component, computed, input, signal } from '@angular/core';
+import { Component, computed, CUSTOM_ELEMENTS_SCHEMA, input, signal } from '@angular/core';
 import { Origin, OriginId, Outing } from './outings.models';
 
 @Component({
   selector: 'app-outing-card',
   template: `
-    <article class="card">
-      <header class="card__head">
+    <wa-card class="card">
+      <div slot="header" class="card__head">
         <h3 class="card__name">{{ outing().name }}</h3>
-        <span class="card__primary" [class.card__primary--none]="primaryTime() == null">
+        <wa-badge
+          class="card__primary"
+          appearance="filled"
+          [attr.variant]="primaryTime() == null ? 'neutral' : 'brand'"
+        >
           {{ format(primaryTime()) }}
-        </span>
-      </header>
+        </wa-badge>
+      </div>
 
       <ul class="times" aria-label="Drive times from each home base">
         @for (o of origins(); track o.id) {
@@ -26,31 +30,45 @@ import { Origin, OriginId, Outing } from './outings.models';
           {{ outing().notes }}
         </p>
         @if (long()) {
-          <button type="button" class="link-btn" (click)="expanded.set(!expanded())">
+          <wa-button
+            class="notes__toggle"
+            appearance="plain"
+            size="small"
+            (click)="expanded.set(!expanded())"
+          >
             {{ expanded() ? 'Show less' : 'Show more' }}
-          </button>
+          </wa-button>
         }
       }
 
-      <footer class="card__actions">
-        <a class="btn btn--map" [href]="outing().map" target="_blank" rel="noopener">
-          <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
-            <path
-              fill="currentColor"
-              d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7Zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5Z"
-            />
-          </svg>
+      <div slot="footer" class="card__actions">
+        <wa-button
+          variant="brand"
+          size="small"
+          [href]="outing().map"
+          target="_blank"
+          rel="noopener"
+        >
+          <wa-icon slot="start" name="location-dot"></wa-icon>
           Map
-        </a>
+        </wa-button>
         @if (outing().website) {
-          <a class="btn btn--ghost" [href]="outing().website" target="_blank" rel="noopener">
+          <wa-button
+            appearance="outlined"
+            size="small"
+            [href]="outing().website"
+            target="_blank"
+            rel="noopener"
+          >
+            <wa-icon slot="start" name="arrow-up-right-from-square"></wa-icon>
             Website
-          </a>
+          </wa-button>
         }
-      </footer>
-    </article>
+      </div>
+    </wa-card>
   `,
   styleUrl: './outing-card.scss',
+  schemas: [CUSTOM_ELEMENTS_SCHEMA],
 })
 export class OutingCard {
   readonly outing = input.required<Outing>();

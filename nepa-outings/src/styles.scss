@@ -1,65 +1,14 @@
-/* Global styles & theme tokens */
-
-:root {
-  --bg: #f4f6fb;
-  --surface: #ffffff;
-  --border: #e3e8f0;
-  --chip: #eef1f7;
-
-  --text: #161c2d;
-  --text-soft: #3c4458;
-  --muted: #6b7488;
-
-  --accent: #1f7a5a;
-  --accent-strong: #166145;
-  --accent-ink: #11603f;
-  --accent-soft: #d6efe4;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0f1422;
-    --surface: #171d2e;
-    --border: #28304a;
-    --chip: #1f2840;
-
-    --text: #f2f5fb;
-    --text-soft: #c4ccdd;
-    --muted: #8c95ad;
-
-    --accent: #2fa074;
-    --accent-strong: #38b283;
-    --accent-ink: #6fe3b6;
-    --accent-soft: #1d3a30;
-  }
-}
-
-* {
-  box-sizing: border-box;
-}
+/* Global base. Theme tokens, reset, and color scheme come from Web Awesome
+   (loaded via angular.json + the wa-* classes on <html>). */
 
 html,
 body {
+  min-height: 100%;
   margin: 0;
   padding: 0;
 }
 
 body {
-  font-family:
-    system-ui,
-    -apple-system,
-    'Segoe UI',
-    Roboto,
-    Helvetica,
-    Arial,
-    sans-serif;
-  color: var(--text);
-  background: var(--bg);
-  -webkit-font-smoothing: antialiased;
-}
-
-:focus-visible {
-  outline: 2px solid var(--accent);
-  outline-offset: 2px;
-  border-radius: 4px;
+  background: var(--wa-color-surface-default);
+  color: var(--wa-color-text-normal);
 }
