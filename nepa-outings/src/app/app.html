@@ -15,48 +15,48 @@
         (change)="setOrigin($any($event.target).value)"
       >
         @for (o of svc.origins; track o.id) {
-          <wa-radio appearance="button" [value]="o.id">{{ o.label }}</wa-radio>
+        <wa-radio appearance="button" [value]="o.id">{{ o.label }}</wa-radio>
         }
       </wa-radio-group>
 
       @if (svc.geoSupported) {
-        <div class="mylocation">
-          <wa-button
-            class="mylocation__btn"
-            size="small"
-            [attr.appearance]="svc.origin() === ME ? 'accent' : 'outlined'"
-            [attr.variant]="svc.origin() === ME ? 'brand' : 'neutral'"
-            [attr.loading]="svc.locating() ? true : null"
-            (click)="useMyLocation()"
-          >
-            <wa-icon slot="start" name="location-crosshairs"></wa-icon>
-            {{ svc.recentLocations().length ? 'Update my location' : 'Use my location' }}
-          </wa-button>
+      <div class="mylocation">
+        <wa-button
+          class="mylocation__btn"
+          size="small"
+          [attr.appearance]="svc.origin() === ME ? 'accent' : 'outlined'"
+          [attr.variant]="svc.origin() === ME ? 'brand' : 'neutral'"
+          [attr.loading]="svc.locating() ? true : null"
+          (click)="useMyLocation()"
+        >
+          <wa-icon slot="start" name="location-crosshairs"></wa-icon>
+          {{ svc.recentLocations().length ? 'Update my location' : 'Use my location' }}
+        </wa-button>
 
-          @for (loc of svc.recentLocations(); track loc.key) {
-            <span class="mylocation__saved">
-              <wa-button
-                size="small"
-                pill
-                [attr.appearance]="svc.origin() === ME && svc.activeLocation()?.key === loc.key ? 'accent' : 'outlined'"
-                [attr.variant]="svc.origin() === ME && svc.activeLocation()?.key === loc.key ? 'brand' : 'neutral'"
-                (click)="selectLocation(loc)"
-              >
-                <wa-icon slot="start" name="location-dot"></wa-icon>
-                {{ loc.label }}
-              </wa-button>
-              <wa-button
-                class="mylocation__remove"
-                appearance="plain"
-                size="small"
-                [attr.aria-label]="'Remove ' + loc.label"
-                (click)="removeLocation($event, loc.key)"
-              >
-                <wa-icon name="xmark"></wa-icon>
-              </wa-button>
-            </span>
-          }
-        </div>
+        @for (loc of svc.recentLocations(); track loc.key) {
+        <span class="mylocation__saved">
+          <wa-button
+            size="small"
+            pill
+            [attr.appearance]="svc.origin() === ME && svc.activeLocation()?.key === loc.key ? 'accent' : 'outlined'"
+            [attr.variant]="svc.origin() === ME && svc.activeLocation()?.key === loc.key ? 'brand' : 'neutral'"
+            (click)="selectLocation(loc)"
+          >
+            <wa-icon slot="start" name="location-dot"></wa-icon>
+            {{ loc.label }}
+          </wa-button>
+          <wa-button
+            class="mylocation__remove"
+            appearance="plain"
+            size="small"
+            [attr.aria-label]="'Remove ' + loc.label"
+            (click)="removeLocation($event, loc.key)"
+          >
+            <wa-icon name="xmark"></wa-icon>
+          </wa-button>
+        </span>
+        }
+      </div>
       }
 
       <wa-input
@@ -73,9 +73,8 @@
 
       <wa-button class="filters-btn" appearance="outlined" (click)="filtersOpen.set(true)">
         <wa-icon slot="start" name="sliders"></wa-icon>
-        Filters
-        @if (activeFilterCount() > 0) {
-          <wa-badge slot="end" variant="brand">{{ activeFilterCount() }}</wa-badge>
+        Filters @if (activeFilterCount() > 0) {
+        <wa-badge slot="end" variant="brand">{{ activeFilterCount() }}</wa-badge>
         }
       </wa-button>
     </div>
@@ -93,17 +92,25 @@
   <div class="drawer-body">
     <section class="field">
       <wa-slider
+        #timeSlider
+        class="time-slider"
         min="15"
         [max]="svc.maxAvailableTime"
         step="15"
+        with-markers
         with-tooltip
-        label="Max drive time — within {{ svc.maxTime() == null ? 'any time' : formatTime(svc.maxTime()!) }}"
+        label="Max drive time"
+        hint="{{ svc.maxTime() == null ? 'Showing places at any distance' : 'Within ' + formatTime(svc.maxTime()!) + ' of you' }}"
         [value]="svc.maxTime() ?? svc.maxAvailableTime"
         (input)="onMaxTime($any($event.target).value)"
         (pointerdown)="onSliderPointerDown()"
         (pointerup)="onSliderPointerUp()"
         (pointercancel)="onSliderPointerUp()"
-      ></wa-slider>
+      >
+        <span slot="reference">Local</span>
+        <span slot="reference">Far</span>
+        <span slot="reference">Further</span>
+      </wa-slider>
     </section>
 
     <section class="field">
@@ -119,16 +126,16 @@
           All
         </wa-button>
         @for (c of chips(); track c.name) {
-          <wa-button
-            size="small"
-            pill
-            [attr.appearance]="svc.activeCategory() === c.name ? 'accent' : 'outlined'"
-            [attr.variant]="svc.activeCategory() === c.name ? 'brand' : 'neutral'"
-            (click)="toggleCategory(c.name)"
-          >
-            {{ c.name }}
-            <wa-badge slot="end" appearance="filled" variant="neutral">{{ c.count }}</wa-badge>
-          </wa-button>
+        <wa-button
+          size="small"
+          pill
+          [attr.appearance]="svc.activeCategory() === c.name ? 'accent' : 'outlined'"
+          [attr.variant]="svc.activeCategory() === c.name ? 'brand' : 'neutral'"
+          (click)="toggleCategory(c.name)"
+        >
+          {{ c.name }}
+          <wa-badge slot="end" appearance="filled" variant="neutral">{{ c.count }}</wa-badge>
+        </wa-button>
         }
       </div>
     </section>
@@ -142,42 +149,42 @@
 
 <main class="results">
   @if (svc.locationError(); as error) {
-    <wa-callout class="location-error" variant="warning" role="alert">
-      <wa-icon slot="icon" name="triangle-exclamation"></wa-icon>
-      {{ error }}
-    </wa-callout>
+  <wa-callout class="location-error" variant="warning" role="alert">
+    <wa-icon slot="icon" name="triangle-exclamation"></wa-icon>
+    {{ error }}
+  </wa-callout>
   }
 
   <p class="results__meta" aria-live="polite">
-    Showing <strong>{{ svc.visibleCount() }}</strong> of {{ svc.totalCount }}
-    @if (svc.search() || svc.activeCategory() || svc.maxTime() != null) {
-      · <wa-button appearance="plain" size="small" (click)="clearFilters()">Clear filters</wa-button>
+    Showing <strong>{{ svc.visibleCount() }}</strong> of {{ svc.totalCount }} @if (svc.search() ||
+    svc.activeCategory() || svc.maxTime() != null) { ·
+    <wa-button appearance="plain" size="small" (click)="clearFilters()">Clear filters</wa-button>
     }
   </p>
 
   @for (category of svc.filtered(); track category.name) {
-    <section class="category">
-      <h2 class="category__title">
-        {{ category.name }}
-        <wa-badge appearance="filled" variant="neutral">{{ category.items.length }}</wa-badge>
-      </h2>
-      <div class="grid">
-        @for (item of category.items; track item.name) {
-          <app-outing-card
-            [outing]="item"
-            [origin]="svc.origin()"
-            [origins]="svc.origins"
-            [liveTime]="svc.liveTimes()[item.name] ?? null"
-            [myLocationLabel]="svc.activeLocation()?.label ?? null"
-          />
-        }
-      </div>
-    </section>
-  } @empty {
-    <div class="empty">
-      <p>No outings match your filters.</p>
-      <wa-button variant="brand" (click)="clearFilters()">Clear filters</wa-button>
+  <section class="category">
+    <h2 class="category__title">
+      {{ category.name }}
+      <wa-badge appearance="filled" variant="neutral">{{ category.items.length }}</wa-badge>
+    </h2>
+    <div class="grid">
+      @for (item of category.items; track item.name) {
+      <app-outing-card
+        [outing]="item"
+        [origin]="svc.origin()"
+        [origins]="svc.origins"
+        [liveTime]="svc.liveTimes()[item.name] ?? null"
+        [myLocationLabel]="svc.activeLocation()?.label ?? null"
+      />
+      }
     </div>
+  </section>
+  } @empty {
+  <div class="empty">
+    <p>No outings match your filters.</p>
+    <wa-button variant="brand" (click)="clearFilters()">Clear filters</wa-button>
+  </div>
   }
 </main>
 

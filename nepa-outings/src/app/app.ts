@@ -1,4 +1,13 @@
-import { Component, computed, CUSTOM_ELEMENTS_SCHEMA, inject, signal } from '@angular/core';
+import {
+  Component,
+  computed,
+  CUSTOM_ELEMENTS_SCHEMA,
+  effect,
+  ElementRef,
+  inject,
+  signal,
+  viewChild,
+} from '@angular/core';
 import { OutingsService } from './outings.service';
 import { OutingCard } from './outing-card';
 import { MY_LOCATION_ID, OriginId } from './outings.models';
@@ -17,6 +26,23 @@ export class App {
 
   /** Whether the filters drawer is open. */
   protected readonly filtersOpen = signal(false);
+
+  /** The drive-time slider, so we can format its tooltip/screen-reader value. */
+  private readonly timeSlider =
+    viewChild<ElementRef<HTMLElement & { valueFormatter?: (value: number) => string }>>(
+      'timeSlider',
+    );
+
+  constructor() {
+    effect(() => {
+      const el = this.timeSlider()?.nativeElement;
+      if (!el) return;
+      void customElements.whenDefined('wa-slider').then(() => {
+        el.valueFormatter = (value) =>
+          value >= this.svc.maxAvailableTime ? 'Any' : this.formatTime(value);
+      });
+    });
+  }
 
   /**
    * True while the user is dragging the drive-time slider. On touch devices the
