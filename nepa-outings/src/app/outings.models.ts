@@ -5,12 +5,19 @@ export interface Origin {
   label: string;
 }
 
+export interface Coordinates {
+  lat: number;
+  lng: number;
+}
+
 export interface Outing {
   name: string;
   times: Record<OriginId, number | null>;
   map: string;
   website: string | null;
   notes: string;
+  coordinates: Coordinates | null;
+  address: string | null;
 }
 
 export interface Category {

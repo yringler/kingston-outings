@@ -20,101 +20,146 @@
         {
           "name": "Smith’ Berry farm",
           "times": {
-            "kingston": 18,
-            "scranton": 32,
-            "canadensis": 79
+            "kingston": 17,
+            "scranton": 33,
+            "canadensis": 68
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Smith%E2%80%99%20Berry%20farm%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.347395%2C-75.873371",
           "website": null,
-          "notes": "Closed Sundays. Their blueberries season seems to be over, last week there were some blueberries left but mostly higher up, not really within younger kids reach. Also the bushes are very overgrown it's hard to walk through most rows without getting scratched by branches. It is a really beautiful property. Maybe they'll have it trimmed in time for next year. Slow down when almost there, it's a hidden driveway that's easy to miss"
+          "notes": "Closed Sundays. Their blueberries season seems to be over, last week there were some blueberries left but mostly higher up, not really within younger kids reach. Also the bushes are very overgrown it's hard to walk through most rows without getting scratched by branches. It is a really beautiful property. Maybe they'll have it trimmed in time for next year. Slow down when almost there, it's a hidden driveway that's easy to miss",
+          "coordinates": {
+            "lat": 41.347395,
+            "lng": -75.873371
+          },
+          "address": "1589 W 8th St, Wyoming, PA 18644"
         },
         {
           "name": "Brace Orchard",
           "times": {
-            "kingston": 28,
-            "scranton": 42,
-            "canadensis": 89
+            "kingston": 24,
+            "scranton": 36,
+            "canadensis": 72
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Brace%20Orchard%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.399602%2C-75.898443",
           "website": null,
-          "notes": "peaches, apples"
+          "notes": "peaches, apples",
+          "coordinates": {
+            "lat": 41.399602,
+            "lng": -75.898443
+          },
+          "address": "444 Brace Rd, Dallas, PA 18612"
         },
         {
           "name": "Whistle Pig Pumpkin Patch",
           "times": {
-            "kingston": 32,
-            "scranton": 54,
-            "canadensis": 101
+            "kingston": 27,
+            "scranton": 46,
+            "canadensis": 81
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Whistle%20Pig%20Pumpkin%20Patch%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.420397%2C-76.045333",
           "website": "http://www.whistlepigpumpkin.com/",
-          "notes": "raspberries, blueberries etc http://www.whistlepigpumpkin.com/"
+          "notes": "raspberries, blueberries etc http://www.whistlepigpumpkin.com/",
+          "coordinates": {
+            "lat": 41.420397,
+            "lng": -76.045333
+          },
+          "address": "3369 PA-29, Noxen, PA 18636"
         },
         {
           "name": "Burger's Farm Market",
           "times": {
-            "kingston": 37,
-            "scranton": 53,
-            "canadensis": 79
+            "kingston": 33,
+            "scranton": 45,
+            "canadensis": 60
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Burger's%20Farm%20Market%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.028727%2C-76.044788",
           "website": null,
-          "notes": "blueberries and different veggies available depending on the time of season Website"
+          "notes": "blueberries and different veggies available depending on the time of season Website",
+          "coordinates": {
+            "lat": 41.028727,
+            "lng": -76.044788
+          },
+          "address": "371 St Johns Rd, Drums, PA 18222"
         },
         {
           "name": "Pallman Farms",
           "times": {
-            "kingston": 41,
-            "scranton": 12,
-            "canadensis": 60
+            "kingston": 36,
+            "scranton": 13,
+            "canadensis": 49
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Pallman%20Farms%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.472147%2C-75.710085",
           "website": null,
-          "notes": "Website"
+          "notes": "Website",
+          "coordinates": {
+            "lat": 41.472147,
+            "lng": -75.710085
+          },
+          "address": "1511 Summit Lake Rd, Clarks Summit, PA 18411"
         },
         {
           "name": "Stemmrich Blueberry Farm",
           "times": {
-            "kingston": 42,
-            "scranton": 57,
-            "canadensis": 84
+            "kingston": 37,
+            "scranton": 49,
+            "canadensis": 64
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Stemmrich%20Blueberry%20Farm%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.053579%2C-76.157301",
           "website": null,
-          "notes": "no pets allowed. cash only. blueberries earlier and peaches later in the summer"
+          "notes": "no pets allowed. cash only. blueberries earlier and peaches later in the summer",
+          "coordinates": {
+            "lat": 41.053579,
+            "lng": -76.157301
+          },
+          "address": "71 E Cherry Ln, Nescopeck, PA 18635"
         },
         {
           "name": "Berries & Blooms @ High Horizons Farm",
           "times": {
-            "kingston": 55,
-            "scranton": 56,
-            "canadensis": 101
+            "kingston": 42,
+            "scranton": 46,
+            "canadensis": 79
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Berries%20%26%20Blooms%20%40%20High%20Horizons%20Farm%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.541349%2C-75.999933",
           "website": null,
-          "notes": "blueberry picking first week of July till first week of August"
+          "notes": "blueberry picking first week of July till first week of August",
+          "coordinates": {
+            "lat": 41.541349,
+            "lng": -75.999933
+          },
+          "address": "128 Dziuba Ct, Tunkhannock, PA 18657"
         },
         {
           "name": "Penn-Can Berry Farm",
           "times": {
-            "kingston": 70,
-            "scranton": 42,
-            "canadensis": 85
+            "kingston": 56,
+            "scranton": 36,
+            "canadensis": 69
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Penn-Can%20Berry%20Farm%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.827241%2C-75.684662",
           "website": null,
-          "notes": "seasonally open berry farm Facebook"
+          "notes": "seasonally open berry farm Facebook",
+          "coordinates": {
+            "lat": 41.827241,
+            "lng": -75.684662
+          },
+          "address": "2531 PA-848, New Milford, PA 18834"
         },
         {
           "name": "George Schmidt Berry Farm",
           "times": {
-            "kingston": 88,
-            "scranton": 100,
-            "canadensis": 110
+            "kingston": 70,
+            "scranton": 81,
+            "canadensis": 80
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=George%20Schmidt%20Berry%20Farm%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.667264%2C-75.704068",
           "website": null,
-          "notes": "different fruits and veggies available at different times of the season"
+          "notes": "different fruits and veggies available at different times of the season",
+          "coordinates": {
+            "lat": 40.667264,
+            "lng": -75.704068
+          },
+          "address": "5681 Berry Dr, New Tripoli, PA 18066"
         },
         {
           "name": "general list of blueberry picking in NEPA",
@@ -125,84 +170,121 @@
           },
           "map": "https://www.google.com/maps/search/?api=1&query=general%20list%20of%20blueberry%20picking%20in%20NEPA%2C%20PA",
           "website": null,
-          "notes": ""
+          "notes": "",
+          "coordinates": null,
+          "address": null
         },
         {
           "name": "Daisy Field Farm",
           "times": {
-            "kingston": 38,
-            "scranton": 47,
-            "canadensis": 52
+            "kingston": 37,
+            "scranton": 48,
+            "canadensis": 49
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Daisy%20Field%20Farm%20542%20Oley%20Valley%20Rd%2C%20White%20Haven%2C%20PA%2018661",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.059811%2C-75.82209",
           "website": "http://www.daisyfieldfarm.com/",
-          "notes": "542 Oley Valley Rd, White Haven, PA 18661 | Site: http://www.daisyfieldfarm.com/"
+          "notes": "542 Oley Valley Rd, White Haven, PA 18661 | Site: http://www.daisyfieldfarm.com/",
+          "coordinates": {
+            "lat": 41.059811,
+            "lng": -75.82209
+          },
+          "address": "542 Oley Valley Rd, White Haven, PA 18661"
         },
         {
           "name": "The Shoppes At Ritter's Farm",
           "times": {
-            "kingston": 38,
-            "scranton": 19,
-            "canadensis": 31
+            "kingston": 37,
+            "scranton": 20,
+            "canadensis": 34
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=The%20Shoppes%20At%20Ritter's%20Farm%201459%20Mt%20Cobb%20Rd%2C%20Lake%20Ariel%2C%20PA%2018436",
-          "website": "https://g.co/kgs/r7a996F",
-          "notes": "1459 Mt Cobb Rd, Lake Ariel, PA 18436 | Site: https://g.co/kgs/r7a996F"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.415096%2C-75.478254",
+          "website": "https://www.google.com/maps/search/?api=1&query=The%20Shoppes%20At%20Ritter%27s%20Farm",
+          "notes": "1459 Mt Cobb Rd, Lake Ariel, PA 18436 | Site: https://www.google.com/maps/search/?api=1&query=The%20Shoppes%20At%20Ritter%27s%20Farm",
+          "coordinates": {
+            "lat": 41.415096,
+            "lng": -75.478254
+          },
+          "address": "1459 Mt Cobb Rd, Lake Ariel, PA 18436"
         },
         {
           "name": "Ritter's Cider Mill",
           "times": {
-            "kingston": 39,
-            "scranton": 20,
-            "canadensis": 31
+            "kingston": 38,
+            "scranton": 21,
+            "canadensis": 34
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Ritter's%20Cider%20Mill%20107%20Wimmers%20Rd%2C%20Jefferson%20Township%2C%20PA%2018436",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.400892%2C-75.469909",
           "website": "https://ritterscidermill.com/",
-          "notes": "107 Wimmers Rd, Jefferson Township, PA 18436  •  Attractions, picking | Site: https://ritterscidermill.com/"
+          "notes": "107 Wimmers Rd, Jefferson Township, PA 18436  •  Attractions, picking | Site: https://ritterscidermill.com/",
+          "coordinates": {
+            "lat": 41.400892,
+            "lng": -75.469909
+          },
+          "address": "107 Wimmers Rd, Jefferson Township, PA 18436"
         },
         {
           "name": "Brown Hill Farms",
           "times": {
-            "kingston": 50,
-            "scranton": 40,
-            "canadensis": 71
+            "kingston": 49,
+            "scranton": 41,
+            "canadensis": 75
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Brown%20Hill%20Farms%20405%20W%20Avery%20Station%20Rd%2C%20Tunkhannock%2C%20PA%2018657",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.627286%2C-75.915412",
           "website": "https://www.brownhillfarms.com/",
-          "notes": "405 W Avery Station Rd, Tunkhannock, PA 18657  •  Sunflowers, picking | Site: https://www.brownhillfarms.com/"
+          "notes": "405 W Avery Station Rd, Tunkhannock, PA 18657  •  Sunflowers, picking | Site: https://www.brownhillfarms.com/",
+          "coordinates": {
+            "lat": 41.627286,
+            "lng": -75.915412
+          },
+          "address": "405 W Avery Station Rd, Tunkhannock, PA 18657"
         },
         {
           "name": "Roba Family Farms",
           "times": {
-            "kingston": 43,
-            "scranton": 22,
-            "canadensis": 51
+            "kingston": 42,
+            "scranton": 23,
+            "canadensis": 55
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Roba%20Family%20Farms%20200%20Cranston%20Ave%2C%20North%20Abington%20Township%2C%20PA%2018414",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.5543%2C-75.688435",
           "website": "https://robafamilyfarms.com/",
-          "notes": "200 Cranston Ave, North Abington Township, PA 18414 | Site: https://robafamilyfarms.com/"
+          "notes": "200 Cranston Ave, North Abington Township, PA 18414 | Site: https://robafamilyfarms.com/",
+          "coordinates": {
+            "lat": 41.5543,
+            "lng": -75.688435
+          },
+          "address": "200 Cranston Ave, North Abington Township, PA 18414"
         },
         {
           "name": "Spring Mountain Farms",
           "times": {
-            "kingston": 47,
-            "scranton": 55,
-            "canadensis": 61
+            "kingston": 46,
+            "scranton": 56,
+            "canadensis": 58
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Spring%20Mountain%20Farms%204595%20Interchange%20Rd%2C%20Lehighton%2C%20PA%2018235",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.846024%2C-75.624016",
           "website": "https://www.springmountainfarms.com/",
-          "notes": "4595 Interchange Rd, Lehighton, PA 18235 | Site: https://www.springmountainfarms.com/"
+          "notes": "4595 Interchange Rd, Lehighton, PA 18235 | Site: https://www.springmountainfarms.com/",
+          "coordinates": {
+            "lat": 40.846024,
+            "lng": -75.624016
+          },
+          "address": "4595 Interchange Rd, Lehighton, PA 18235"
         },
         {
           "name": "Gulicks Fruit Farm LLC",
           "times": {
-            "kingston": 80,
-            "scranton": 69,
-            "canadensis": 53
+            "kingston": 79,
+            "scranton": 70,
+            "canadensis": 50
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Gulicks%20Fruit%20Farm%20LLC%206490%20Koehler%20Rd%2C%20Bangor%2C%20PA%2018013",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.819175%2C-75.111922",
           "website": null,
-          "notes": "6490 Koehler Rd, Bangor, PA 18013  •  (610) 498-3020"
+          "notes": "6490 Koehler Rd, Bangor, PA 18013 • (610) 498-3020",
+          "coordinates": {
+            "lat": 40.819175,
+            "lng": -75.111922
+          },
+          "address": "6490 Koehler Rd, Bangor, PA 18013"
         }
       ]
     },
@@ -212,299 +294,434 @@
         {
           "name": "Kirby Park",
           "times": {
-            "kingston": 3,
-            "scranton": 30,
-            "canadensis": 77
+            "kingston": 5,
+            "scranton": 31,
+            "canadensis": 65
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Kirby%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.250772%2C-75.892027",
           "website": null,
-          "notes": "near Market St bridge in Kingston"
+          "notes": "near Market St bridge in Kingston",
+          "coordinates": {
+            "lat": 41.250772,
+            "lng": -75.892027
+          },
+          "address": "160 Market St, Wilkes-Barre, PA 18704"
         },
         {
           "name": "Church Street Park",
           "times": {
             "kingston": 5,
-            "scranton": 28,
-            "canadensis": 74
+            "scranton": 26,
+            "canadensis": 61
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Church%20Street%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.265775%2C-75.875101",
           "website": null,
-          "notes": "great playground tall slide for older kids, .5 mile walk around the playground, paved path"
+          "notes": "great playground tall slide for older kids, .5 mile walk around the playground, paved path",
+          "coordinates": {
+            "lat": 41.265775,
+            "lng": -75.875101
+          },
+          "address": "Kingston, PA 18704"
         },
         {
           "name": "Hamilton Park aka James S. Keiper Memorial Park",
           "times": {
-            "kingston": 6,
-            "scranton": 29,
-            "canadensis": 76
+            "kingston": 3,
+            "scranton": 27,
+            "canadensis": 62
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Hamilton%20Park%20aka%20James%20S.%20Keiper%20Memorial%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.263362%2C-75.878449",
           "website": null,
-          "notes": "on Hamilton Ave in Kingston"
+          "notes": "on Hamilton Ave in Kingston",
+          "coordinates": {
+            "lat": 41.263362,
+            "lng": -75.878449
+          },
+          "address": "Hamilton Ave, Kingston, PA 18704"
         },
         {
           "name": "Plains Township Municipal Park",
           "times": {
-            "kingston": 13,
-            "scranton": 26,
-            "canadensis": 73
+            "kingston": 12,
+            "scranton": 27,
+            "canadensis": 61
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Plains%20Township%20Municipal%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.285229%2C-75.832999",
           "website": null,
-          "notes": "beautiful playground. handicap accessible"
+          "notes": "beautiful playground. handicap accessible",
+          "coordinates": {
+            "lat": 41.285229,
+            "lng": -75.832999
+          },
+          "address": "Wilkes-Barre, PA 18705"
         },
         {
           "name": "Dallas Nature Playground",
           "times": {
-            "kingston": 16,
-            "scranton": 38,
-            "canadensis": 85
+            "kingston": 15,
+            "scranton": 34,
+            "canadensis": 69
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Dallas%20Nature%20Playground%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.337734%2C-75.959795",
           "website": null,
-          "notes": "use this link, if you type in Dallas playground on Google maps it doesn't bring you to the right location"
+          "notes": "use this link, if you type in Dallas playground on Google maps it doesn't bring you to the right location",
+          "coordinates": {
+            "lat": 41.337734,
+            "lng": -75.959795
+          },
+          "address": "92 Southside Ave, Dallas, PA 18612"
         },
         {
           "name": "Nay Aug Park",
           "times": {
-            "kingston": 30,
-            "scranton": 4,
-            "canadensis": 52
+            "kingston": 27,
+            "scranton": 6,
+            "canadensis": 45
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Nay%20Aug%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.400091%2C-75.644679",
           "website": null,
-          "notes": "cute nature based playground on a Lackawanna river trail head, nice paved kiddy road for bikes, mostly enclosed playground, it's on Nay Aug Avenue near Greenridge"
+          "notes": "cute nature based playground on a Lackawanna river trail head, nice paved kiddy road for bikes, mostly enclosed playground, it's on Nay Aug Avenue near Greenridge",
+          "coordinates": {
+            "lat": 41.400091,
+            "lng": -75.644679
+          },
+          "address": "500 Arthur Ave, Scranton, PA 18510"
         },
         {
           "name": "Weston Field",
           "times": {
-            "kingston": 32,
-            "scranton": 4,
-            "canadensis": 53
+            "kingston": 31,
+            "scranton": 7,
+            "canadensis": 50
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Weston%20Field%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.424207%2C-75.665615",
           "website": null,
-          "notes": "small playground, down the road from the Scranton farmers market (.5 mile), portable bathrooms"
+          "notes": "small playground, down the road from the Scranton farmers market (.5 mile), portable bathrooms",
+          "coordinates": {
+            "lat": 41.424207,
+            "lng": -75.665615
+          },
+          "address": "982 Providence Rd, Scranton, PA 18508"
         },
         {
           "name": "Monroe Street Park",
           "times": {
-            "kingston": 35,
-            "scranton": 6,
-            "canadensis": 52
+            "kingston": 31,
+            "scranton": 3,
+            "canadensis": 45
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Monroe%20Street%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.419445%2C-75.641001",
           "website": null,
-          "notes": "between clay and Monroe ave in Scranton, fields, playground, no baby swings, sandbox, super sunny"
+          "notes": "between clay and Monroe ave in Scranton, fields, playground, no baby swings, sandbox, super sunny",
+          "coordinates": {
+            "lat": 41.419445,
+            "lng": -75.641001
+          },
+          "address": "1317 Clay Ave, Scranton, PA 18510"
         },
         {
           "name": "Crowley Park",
           "times": {
-            "kingston": 35,
-            "scranton": 7,
-            "canadensis": 52
+            "kingston": 34,
+            "scranton": 8,
+            "canadensis": 46
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Crowley%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.437697%2C-75.634975",
           "website": null,
-          "notes": "Amazing climbing structures, new, basketball hoops, space to bike and shady, not much for young toddlers"
+          "notes": "Amazing climbing structures, new, basketball hoops, space to bike and shady, not much for young toddlers",
+          "coordinates": {
+            "lat": 41.437697,
+            "lng": -75.634975
+          },
+          "address": "1199 Highnett Pl #901, Scranton, PA 18509"
         },
         {
           "name": "Sarah Bratty Park",
           "times": {
-            "kingston": 43,
-            "scranton": 19,
-            "canadensis": 51
+            "kingston": 37,
+            "scranton": 20,
+            "canadensis": 45
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Sarah%20Bratty%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.481534%2C-75.550432",
           "website": null,
-          "notes": "tiny playground at a Lackawanna river trail"
+          "notes": "tiny playground at a Lackawanna river trail",
+          "coordinates": {
+            "lat": 41.481534,
+            "lng": -75.550432
+          },
+          "address": "Winton Rd & Lackawanna River Heritage Trail, Archbald, PA 18403"
         },
         {
           "name": "Factoryville Borough/Clinton Twp Joint Municipal Park",
           "times": {
-            "kingston": 61,
-            "scranton": 33,
-            "canadensis": 77
+            "kingston": 50,
+            "scranton": 29,
+            "canadensis": 63
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Factoryville%20Borough%2FClinton%20Twp%20Joint%20Municipal%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.565375%2C-75.793712",
           "website": null,
-          "notes": "AMAZING playground, tall slide and difficult playground and adorable toddler playground, way past clarks summit, huge hill to run down, stunning place"
+          "notes": "AMAZING playground, tall slide and difficult playground and adorable toddler playground, way past clarks summit, huge hill to run down, stunning place",
+          "coordinates": {
+            "lat": 41.565375,
+            "lng": -75.793712
+          },
+          "address": "166-178 Creek Rd, Factoryville, PA 18419"
         },
         {
           "name": "Mountain View Park",
           "times": {
-            "kingston": 62,
-            "scranton": 49,
-            "canadensis": 34
+            "kingston": 50,
+            "scranton": 42,
+            "canadensis": 25
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Mountain%20View%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.053555%2C-75.328706",
           "website": null,
-          "notes": "beautiful playground with lots of play structures"
+          "notes": "beautiful playground with lots of play structures",
+          "coordinates": {
+            "lat": 41.053555,
+            "lng": -75.328706
+          },
+          "address": "104 Mount View Park Ln, Tannersville, PA 18372"
         },
         {
           "name": "Firefly Playground",
           "times": {
-            "kingston": 97,
-            "scranton": 73,
-            "canadensis": 65
+            "kingston": 78,
+            "scranton": 62,
+            "canadensis": 53
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Firefly%20Playground%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.361815%2C-74.697478",
           "website": null,
-          "notes": "half way between Kingston and Monsey. only open some months of the year. call before to double check"
+          "notes": "half way between Kingston and Monsey. only open some months of the year. call before to double check",
+          "coordinates": {
+            "lat": 41.361815,
+            "lng": -74.697478
+          },
+          "address": "Avenue S, Matamoras, PA 18336"
         },
         {
           "name": "Kingston Neighborhood Park",
           "times": {
             "kingston": 5,
-            "scranton": 25,
-            "canadensis": 58
+            "scranton": 26,
+            "canadensis": 61
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Kingston%20Neighborhood%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.274327%2C-75.881792",
           "website": null,
-          "notes": "Kingston, PA 18704"
+          "notes": "Kingston, PA 18704",
+          "coordinates": {
+            "lat": 41.274327,
+            "lng": -75.881792
+          },
+          "address": "Kingston, PA 18704"
         },
         {
           "name": "Andrew Barilla Jr. Park",
           "times": {
-            "kingston": 8,
-            "scranton": 26,
-            "canadensis": 59
+            "kingston": 7,
+            "scranton": 28,
+            "canadensis": 62
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Andrew%20Barilla%20Jr.%20Park%20447%20Slocum%20St%2C%20Swoyersville%2C%20PA%2018704",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.28797%2C-75.887966",
           "website": null,
-          "notes": "447 Slocum St, Swoyersville, PA 18704  •  447 Slocum St, Kingston PA"
+          "notes": "447 Slocum St, Swoyersville, PA 18704 • 447 Slocum St, Kingston PA",
+          "coordinates": {
+            "lat": 41.28797,
+            "lng": -75.887966
+          },
+          "address": "447 Slocum St, Swoyersville, PA 18704"
         },
         {
           "name": "Barney Farms Park",
           "times": {
             "kingston": 12,
-            "scranton": 33,
-            "canadensis": 66
+            "scranton": 34,
+            "canadensis": 69
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Barney%20Farms%20Park%20178%20Reliance%20Dr%2C%20Wilkes-Barre%2C%20PA%2018702",
-          "website": "https://share.google/V58CXCrzHJE4JT26G",
-          "notes": "178 Reliance Dr, Wilkes-Barre, PA 18702 | Site: https://share.google/V58CXCrzHJE4JT26G"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.246567%2C-75.912905",
+          "website": "https://www.google.com/maps/search/?api=1&query=Barney%20Farms%20Park",
+          "notes": "178 Reliance Dr, Wilkes-Barre, PA 18702 | Site: https://www.google.com/maps/search/?api=1&query=Barney%20Farms%20Park",
+          "coordinates": {
+            "lat": 41.246567,
+            "lng": -75.912905
+          },
+          "address": "178 Reliance Dr, Wilkes-Barre, PA 18702"
         },
         {
           "name": "Jackson Township Park",
           "times": {
-            "kingston": 15,
-            "scranton": 33,
-            "canadensis": 66
+            "kingston": 16,
+            "scranton": 35,
+            "canadensis": 69
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Jackson%20Township%20Park%201275%20Huntsville%20Rd%2C%20Shavertown%2C%20PA%2018708",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.299059%2C-75.97521",
           "website": null,
-          "notes": "1275 Huntsville Rd, Shavertown, PA 18708"
+          "notes": "1275 Huntsville Rd, Shavertown, PA 18708",
+          "coordinates": {
+            "lat": 41.299059,
+            "lng": -75.97521
+          },
+          "address": "1275 Huntsville Rd, Shavertown, PA 18708"
         },
         {
           "name": "Spadi Park",
           "times": {
             "kingston": 15,
-            "scranton": 22,
-            "canadensis": 55
+            "scranton": 23,
+            "canadensis": 58
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Spadi%20Park%2012%20Main%20St%2C%20Inkerman%2C%20PA%2018640",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.29894%2C-75.809071",
           "website": null,
-          "notes": "12 Main St, Inkerman, PA 18640  •  Jenkins Township"
+          "notes": "12 Main St, Inkerman, PA 18640 • Jenkins Township",
+          "coordinates": {
+            "lat": 41.29894,
+            "lng": -75.809071
+          },
+          "address": "12 Main St, Inkerman, PA 18640"
         },
         {
           "name": "Laflin Creekside Community Playground",
           "times": {
-            "kingston": 16,
-            "scranton": 21,
-            "canadensis": 53
+            "kingston": 15,
+            "scranton": 22,
+            "canadensis": 57
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Laflin%20Creekside%20Community%20Playground%2C%20PA",
-          "website": "https://maps.app.goo.gl/WGRY38GEbe3PYX2v9",
-          "notes": "Wilkes-Barre, PA 18702  •  Recommended nice park | Site: https://maps.app.goo.gl/WGRY38GEbe3PYX2v9"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.289256%2C-75.805113",
+          "website": "https://www.google.com/maps/search/?api=1&query=Kingston%20Neighborhood%20Park",
+          "notes": "Wilkes-Barre, PA 18702  •  Recommended nice park | Site: https://www.google.com/maps/search/?api=1&query=Kingston%20Neighborhood%20Park",
+          "coordinates": {
+            "lat": 41.289256,
+            "lng": -75.805113
+          },
+          "address": "Wilkes-Barre, PA 18702"
         },
         {
           "name": "Yatesville Borough Park",
           "times": {
-            "kingston": 19,
-            "scranton": 20,
-            "canadensis": 52
+            "kingston": 18,
+            "scranton": 21,
+            "canadensis": 56
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Yatesville%20Borough%20Park%2C%20PA",
-          "website": "https://share.google/Zm9yiqVJle2Qt3gIK",
-          "notes": "Pittston Ave, Yatesville, PA 18640 | Site: https://share.google/Zm9yiqVJle2Qt3gIK"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.305588%2C-75.783296",
+          "website": "https://www.google.com/maps/search/?api=1&query=Yatesville%20Borough%20Park",
+          "notes": "Pittston Ave, Yatesville, PA 18640 | Site: https://www.google.com/maps/search/?api=1&query=Yatesville%20Borough%20Park",
+          "coordinates": {
+            "lat": 41.305588,
+            "lng": -75.783296
+          },
+          "address": "Pittston Ave, Yatesville, PA 18640"
         },
         {
           "name": "Duryea Community Park",
           "times": {
-            "kingston": 26,
-            "scranton": 17,
-            "canadensis": 49
+            "kingston": 25,
+            "scranton": 18,
+            "canadensis": 53
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Duryea%20Community%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.351479%2C-75.764029",
           "website": null,
-          "notes": "Washington St, Duryea, PA 18642  •  (570) 457-6120"
+          "notes": "Washington St, Duryea, PA 18642 • (570) 457-6120",
+          "coordinates": {
+            "lat": 41.351479,
+            "lng": -75.764029
+          },
+          "address": "Washington St, Duryea, PA 18642"
         },
         {
           "name": "Wright Township Recreation Park",
           "times": {
-            "kingston": 25,
-            "scranton": 34,
-            "canadensis": 63
+            "kingston": 24,
+            "scranton": 36,
+            "canadensis": 60
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Wright%20Township%20Recreation%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.137063%2C-75.908254",
           "website": null,
-          "notes": "Park Rd, Mountain Top, PA 18707  •  (570) 474-9067"
+          "notes": "Park Rd, Mountain Top, PA 18707 • (570) 474-9067",
+          "coordinates": {
+            "lat": 41.137063,
+            "lng": -75.908254
+          },
+          "address": "Park Rd, Mountain Top, PA 18707"
         },
         {
           "name": "Falls Playground",
           "times": {
-            "kingston": 32,
-            "scranton": 26,
-            "canadensis": 60
+            "kingston": 31,
+            "scranton": 27,
+            "canadensis": 63
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Falls%20Playground%20327%20River%20Rd%2C%20Falls%2C%20PA%2018615",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.461%2C-75.856431",
           "website": null,
-          "notes": "327 River Rd, Falls, PA 18615  •  327 River Rd, Falls, PA"
+          "notes": "327 River Rd, Falls, PA 18615 • 327 River Rd, Falls, PA",
+          "coordinates": {
+            "lat": 41.461,
+            "lng": -75.856431
+          },
+          "address": "327 River Rd, Falls, PA 18615"
         },
         {
           "name": "Hillside Park",
           "times": {
-            "kingston": 42,
-            "scranton": 16,
-            "canadensis": 50
+            "kingston": 40,
+            "scranton": 17,
+            "canadensis": 53
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Hillside%20Park%201188%20Winola%20Rd%2C%20South%20Abington%20Township%2C%20PA%2018411",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.485247%2C-75.732033",
           "website": null,
-          "notes": "1188 Winola Rd, South Abington Township, PA 18411  •  (570) 586-8996"
+          "notes": "1188 Winola Rd, South Abington Township, PA 18411 • (570) 586-8996",
+          "coordinates": {
+            "lat": 41.485247,
+            "lng": -75.732033
+          },
+          "address": "1188 Winola Rd, South Abington Township, PA 18411"
         },
         {
           "name": "Bloomsburg Town Park",
           "times": {
-            "kingston": 57,
-            "scranton": 67,
-            "canadensis": 86
+            "kingston": 56,
+            "scranton": 68,
+            "canadensis": 83
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Bloomsburg%20Town%20Park%2C%20PA",
-          "website": "https://maps.app.goo.gl/LXEDFiAJaJZn657a8",
-          "notes": "Market St, Bloomsburg, PA 17815 | Site: https://maps.app.goo.gl/LXEDFiAJaJZn657a8"
+          "map": "https://www.google.com/maps/search/?api=1&query=40.991453%2C-76.448362",
+          "website": "https://www.google.com/maps/place/Bloomsburg+Town+Park,+Market+St,+Bloomsburg,+PA+17815/data=!4m2!3m1!1s0x89c587844448db2f:0x6244d7708aa8b60a",
+          "notes": "Market St, Bloomsburg, PA 17815 | Site: https://www.google.com/maps/place/Bloomsburg+Town+Park,+Market+St,+Bloomsburg,+PA+17815/data=!4m2!3m1!1s0x89c587844448db2f:0x6244d7708aa8b60a",
+          "coordinates": {
+            "lat": 40.991453,
+            "lng": -76.448362
+          },
+          "address": "Market St, Bloomsburg, PA 17815"
         },
         {
           "name": "Covered Bridge Park",
           "times": {
-            "kingston": 66,
-            "scranton": 74,
-            "canadensis": 72
+            "kingston": 65,
+            "scranton": 76,
+            "canadensis": 69
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Covered%20Bridge%20Park%202465%20Wehr%20Mill%20Rd%2C%20Allentown%2C%20PA%2018104",
-          "website": "https://maps.app.goo.gl/s6DPHyogvkfaeVi78",
-          "notes": "2465 Wehr Mill Rd, Allentown, PA 18104  •  (610) 398-0407 | Site: https://maps.app.goo.gl/s6DPHyogvkfaeVi78"
+          "map": "https://www.google.com/maps/search/?api=1&query=40.628337%2C-75.569013",
+          "website": "https://www.google.com/maps/place/Covered+Bridge+Park,+2465+Wehr+Mill+Rd,+Allentown,+PA+18104/data=!4m2!3m1!1s0x89c4373d2b2966c1:0x63cd516e45cc2a09",
+          "notes": "2465 Wehr Mill Rd, Allentown, PA 18104  •  (610) 398-0407 | Site: https://www.google.com/maps/place/Covered+Bridge+Park,+2465+Wehr+Mill+Rd,+Allentown,+PA+18104/data=!4m2!3m1!1s0x89c4373d2b2966c1:0x63cd516e45cc2a09",
+          "coordinates": {
+            "lat": 40.628337,
+            "lng": -75.569013
+          },
+          "address": "2465 Wehr Mill Rd, Allentown, PA 18104"
         },
         {
           "name": "Cedar Beach Park",
           "times": {
-            "kingston": 70,
-            "scranton": 78,
-            "canadensis": 73
+            "kingston": 69,
+            "scranton": 80,
+            "canadensis": 70
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Cedar%20Beach%20Park%202600%20Parkway%20Blvd%2C%20Allentown%2C%20PA%2018104",
-          "website": "https://share.google/MaWrfSoI1ckJpVejt",
-          "notes": "2600 Parkway Blvd, Allentown, PA 18104  •  Big park good for all ages, Allentown | Site: https://share.google/MaWrfSoI1ckJpVejt"
+          "map": "https://www.google.com/maps/search/?api=1&query=40.593489%2C-75.51145",
+          "website": "https://www.google.com/maps/search/?api=1&query=Cedar%20Beach%20Park",
+          "notes": "2600 Parkway Blvd, Allentown, PA 18104  •  Big park good for all ages, Allentown | Site: https://www.google.com/maps/search/?api=1&query=Cedar%20Beach%20Park",
+          "coordinates": {
+            "lat": 40.593489,
+            "lng": -75.51145
+          },
+          "address": "2600 Parkway Blvd, Allentown, PA 18104"
         }
       ]
     },
@@ -514,57 +731,82 @@
         {
           "name": "Coal Street Park",
           "times": {
-            "kingston": 6,
+            "kingston": 8,
             "scranton": 27,
-            "canadensis": 74
+            "canadensis": 62
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Coal%20Street%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.241697%2C-75.870098",
           "website": null,
-          "notes": "sprinklers on till 6 pm"
+          "notes": "sprinklers on till 6 pm",
+          "coordinates": {
+            "lat": 41.241697,
+            "lng": -75.870098
+          },
+          "address": "Wilkes-Barre, PA 18702"
         },
         {
           "name": "Sherwood Park aka S. Anthony's Memorial Park",
           "times": {
-            "kingston": 32,
+            "kingston": 28,
             "scranton": 8,
-            "canadensis": 48
+            "canadensis": 42
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Sherwood%20Park%20aka%20S.%20Anthony's%20Memorial%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.422074%2C-75.615485",
           "website": null,
-          "notes": "Sherwood Park aka St Anthony's Memorial Park-  in Dunmore, New and old playground, has a splash pad and field, playground mostly enclosed"
+          "notes": "Sherwood Park aka St Anthony's Memorial Park-  in Dunmore, New and old playground, has a splash pad and field, playground mostly enclosed",
+          "coordinates": {
+            "lat": 41.422074,
+            "lng": -75.615485
+          },
+          "address": "450 Barnard St, Dunmore, PA 18512"
         },
         {
           "name": "Novembrino Park",
           "times": {
-            "kingston": 33,
-            "scranton": 4,
-            "canadensis": 56
+            "kingston": 30,
+            "scranton": 9,
+            "canadensis": 47
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Novembrino%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.409987%2C-75.680838",
           "website": null,
-          "notes": "in Scranton"
+          "notes": "in Scranton",
+          "coordinates": {
+            "lat": 41.409987,
+            "lng": -75.680838
+          },
+          "address": "Scranton, PA 18504"
         },
         {
           "name": "McDade Park",
           "times": {
-            "kingston": 35,
-            "scranton": 10,
-            "canadensis": 61
+            "kingston": 29,
+            "scranton": 17,
+            "canadensis": 53
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=McDade%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.417116%2C-75.711143",
           "website": null,
-          "notes": "by the coal mine, gorgeous place for pictures, great, open playground, small lake, sandbox and lots of fields. splashed open 11-7 daily . to find splashpad:Look for signs for the pool. It’s to the left about. 1/4 mile after the playground up a driveway on the left"
+          "notes": "by the coal mine, gorgeous place for pictures, great, open playground, small lake, sandbox and lots of fields. splashed open 11-7 daily . to find splashpad:Look for signs for the pool. It’s to the left about. 1/4 mile after the playground up a driveway on the left",
+          "coordinates": {
+            "lat": 41.417116,
+            "lng": -75.711143
+          },
+          "address": "1 Bald Mountain Rd, Scranton, PA 18507"
         },
         {
           "name": "South Abington Community Park",
           "times": {
-            "kingston": 42,
-            "scranton": 12,
-            "canadensis": 58
+            "kingston": 34,
+            "scranton": 13,
+            "canadensis": 47
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=South%20Abington%20Community%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.478495%2C-75.684019",
           "website": null,
-          "notes": "clarks summit, creek with paved path along side, playground, sandbox, splash pad"
+          "notes": "clarks summit, creek with paved path along side, playground, sandbox, splash pad",
+          "coordinates": {
+            "lat": 41.478495,
+            "lng": -75.684019
+          },
+          "address": "642 Northern Blvd, South Abington Township, PA 18411"
         }
       ]
     },
@@ -574,35 +816,50 @@
         {
           "name": "Nova Trampoline Park",
           "times": {
-            "kingston": 10,
-            "scranton": 29,
-            "canadensis": 76
+            "kingston": 11,
+            "scranton": 31,
+            "canadensis": 65
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Nova%20Trampoline%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.300872%2C-75.849079",
           "website": null,
-          "notes": ""
+          "notes": "",
+          "coordinates": {
+            "lat": 41.300872,
+            "lng": -75.849079
+          },
+          "address": "1080 Wyoming Ave, Wyoming, PA 18644"
         },
         {
           "name": "Sky Zone Trampoline Park",
           "times": {
-            "kingston": 20,
-            "scranton": 17,
-            "canadensis": 64
+            "kingston": 16,
+            "scranton": 18,
+            "canadensis": 53
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.309913%2C-75.765647",
           "website": null,
-          "notes": ""
+          "notes": "",
+          "coordinates": {
+            "lat": 41.309913,
+            "lng": -75.765647
+          },
+          "address": "195 Enterprise Way, Pittston, PA 18640"
         },
         {
           "name": "Defy Scranton",
           "times": {
-            "kingston": 40,
-            "scranton": 12,
-            "canadensis": 55
+            "kingston": 33,
+            "scranton": 13,
+            "canadensis": 46
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Defy%20Scranton%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.468952%2C-75.645205",
           "website": null,
-          "notes": "Website"
+          "notes": "Website",
+          "coordinates": {
+            "lat": 41.468952,
+            "lng": -75.645205
+          },
+          "address": "1011 Scranton Carbondale Hwy Ste #1, Scranton, PA 18508"
         }
       ]
     },
@@ -613,166 +870,241 @@
           "name": "The Lands at Hillside Farms",
           "times": {
             "kingston": 10,
-            "scranton": 32,
-            "canadensis": 79
+            "scranton": 29,
+            "canadensis": 63
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=The%20Lands%20at%20Hillside%20Farms%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.298439%2C-75.934531",
           "website": null,
-          "notes": "animals and a creek"
+          "notes": "animals and a creek",
+          "coordinates": {
+            "lat": 41.298439,
+            "lng": -75.934531
+          },
+          "address": "65 Hillside Rd, Shavertown, PA 18708"
         },
         {
           "name": "Safari Farm Petting Zoo",
           "times": {
-            "kingston": 47,
-            "scranton": 23,
-            "canadensis": 37
+            "kingston": 38,
+            "scranton": 21,
+            "canadensis": 34
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Safari%20Farm%20Petting%20Zoo%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.409996%2C-75.449202",
           "website": null,
-          "notes": "Great for getting kids used to animals, they let you touch them and you can feed them. It's not very large"
+          "notes": "Great for getting kids used to animals, they let you touch them and you can feed them. It's not very large",
+          "coordinates": {
+            "lat": 41.409996,
+            "lng": -75.449202
+          },
+          "address": "1675 Mt Cobb Rd, Lake Ariel, PA 18436"
         },
         {
           "name": "Quiet Valley Living Historical Farm",
           "times": {
-            "kingston": 75,
-            "scranton": 61,
-            "canadensis": 48
+            "kingston": 58,
+            "scranton": 50,
+            "canadensis": 34
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Quiet%20Valley%20Living%20Historical%20Farm%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.957931%2C-75.252682",
           "website": null,
-          "notes": "Website"
+          "notes": "Website",
+          "coordinates": {
+            "lat": 40.957931,
+            "lng": -75.252682
+          },
+          "address": "347 Quiet Valley Rd, Stroudsburg, PA 18360"
         },
         {
           "name": "Alpacas of Sunshine Farm",
           "times": {
-            "kingston": 80,
-            "scranton": 53,
-            "canadensis": 96
+            "kingston": 63,
+            "scranton": 43,
+            "canadensis": 76
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Alpacas%20of%20Sunshine%20Farm%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.884427%2C-75.672219",
           "website": null,
-          "notes": "You get to go in right with the alpacas. It's free. there's no hours, you have to call to see if they'll be around when you want to come it's the owner's hobby CALL BEFORE"
+          "notes": "You get to go in right with the alpacas. It's free. there's no hours, you have to call to see if they'll be around when you want to come it's the owner's hobby CALL BEFORE",
+          "coordinates": {
+            "lat": 41.884427,
+            "lng": -75.672219
+          },
+          "address": "2312 E Lake Rd, New Milford, PA 18834"
         },
         {
           "name": "Lehigh Valley Zoo",
           "times": {
-            "kingston": 91,
-            "scranton": 101,
-            "canadensis": 108
+            "kingston": 75,
+            "scranton": 86,
+            "canadensis": 81
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Valley%20Zoo%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.658722%2C-75.627304",
           "website": null,
-          "notes": "zoo"
+          "notes": "zoo",
+          "coordinates": {
+            "lat": 40.658722,
+            "lng": -75.627304
+          },
+          "address": "5150 Game Preserve Rd, Schnecksville, PA 18078"
         },
         {
           "name": "The Preserve",
           "times": {
-            "kingston": 116,
-            "scranton": 89,
-            "canadensis": 131
+            "kingston": 89,
+            "scranton": 69,
+            "canadensis": 102
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=The%20Preserve%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=42.158228%2C-75.661682",
           "website": null,
-          "notes": "drive through zoo near Binghamton"
+          "notes": "drive through zoo near Binghamton",
+          "coordinates": {
+            "lat": 42.158228,
+            "lng": -75.661682
+          },
+          "address": "42 Pease Rd, Harpursville, NY 13787"
         },
         {
           "name": "Goldschein's Homestead",
           "times": {
-            "kingston": 140,
-            "scranton": 116,
-            "canadensis": 107
+            "kingston": 117,
+            "scranton": 100,
+            "canadensis": 91
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Goldschein's%20Homestead%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.813577%2C-74.755887",
           "website": null,
-          "notes": "upstate NY"
+          "notes": "upstate NY",
+          "coordinates": {
+            "lat": 41.813577,
+            "lng": -74.755887
+          },
+          "address": "196 Revonah Hill Rd, Liberty, NY 12754"
         },
         {
           "name": "Puppies & More",
           "times": {
-            "kingston": 4,
-            "scranton": 30,
-            "canadensis": 63
+            "kingston": 6,
+            "scranton": 32,
+            "canadensis": 66
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Puppies%20%26%20More%2075%20S%20Wyoming%20Ave%2C%20Kingston%2C%20PA%2018704",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.257459%2C-75.901237",
           "website": "https://maps.google.com/?cid=7535749191563745533",
-          "notes": "75 S Wyoming Ave, Kingston, PA 18704  •  (570) 714-3101 | Site: https://maps.google.com/?cid=7535749191563745533"
+          "notes": "75 S Wyoming Ave, Kingston, PA 18704  •  (570) 714-3101 | Site: https://maps.google.com/?cid=7535749191563745533",
+          "coordinates": {
+            "lat": 41.257459,
+            "lng": -75.901237
+          },
+          "address": "75 S Wyoming Ave, Kingston, PA 18704"
         },
         {
           "name": "Bear Mountain Butterfly Sanctuary",
           "times": {
-            "kingston": 37,
-            "scranton": 45,
-            "canadensis": 52
+            "kingston": 36,
+            "scranton": 47,
+            "canadensis": 49
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Bear%20Mountain%20Butterfly%20Sanctuary%2018%20Church%20Rd%2C%20Jim%20Thorpe%2C%20PA%2018229",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.940108%2C-75.656024",
           "website": "https://bearmountainbutterflies.com",
-          "notes": "18 Church Rd, Jim Thorpe, PA 18229  •  Indoor; insects, crafts, films | Site: https://bearmountainbutterflies.com"
+          "notes": "18 Church Rd, Jim Thorpe, PA 18229  •  Indoor; insects, crafts, films | Site: https://bearmountainbutterflies.com",
+          "coordinates": {
+            "lat": 40.940108,
+            "lng": -75.656024
+          },
+          "address": "18 Church Rd, Jim Thorpe, PA 18229"
         },
         {
           "name": "Safari Farm Petting Zoo & Sanctuary",
           "times": {
-            "kingston": 40,
+            "kingston": 38,
             "scranton": 21,
-            "canadensis": 31
+            "canadensis": 34
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Safari%20Farm%20Petting%20Zoo%20%26%20Sanctuary%201675%20Mt%20Cobb%20Rd%2C%20Lake%20Ariel%2C%20PA%2018436",
-          "website": "https://g.co/kgs/Zzw7xTK",
-          "notes": "1675 Mt Cobb Rd, Lake Ariel, PA 18436 | Site: https://g.co/kgs/Zzw7xTK"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.409996%2C-75.449202",
+          "website": "https://www.google.com/maps/search/?api=1&query=Safari%20Farm%20Petting%20Zoo%20%26%20Sanctuary",
+          "notes": "1675 Mt Cobb Rd, Lake Ariel, PA 18436 | Site: https://www.google.com/maps/search/?api=1&query=Safari%20Farm%20Petting%20Zoo%20%26%20Sanctuary",
+          "coordinates": {
+            "lat": 41.409996,
+            "lng": -75.449202
+          },
+          "address": "1675 Mt Cobb Rd, Lake Ariel, PA 18436"
         },
         {
           "name": "Alpacas of Windy Haven Farm",
           "times": {
-            "kingston": 42,
+            "kingston": 41,
             "scranton": 24,
             "canadensis": 37
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Alpacas%20of%20Windy%20Haven%20Farm%20153%20Center%20St%2C%20Covington%20Township%2C%20PA%2018424",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.309494%2C-75.503684",
           "website": null,
-          "notes": "153 Center St, Covington Township, PA 18424  •  (570) 955-8228; call ahead"
+          "notes": "153 Center St, Covington Township, PA 18424 • (570) 955-8228; call ahead",
+          "coordinates": {
+            "lat": 41.309494,
+            "lng": -75.503684
+          },
+          "address": "153 Center St, Covington Township, PA 18424"
         },
         {
           "name": "Pocono Snake & Animal Farm",
           "times": {
-            "kingston": 62,
-            "scranton": 52,
-            "canadensis": 32
+            "kingston": 61,
+            "scranton": 53,
+            "canadensis": 29
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Pocono%20Snake%20%26%20Animal%20Farm%20424%20Seven%20Bridge%20Rd%2C%20East%20Stroudsburg%2C%20PA%2018301",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.021527%2C-75.129267",
           "website": null,
-          "notes": "424 Seven Bridge Rd, East Stroudsburg, PA 18301  •  (570) 223-8653"
+          "notes": "424 Seven Bridge Rd, East Stroudsburg, PA 18301 • (570) 223-8653",
+          "coordinates": {
+            "lat": 41.021527,
+            "lng": -75.129267
+          },
+          "address": "424 Seven Bridge Rd, East Stroudsburg, PA 18301"
         },
         {
           "name": "Animal Adventure Park",
           "times": {
-            "kingston": 91,
-            "scranton": 68,
-            "canadensis": 99
+            "kingston": 89,
+            "scranton": 70,
+            "canadensis": 102
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Animal%20Adventure%20Park%2085%20Martin%20Hill%20Rd%2C%20Harpursville%2C%20NY%2013787",
+          "map": "https://www.google.com/maps/search/?api=1&query=42.153897%2C-75.668072",
           "website": "https://theanimaladventurepreserve.com/",
-          "notes": "85 Martin Hill Rd, Harpursville, NY 13787 | Site: https://theanimaladventurepreserve.com/"
+          "notes": "85 Martin Hill Rd, Harpursville, NY 13787 | Site: https://theanimaladventurepreserve.com/",
+          "coordinates": {
+            "lat": 42.153897,
+            "lng": -75.668072
+          },
+          "address": "85 Martin Hill Rd, Harpursville, NY 13787"
         },
         {
           "name": "Philadelphia Zoo",
           "times": {
-            "kingston": 112,
-            "scranton": 120,
-            "canadensis": 122
+            "kingston": 110,
+            "scranton": 121,
+            "canadensis": 118
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Philadelphia%20Zoo%203400%20W%20Girard%20Ave%2C%20Philadelphia%2C%20PA%2019104",
+          "map": "https://www.google.com/maps/search/?api=1&query=39.971496%2C-75.195538",
           "website": null,
-          "notes": "3400 W Girard Ave, Philadelphia, PA 19104"
+          "notes": "3400 W Girard Ave, Philadelphia, PA 19104",
+          "coordinates": {
+            "lat": 39.971496,
+            "lng": -75.195538
+          },
+          "address": "3400 W Girard Ave, Philadelphia, PA 19104"
         },
         {
           "name": "Essex County Turtle Back Zoo",
           "times": {
-            "kingston": 116,
-            "scranton": 105,
-            "canadensis": 89
+            "kingston": 115,
+            "scranton": 106,
+            "canadensis": 86
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Essex%20County%20Turtle%20Back%20Zoo%20560%20Northfield%20Ave%2C%20West%20Orange%2C%20NJ%2007052",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.767685%2C-74.279911",
           "website": "http://turtlebackzoo.com/",
-          "notes": "560 Northfield Ave, West Orange, NJ 07052 | Site: http://turtlebackzoo.com/"
+          "notes": "560 Northfield Ave, West Orange, NJ 07052 | Site: http://turtlebackzoo.com/",
+          "coordinates": {
+            "lat": 40.767685,
+            "lng": -74.279911
+          },
+          "address": "560 Northfield Ave, West Orange, NJ 07052"
         }
       ]
     },
@@ -783,12 +1115,17 @@
           "name": "Edward's Garden Center",
           "times": {
             "kingston": 6,
-            "scranton": 27,
-            "canadensis": 73
+            "scranton": 26,
+            "canadensis": 60
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Edward's%20Garden%20Center%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.270979%2C-75.872099",
           "website": null,
-          "notes": ""
+          "notes": "",
+          "coordinates": {
+            "lat": 41.270979,
+            "lng": -75.872099
+          },
+          "address": "525 River St, Forty Fort, PA 18704"
         }
       ]
     },
@@ -798,13 +1135,18 @@
         {
           "name": "Big Brown Fish & Pay Lakes",
           "times": {
-            "kingston": 58,
-            "scranton": 62,
-            "canadensis": 52
+            "kingston": 50,
+            "scranton": 55,
+            "canadensis": 40
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Big%20Brown%20Fish%20%26%20Pay%20Lakes%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.942804%2C-75.439153",
           "website": null,
-          "notes": "Big brown is a fishing lake with 3 different skill levels . You can rent equipment and they'll even gut the fish for you"
+          "notes": "Big brown is a fishing lake with 3 different skill levels . You can rent equipment and they'll even gut the fish for you",
+          "coordinates": {
+            "lat": 40.942804,
+            "lng": -75.439153
+          },
+          "address": "2668 PA-115, Effort, PA 18330"
         }
       ]
     },
@@ -814,46 +1156,66 @@
         {
           "name": "Bloomsburg Children's Museum",
           "times": {
-            "kingston": 62,
-            "scranton": 78,
-            "canadensis": 105
+            "kingston": 56,
+            "scranton": 68,
+            "canadensis": 83
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Bloomsburg%20Children's%20Museum%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.997792%2C-76.452386",
           "website": null,
-          "notes": "children's museum"
+          "notes": "children's museum",
+          "coordinates": {
+            "lat": 40.997792,
+            "lng": -76.452386
+          },
+          "address": "2 W 7th St, Bloomsburg, PA 17815"
         },
         {
           "name": "Da Vinci Science Center",
           "times": {
-            "kingston": 83,
-            "scranton": 93,
-            "canadensis": 88
+            "kingston": 72,
+            "scranton": 82,
+            "canadensis": 69
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Da%20Vinci%20Science%20Center%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.601887%2C-75.474579",
           "website": null,
-          "notes": "science museum"
+          "notes": "science museum",
+          "coordinates": {
+            "lat": 40.601887,
+            "lng": -75.474579
+          },
+          "address": "815 Hamilton St, Allentown, PA 18101"
         },
         {
           "name": "America on Wheels",
           "times": {
-            "kingston": 84,
-            "scranton": 94,
-            "canadensis": 86
+            "kingston": 70,
+            "scranton": 80,
+            "canadensis": 64
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=America%20on%20Wheels%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.606715%2C-75.456499",
           "website": null,
-          "notes": "For those with EBT $3 Adult. Kids under 12 free on weekends. Perfect for all males (kids and adults) and some females 😉"
+          "notes": "For those with EBT $3 Adult. Kids under 12 free on weekends. Perfect for all males (kids and adults) and some females 😉",
+          "coordinates": {
+            "lat": 40.606715,
+            "lng": -75.456499
+          },
+          "address": "5 N Front St, Allentown, PA 18102"
         },
         {
           "name": "Dorflinger Glass Museum",
           "times": {
-            "kingston": 86,
-            "scranton": 63,
-            "canadensis": 60
+            "kingston": 63,
+            "scranton": 46,
+            "canadensis": 46
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Dorflinger%20Glass%20Museum%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.526602%2C-75.203196",
           "website": null,
-          "notes": "call ahead, not open daily Website"
+          "notes": "call ahead, not open daily Website",
+          "coordinates": {
+            "lat": 41.526602,
+            "lng": -75.203196
+          },
+          "address": "670 Texas Palmyra Hwy, Hawley, PA 18428"
         },
         {
           "name": "general museum location finder",
@@ -864,117 +1226,169 @@
           },
           "map": "https://www.google.com/maps/search/?api=1&query=general%20museum%20location%20finder%2C%20PA",
           "website": null,
-          "notes": "For those on food stamps, you can get into some museums at a very big discount or free"
+          "notes": "For those on food stamps, you can get into some museums at a very big discount or free",
+          "coordinates": null,
+          "address": null
         },
         {
           "name": "Everhart Museum",
           "times": {
-            "kingston": 29,
-            "scranton": 8,
-            "canadensis": 42
+            "kingston": 27,
+            "scranton": 6,
+            "canadensis": 45
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Everhart%20Museum%201901%20Mulberry%20St%2C%20Scranton%2C%20PA%2018510",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.400696%2C-75.644211",
           "website": "https://everhart-museum.org/",
-          "notes": "1901 Mulberry St, Scranton, PA 18510 | Site: https://everhart-museum.org/"
+          "notes": "1901 Mulberry St, Scranton, PA 18510 | Site: https://everhart-museum.org/",
+          "coordinates": {
+            "lat": 41.400696,
+            "lng": -75.644211
+          },
+          "address": "1901 Mulberry St, Scranton, PA 18510"
         },
         {
           "name": "Steamtown National Historic Site",
           "times": {
-            "kingston": 31,
-            "scranton": 5,
-            "canadensis": 44
+            "kingston": 29,
+            "scranton": 8,
+            "canadensis": 47
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Steamtown%20National%20Historic%20Site%20350%20Cliff%20St%2C%20Scranton%2C%20PA%2018503",
-          "website": "https://share.google/m144MXeDf63cbWzPK",
-          "notes": "350 Cliff St, Scranton, PA 18503 | Site: https://share.google/m144MXeDf63cbWzPK"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.407906%2C-75.672011",
+          "website": "https://www.nps.gov/stea/planyourvisit/railfest-at-steamtown-national-historic-site.htm",
+          "notes": "350 Cliff St, Scranton, PA 18503 | Site: https://www.nps.gov/stea/planyourvisit/railfest-at-steamtown-national-historic-site.htm",
+          "coordinates": {
+            "lat": 41.407906,
+            "lng": -75.672011
+          },
+          "address": "350 Cliff St, Scranton, PA 18503"
         },
         {
           "name": "The Electric City Trolley Museum",
           "times": {
-            "kingston": 32,
-            "scranton": 6,
-            "canadensis": 45
+            "kingston": 30,
+            "scranton": 9,
+            "canadensis": 48
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=The%20Electric%20City%20Trolley%20Museum%20300%20Cliff%20St%2C%20Scranton%2C%20PA%2018503",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.409508%2C-75.67342",
           "website": null,
-          "notes": "300 Cliff St, Scranton, PA 18503"
+          "notes": "300 Cliff St, Scranton, PA 18503",
+          "coordinates": {
+            "lat": 41.409508,
+            "lng": -75.67342
+          },
+          "address": "300 Cliff St, Scranton, PA 18503"
         },
         {
           "name": "Asa Packer Mansion Museum",
           "times": {
-            "kingston": 48,
-            "scranton": 56,
-            "canadensis": 63
+            "kingston": 46,
+            "scranton": 57,
+            "canadensis": 60
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Asa%20Packer%20Mansion%20Museum%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.864498%2C-75.738194",
           "website": "https://www.asapackermansion.com/",
-          "notes": "Packer Hill Ave, Jim Thorpe, PA 18229 | Site: https://www.asapackermansion.com/"
+          "notes": "Packer Hill Ave, Jim Thorpe, PA 18229 | Site: https://www.asapackermansion.com/",
+          "coordinates": {
+            "lat": 40.864498,
+            "lng": -75.738194
+          },
+          "address": "Packer Hill Ave, Jim Thorpe, PA 18229"
         },
         {
           "name": "Old Jail Museum",
           "times": {
-            "kingston": 49,
-            "scranton": 58,
-            "canadensis": 64
+            "kingston": 48,
+            "scranton": 59,
+            "canadensis": 61
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Old%20Jail%20Museum%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.863719%2C-75.746456",
           "website": null,
-          "notes": "128 W Broadway, Jim Thorpe, PA 18229  •  (570) 325-5259"
+          "notes": "128 W Broadway, Jim Thorpe, PA 18229 • (570) 325-5259",
+          "coordinates": {
+            "lat": 40.863719,
+            "lng": -75.746456
+          },
+          "address": "128 W Broadway, Jim Thorpe, PA 18229"
         },
         {
           "name": "Delaware & Hudson Canal Park at Lock 31",
           "times": {
-            "kingston": 69,
+            "kingston": 67,
             "scranton": 50,
-            "canadensis": 41
+            "canadensis": 42
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Delaware%20%26%20Hudson%20Canal%20Park%20at%20Lock%2031%20179%20Texas%20Palmyra%20Hwy%2C%20Hawley%2C%20PA%2018428",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.493942%2C-75.194869",
           "website": "https://www.waynehistorypa.com/museums/canalparklock31",
-          "notes": "179 Texas Palmyra Hwy, Hawley, PA 18428 | Site: https://www.waynehistorypa.com/museums/canalparklock31"
+          "notes": "179 Texas Palmyra Hwy, Hawley, PA 18428 | Site: https://www.waynehistorypa.com/museums/canalparklock31",
+          "coordinates": {
+            "lat": 41.493942,
+            "lng": -75.194869
+          },
+          "address": "179 Texas Palmyra Hwy, Hawley, PA 18428"
         },
         {
           "name": "Grey Towers National Historic Site",
           "times": {
-            "kingston": 72,
-            "scranton": 53,
-            "canadensis": 43
+            "kingston": 71,
+            "scranton": 54,
+            "canadensis": 46
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Grey%20Towers%20National%20Historic%20Site%20151%20Grey%20Towers%20Dr%20Drive%2C%20Milford%2C%20PA%2018337",
-          "website": "https://g.co/kgs/uTZyqXp",
-          "notes": "151 Grey Towers Dr Drive, Milford, PA 18337  •  (570) 296-9630 | Site: https://g.co/kgs/uTZyqXp"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.328158%2C-74.818904",
+          "website": "https://www.google.com/maps/search/?api=1&query=Grey%20Towers%20National%20Historic%20Site",
+          "notes": "151 Grey Towers Dr Drive, Milford, PA 18337  •  (570) 296-9630 | Site: https://www.google.com/maps/search/?api=1&query=Grey%20Towers%20National%20Historic%20Site",
+          "coordinates": {
+            "lat": 41.328158,
+            "lng": -74.818904
+          },
+          "address": "151 Grey Towers Dr Drive, Milford, PA 18337"
         },
         {
           "name": "Lewisburg Children's Museum",
           "times": {
-            "kingston": 83,
-            "scranton": 92,
-            "canadensis": 112
+            "kingston": 82,
+            "scranton": 94,
+            "canadensis": 108
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lewisburg%20Children's%20Museum%20815%20Market%20St%20%2314%2C%20Lewisburg%2C%20PA%2017837",
-          "website": "https://g.co/kgs/LvktpX2",
-          "notes": "815 Market St #14, Lewisburg, PA 17837  •  Better than Bloomsburg; kids spend 3+ hrs | Site: https://g.co/kgs/LvktpX2"
+          "map": "https://www.google.com/maps/search/?api=1&query=40.960136%2C-76.891763",
+          "website": "https://www.google.com/maps/search/?api=1&query=Lewisburg%20Children%27s%20Museum",
+          "notes": "815 Market St #14, Lewisburg, PA 17837  •  Better than Bloomsburg; kids spend 3+ hrs | Site: https://www.google.com/maps/search/?api=1&query=Lewisburg%20Children%27s%20Museum",
+          "coordinates": {
+            "lat": 40.960136,
+            "lng": -76.891763
+          },
+          "address": "815 Market St #14, Lewisburg, PA 17837"
         },
         {
           "name": "National Canal Museum",
           "times": {
-            "kingston": 86,
-            "scranton": 75,
-            "canadensis": 63
+            "kingston": 85,
+            "scranton": 76,
+            "canadensis": 60
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=National%20Canal%20Museum%202750%20Hugh%20Moore%20Park%20Rd%2C%20Easton%2C%20PA%2018042",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.662085%2C-75.239176",
           "website": null,
-          "notes": "2750 Hugh Moore Park Rd, Easton, PA 18042"
+          "notes": "2750 Hugh Moore Park Rd, Easton, PA 18042",
+          "coordinates": {
+            "lat": 40.662085,
+            "lng": -75.239176
+          },
+          "address": "2750 Hugh Moore Park Rd, Easton, PA 18042"
         },
         {
           "name": "The Discovery Center of the Southern Tier",
           "times": {
-            "kingston": 89,
-            "scranton": 67,
-            "canadensis": 98
+            "kingston": 88,
+            "scranton": 68,
+            "canadensis": 101
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=The%20Discovery%20Center%20of%20the%20Southern%20Tier%2060%20Morgan%20Rd%2C%20Binghamton%2C%20NY%2013903",
-          "website": "https://g.co/kgs/KoNn7w9",
-          "notes": "60 Morgan Rd, Binghamton, NY 13903 | Site: https://g.co/kgs/KoNn7w9"
+          "map": "https://www.google.com/maps/search/?api=1&query=42.073813%2C-75.903749",
+          "website": "https://www.google.com/maps/search/?api=1&query=The%20Discovery%20Center%20of%20the%20Southern%20Tier",
+          "notes": "60 Morgan Rd, Binghamton, NY 13903 | Site: https://www.google.com/maps/search/?api=1&query=The%20Discovery%20Center%20of%20the%20Southern%20Tier",
+          "coordinates": {
+            "lat": 42.073813,
+            "lng": -75.903749
+          },
+          "address": "60 Morgan Rd, Binghamton, NY 13903"
         }
       ]
     },
@@ -984,68 +1398,98 @@
         {
           "name": "Seven Tubs Recreation Area",
           "times": {
-            "kingston": 13,
-            "scranton": 25,
-            "canadensis": 72
+            "kingston": 12,
+            "scranton": 24,
+            "canadensis": 57
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Seven%20Tubs%20Recreation%20Area%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.235463%2C-75.810687",
           "website": null,
-          "notes": ""
+          "notes": "",
+          "coordinates": {
+            "lat": 41.235463,
+            "lng": -75.810687
+          },
+          "address": "900 Bear Creek Blvd, Wilkes-Barre, PA 18702"
         },
         {
           "name": "Natural Lands' Bear Creek Preserve",
           "times": {
-            "kingston": 26,
-            "scranton": 38,
-            "canadensis": 61
+            "kingston": 22,
+            "scranton": 34,
+            "canadensis": 45
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Natural%20Lands'%20Bear%20Creek%20Preserve%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.179753%2C-75.705164",
           "website": null,
-          "notes": ""
+          "notes": "",
+          "coordinates": {
+            "lat": 41.179753,
+            "lng": -75.705164
+          },
+          "address": "47 Rabbit Run Ln, Bear Creek Village, PA 18702"
         },
         {
           "name": "Eales Preserve at Moosic Mountain",
           "times": {
-            "kingston": 40,
+            "kingston": 33,
             "scranton": 17,
-            "canadensis": 42
+            "canadensis": 36
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Eales%20Preserve%20at%20Moosic%20Mountain%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.438252%2C-75.541163",
           "website": null,
-          "notes": "Really gorgeous hike not too far from here"
+          "notes": "Really gorgeous hike not too far from here",
+          "coordinates": {
+            "lat": 41.438252,
+            "lng": -75.541163
+          },
+          "address": "222 In The Deed, Jessup, PA 18434"
         },
         {
           "name": "Ricketts Glen Falls",
           "times": {
-            "kingston": 43,
-            "scranton": 65,
-            "canadensis": 112
+            "kingston": 36,
+            "scranton": 55,
+            "canadensis": 90
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Ricketts%20Glen%20Falls%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.31249%2C-76.275095",
           "website": null,
-          "notes": "the link shared may not bring you to the right spot for the hike, research the correct link. amazing waterfall hike (long about 3-4 hours) and hard but fun, beach and boating other smaller hikes also"
+          "notes": "the link shared may not bring you to the right spot for the hike, research the correct link. amazing waterfall hike (long about 3-4 hours) and hard but fun, beach and boating other smaller hikes also",
+          "coordinates": {
+            "lat": 41.31249,
+            "lng": -76.275095
+          },
+          "address": "Ricketts Glen Falls Trail, Fairmount Township, PA"
         },
         {
           "name": "Hawk Falls Parking",
           "times": {
-            "kingston": 48,
-            "scranton": 57,
-            "canadensis": 57
+            "kingston": 39,
+            "scranton": 50,
+            "canadensis": 50
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Hawk%20Falls%20Parking%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.010787%2C-75.634039",
           "website": null,
-          "notes": "waterfall. near boulders field"
+          "notes": "waterfall. near boulders field",
+          "coordinates": {
+            "lat": 41.010787,
+            "lng": -75.634039
+          },
+          "address": "2812 PA-534, Albrightsville, PA 18210"
         },
         {
           "name": "Rail Gap Pocono Creek Nature Preserve",
           "times": {
-            "kingston": 68,
-            "scranton": 54,
-            "canadensis": 41
+            "kingston": 54,
+            "scranton": 45,
+            "canadensis": 30
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Rail%20Gap%20Pocono%20Creek%20Nature%20Preserve%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.9913%2C-75.255765",
           "website": null,
-          "notes": "A few really nice, short kid friendly hikes"
+          "notes": "A few really nice, short kid friendly hikes",
+          "coordinates": {
+            "lat": 40.9913,
+            "lng": -75.255765
+          },
+          "address": "3555 Shafers School House Rd, Stroudsburg, PA 18360"
         },
         {
           "name": "Wheelchair/stroller friendly",
@@ -1056,84 +1500,121 @@
           },
           "map": "https://www.google.com/maps/search/?api=1&query=Wheelchair%2Fstroller%20friendly%2C%20PA",
           "website": null,
-          "notes": ""
+          "notes": "",
+          "coordinates": null,
+          "address": null
         },
         {
           "name": "Susquehanna Riverlands",
           "times": {
-            "kingston": 33,
-            "scranton": 50,
-            "canadensis": 83
+            "kingston": 36,
+            "scranton": 51,
+            "canadensis": 82
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Susquehanna%20Riverlands%20634%20Salem%20Blvd%2C%20Berwick%2C%20PA%2018603",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.096191%2C-76.134761",
           "website": null,
-          "notes": "634 Salem Blvd, Berwick, PA 18603"
+          "notes": "634 Salem Blvd, Berwick, PA 18603",
+          "coordinates": {
+            "lat": 41.096191,
+            "lng": -76.134761
+          },
+          "address": "634 Salem Blvd, Berwick, PA 18603"
         },
         {
           "name": "Austin T. Blakeslee Natural Area",
           "times": {
-            "kingston": 34,
+            "kingston": 33,
             "scranton": 43,
-            "canadensis": 37
+            "canadensis": 34
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Austin%20T.%20Blakeslee%20Natural%20Area%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.083245%2C-75.584556",
           "website": null,
-          "notes": "20 PA-115, Blakeslee, PA 18610"
+          "notes": "20 PA-115, Blakeslee, PA 18610",
+          "coordinates": {
+            "lat": 41.083245,
+            "lng": -75.584556
+          },
+          "address": "20 PA-115, Blakeslee, PA 18610"
         },
         {
           "name": "D&L Trail White Haven North Trailhead",
           "times": {
-            "kingston": 33,
-            "scranton": 41,
-            "canadensis": 48
+            "kingston": 32,
+            "scranton": 42,
+            "canadensis": 45
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=D%26L%20Trail%20White%20Haven%20North%20Trailhead%20201%20Main%20St%2C%20White%20Haven%2C%20PA%2018661",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.063164%2C-75.772752",
           "website": null,
-          "notes": "201 Main St, White Haven, PA 18661  •  Bike trail; rentals at entrance"
+          "notes": "201 Main St, White Haven, PA 18661 • Bike trail; rentals at entrance",
+          "coordinates": {
+            "lat": 41.063164,
+            "lng": -75.772752
+          },
+          "address": "201 Main St, White Haven, PA 18661"
         },
         {
           "name": "Lazybrook Park",
           "times": {
-            "kingston": 44,
-            "scranton": 33,
-            "canadensis": 65
+            "kingston": 43,
+            "scranton": 34,
+            "canadensis": 68
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lazybrook%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.553104%2C-75.897872",
           "website": null,
-          "notes": "152 Lazy Brk Pk, Tunkhannock, PA 18657"
+          "notes": "152 Lazy Brk Pk, Tunkhannock, PA 18657",
+          "coordinates": {
+            "lat": 41.553104,
+            "lng": -75.897872
+          },
+          "address": "152 Lazy Brk Pk, Tunkhannock, PA 18657"
         },
         {
           "name": "Shades Of Death Trailhead",
           "times": {
-            "kingston": 39,
-            "scranton": 47,
-            "canadensis": 52
+            "kingston": 38,
+            "scranton": 49,
+            "canadensis": 49
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Shades%20Of%20Death%20Trailhead%2C%20PA",
-          "website": "https://maps.app.goo.gl/nfdAw7NSQJ2Rp9GW8",
-          "notes": "PA-534, Jim Thorpe, PA 18229 | Site: https://maps.app.goo.gl/nfdAw7NSQJ2Rp9GW8"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.024701%2C-75.709164",
+          "website": "https://www.google.com/maps/place/Shades+Of+Death+Trail,+PA-534,+Albrightsville,+PA+18229/data=!4m2!3m1!1s0x89c45555bee0f1bb:0xb28ed59263496180",
+          "notes": "PA-534, Jim Thorpe, PA 18229 | Site: https://www.google.com/maps/place/Shades+Of+Death+Trail,+PA-534,+Albrightsville,+PA+18229/data=!4m2!3m1!1s0x89c45555bee0f1bb:0xb28ed59263496180",
+          "coordinates": {
+            "lat": 41.024701,
+            "lng": -75.709164
+          },
+          "address": "PA-534, Jim Thorpe, PA 18229"
         },
         {
           "name": "Hickory Run State Park",
           "times": {
-            "kingston": 42,
-            "scranton": 50,
-            "canadensis": 54
+            "kingston": 41,
+            "scranton": 52,
+            "canadensis": 50
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Hickory%20Run%20State%20Park%203%20Family%20Camp%20Rd%2C%20White%20Haven%2C%20PA%2018661",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.023678%2C-75.691605",
           "website": null,
-          "notes": "3 Family Camp Rd, White Haven, PA 18661  •  Has a beach; no boating"
+          "notes": "3 Family Camp Rd, White Haven, PA 18661 • Has a beach; no boating",
+          "coordinates": {
+            "lat": 41.023678,
+            "lng": -75.691605
+          },
+          "address": "3 Family Camp Rd, White Haven, PA 18661"
         },
         {
           "name": "Little Rocky Glen Preserve",
           "times": {
             "kingston": 47,
-            "scranton": 28,
-            "canadensis": 60
+            "scranton": 30,
+            "canadensis": 63
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Little%20Rocky%20Glen%20Preserve%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.554376%2C-75.834053",
           "website": null,
-          "notes": "Lithia Valley Rd, Factoryville, PA 18419"
+          "notes": "Lithia Valley Rd, Factoryville, PA 18419",
+          "coordinates": {
+            "lat": 41.554376,
+            "lng": -75.834053
+          },
+          "address": "Lithia Valley Rd, Factoryville, PA 18419"
         }
       ]
     },
@@ -1143,145 +1624,210 @@
         {
           "name": "Covington Park",
           "times": {
-            "kingston": 45,
-            "scranton": 21,
-            "canadensis": 50
+            "kingston": 37,
+            "scranton": 19,
+            "canadensis": 36
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Covington%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.318628%2C-75.53311",
           "website": null,
-          "notes": "nice playground, big open field for kites, and mini beach with lake, closer beach in Moscow PA, usually not a lot of people .things to consider: smaller area of beach, the walk from the parking to the lake is long and down the hill so on the way there it’s not too bad but the way up is exhausting"
+          "notes": "nice playground, big open field for kites, and mini beach with lake, closer beach in Moscow PA, usually not a lot of people .things to consider: smaller area of beach, the walk from the parking to the lake is long and down the hill so on the way there it’s not too bad but the way up is exhausting",
+          "coordinates": {
+            "lat": 41.318628,
+            "lng": -75.53311
+          },
+          "address": "307 Winship Rd, Moscow, PA 18444"
         },
         {
           "name": "Gouldsboro State Park",
           "times": {
-            "kingston": 51,
-            "scranton": 28,
-            "canadensis": 36
+            "kingston": 43,
+            "scranton": 26,
+            "canadensis": 32
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Gouldsboro%20State%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.242632%2C-75.468733",
           "website": null,
-          "notes": "nice beach, usually empty. things to consider: dirty bathrooms"
+          "notes": "nice beach, usually empty. things to consider: dirty bathrooms",
+          "coordinates": {
+            "lat": 41.242632,
+            "lng": -75.468733
+          },
+          "address": "Pennsylvania 507 at, State Pk Rd, Gouldsboro, PA 18424"
         },
         {
           "name": "Lake Jean at Ricketts Glen",
           "times": {
-            "kingston": 55,
-            "scranton": 77,
-            "canadensis": 124
+            "kingston": 46,
+            "scranton": 65,
+            "canadensis": 100
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lake%20Jean%20at%20Ricketts%20Glen%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.338678%2C-76.284484",
           "website": null,
-          "notes": "Ricketts glen has a nice beach area. It’s called lake Jean. My GPS didn’t take me all the way there so you have to follow signs once you pass ricketts glen"
+          "notes": "Ricketts glen has a nice beach area. It’s called lake Jean. My GPS didn’t take me all the way there so you have to follow signs once you pass ricketts glen",
+          "coordinates": {
+            "lat": 41.338678,
+            "lng": -76.284484
+          },
+          "address": "Unnamed Road, Sweet Valley, PA 18656"
         },
         {
           "name": "Beltzville State Park",
           "times": {
-            "kingston": 59,
-            "scranton": 69,
-            "canadensis": 79
+            "kingston": 47,
+            "scranton": 58,
+            "canadensis": 58
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Beltzville%20State%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.865099%2C-75.627268",
           "website": null,
-          "notes": "small beach, playground, picnic tables"
+          "notes": "small beach, playground, picnic tables",
+          "coordinates": {
+            "lat": 40.865099,
+            "lng": -75.627268
+          },
+          "address": "2950 Pohopoco Dr, Lehighton, PA 18235"
         },
         {
           "name": "Tobyhanna State Park",
           "times": {
-            "kingston": 62,
-            "scranton": 38,
-            "canadensis": 31
+            "kingston": 48,
+            "scranton": 31,
+            "canadensis": 22
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Tobyhanna%20State%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.207434%2C-75.396176",
           "website": null,
-          "notes": "Tobyhanna is nice for sitting near the water, there are snails to collect instead of shells"
+          "notes": "Tobyhanna is nice for sitting near the water, there are snails to collect instead of shells",
+          "coordinates": {
+            "lat": 41.207434,
+            "lng": -75.396176
+          },
+          "address": "PA-423, Tobyhanna, PA 18466"
         },
         {
           "name": "Promised Land State Park Kids Playground",
           "times": {
-            "kingston": 69,
-            "scranton": 45,
-            "canadensis": 27
+            "kingston": 56,
+            "scranton": 39,
+            "canadensis": 21
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Promised%20Land%20State%20Park%20Kids%20Playground%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.318145%2C-75.207361",
           "website": null,
-          "notes": "playground area at promised land state park"
+          "notes": "playground area at promised land state park",
+          "coordinates": {
+            "lat": 41.318145,
+            "lng": -75.207361
+          },
+          "address": "Greentown, PA 18426"
         },
         {
           "name": "Promised Land Main Beach",
           "times": {
-            "kingston": 69,
-            "scranton": 45,
-            "canadensis": 28
+            "kingston": 57,
+            "scranton": 40,
+            "canadensis": 21
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Promised%20Land%20Main%20Beach%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.317187%2C-75.207394",
           "website": null,
-          "notes": "beach area at promised land state park. things to consider: rocks in the lake (bring water shoes) , very busy and some walk from the car to the beach"
+          "notes": "beach area at promised land state park. things to consider: rocks in the lake (bring water shoes) , very busy and some walk from the car to the beach",
+          "coordinates": {
+            "lat": 41.317187,
+            "lng": -75.207394
+          },
+          "address": "Greentown, PA 18426"
         },
         {
           "name": "Lake Wallenpaupack",
           "times": {
-            "kingston": 75,
-            "scranton": 51,
-            "canadensis": 43
+            "kingston": 62,
+            "scranton": 45,
+            "canadensis": 37
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lake%20Wallenpaupack%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.449192%2C-75.179767",
           "website": null,
-          "notes": "Lake Wallenpaupack is big, do research first to know which beach area is good"
+          "notes": "Lake Wallenpaupack is big, do research first to know which beach area is good",
+          "coordinates": {
+            "lat": 41.449192,
+            "lng": -75.179767
+          },
+          "address": "Palmyra Township Public Beach, 2512 Lake Wallenpaupack Rd, Hawley, PA 18428"
         },
         {
           "name": "Moon Lake State Forest Recreation Area",
           "times": {
-            "kingston": 23,
-            "scranton": 42,
-            "canadensis": 75
+            "kingston": 24,
+            "scranton": 43,
+            "canadensis": 78
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Moon%20Lake%20State%20Forest%20Recreation%20Area%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.252042%2C-76.055975",
           "website": null,
-          "notes": "Deerwood Dr, Hunlock Creek, PA 18621"
+          "notes": "Deerwood Dr, Hunlock Creek, PA 18621",
+          "coordinates": {
+            "lat": 41.252042,
+            "lng": -76.055975
+          },
+          "address": "Deerwood Dr, Hunlock Creek, PA 18621"
         },
         {
           "name": "Francis E. Walter Dam",
           "times": {
-            "kingston": 28,
-            "scranton": 38,
-            "canadensis": 49
+            "kingston": 26,
+            "scranton": 39,
+            "canadensis": 46
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Francis%20E.%20Walter%20Dam%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.112282%2C-75.721806",
           "website": null,
-          "notes": "St Fish and Game Commission Rd, White Haven, PA 18661  •  (215) 377-0438"
+          "notes": "St Fish and Game Commission Rd, White Haven, PA 18661 • (215) 377-0438",
+          "coordinates": {
+            "lat": 41.112282,
+            "lng": -75.721806
+          },
+          "address": "St Fish and Game Commission Rd, White Haven, PA 18661"
         },
         {
           "name": "Nescopeck State Park",
           "times": {
             "kingston": 32,
-            "scranton": 42,
-            "canadensis": 58
+            "scranton": 43,
+            "canadensis": 55
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Nescopeck%20State%20Park%201137%20Honey%20Hole%20Rd%2C%20Drums%2C%20PA%2018222",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.091042%2C-75.879559",
           "website": null,
-          "notes": "1137 Honey Hole Rd, Drums, PA 18222  •  1137 Honey Hole Rd, Drums PA"
+          "notes": "1137 Honey Hole Rd, Drums, PA 18222 • 1137 Honey Hole Rd, Drums PA",
+          "coordinates": {
+            "lat": 41.091042,
+            "lng": -75.879559
+          },
+          "address": "1137 Honey Hole Rd, Drums, PA 18222"
         },
         {
           "name": "Mauch Chunk Lake Park",
           "times": {
-            "kingston": 55,
-            "scranton": 63,
-            "canadensis": 70
+            "kingston": 53,
+            "scranton": 64,
+            "canadensis": 66
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Mauch%20Chunk%20Lake%20Park%20625%20Lentz%20Trail%2C%20Jim%20Thorpe%2C%20PA%2018229",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.843669%2C-75.805535",
           "website": null,
-          "notes": "625 Lentz Trail, Jim Thorpe, PA 18229  •  (570) 325-3669"
+          "notes": "625 Lentz Trail, Jim Thorpe, PA 18229 • (570) 325-3669",
+          "coordinates": {
+            "lat": 40.843669,
+            "lng": -75.805535
+          },
+          "address": "625 Lentz Trail, Jim Thorpe, PA 18229"
         },
         {
           "name": "Palmyra Township Public Beach",
           "times": {
-            "kingston": 64,
+            "kingston": 62,
             "scranton": 45,
-            "canadensis": 35
+            "canadensis": 37
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Palmyra%20Township%20Public%20Beach%202512%20Lake%20Wallenpaupack%20Rd%2C%20Hawley%2C%20PA%2018428",
-          "website": "https://maps.app.goo.gl/1ZeTeRVc7VNk587ZA",
-          "notes": "Palmyra Township Public Beach, 2512 Lake Wallenpaupack Rd, Hawley, PA 18428 | Site: https://maps.app.goo.gl/1ZeTeRVc7VNk587ZA"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.449192%2C-75.179767",
+          "website": "https://www.google.com/maps/place/Palmyra+Township+Public+Beach,+2512+Lake+Wallenpaupack+Rd,+Hawley,+PA+18428/data=!4m2!3m1!1s0x89c4b06a90b97669:0x91125517079df15c",
+          "notes": "Palmyra Township Public Beach, 2512 Lake Wallenpaupack Rd, Hawley, PA 18428 | Site: https://www.google.com/maps/place/Palmyra+Township+Public+Beach,+2512+Lake+Wallenpaupack+Rd,+Hawley,+PA+18428/data=!4m2!3m1!1s0x89c4b06a90b97669:0x91125517079df15c",
+          "coordinates": {
+            "lat": 41.449192,
+            "lng": -75.179767
+          },
+          "address": "Palmyra Township Public Beach, 2512 Lake Wallenpaupack Rd, Hawley, PA 18428"
         }
       ]
     },
@@ -1291,57 +1837,82 @@
         {
           "name": "Nesbitt Park Disc Golf Course",
           "times": {
-            "kingston": 4,
+            "kingston": 5,
             "scranton": 30,
-            "canadensis": 77
+            "canadensis": 65
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Nesbitt%20Park%20Disc%20Golf%20Course%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.251541%2C-75.885385",
           "website": null,
-          "notes": "frisbee golf"
+          "notes": "frisbee golf",
+          "coordinates": {
+            "lat": 41.251541,
+            "lng": -75.885385
+          },
+          "address": "Wilkes-Barre, PA 18704"
         },
         {
           "name": "Electric City Aquarium & Reptile Den",
           "times": {
-            "kingston": 30,
-            "scranton": 1,
-            "canadensis": 53
+            "kingston": 27,
+            "scranton": 7,
+            "canadensis": 45
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Electric%20City%20Aquarium%20%26%20Reptile%20Den%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.407988%2C-75.668267",
           "website": null,
-          "notes": "small aquarium"
+          "notes": "small aquarium",
+          "coordinates": {
+            "lat": 41.407988,
+            "lng": -75.668267
+          },
+          "address": "300 Lackawanna Ave, Scranton, PA 18503"
         },
         {
           "name": "Lakeland Orchard & Cidery",
           "times": {
-            "kingston": 54,
-            "scranton": 28,
-            "canadensis": 63
+            "kingston": 44,
+            "scranton": 25,
+            "canadensis": 52
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lakeland%20Orchard%20%26%20Cidery%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.57644%2C-75.594419",
           "website": null,
-          "notes": "There’s rides, corn pool, axe throwing for kids as well, strawberry and apple picking and a food court to chill at its very very nice also has some goats. not open daily"
+          "notes": "There’s rides, corn pool, axe throwing for kids as well, strawberry and apple picking and a food court to chill at its very very nice also has some goats. not open daily",
+          "coordinates": {
+            "lat": 41.57644,
+            "lng": -75.594419
+          },
+          "address": "1649 Lakeland Dr, Scott, PA 18433"
         },
         {
           "name": "Jim Thorpe scenic train ride",
           "times": {
-            "kingston": 58,
-            "scranton": 68,
-            "canadensis": 78
+            "kingston": 48,
+            "scranton": 58,
+            "canadensis": 61
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Jim%20Thorpe%20scenic%20train%20ride%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.863141%2C-75.737447",
           "website": null,
-          "notes": "Scenic 70 minute round trip train rides. near a pretty neighborhood with old beautiful homes Schedule"
+          "notes": "Scenic 70 minute round trip train rides. near a pretty neighborhood with old beautiful homes Schedule",
+          "coordinates": {
+            "lat": 40.863141,
+            "lng": -75.737447
+          },
+          "address": "1 Susquehanna St, Jim Thorpe, PA 18229"
         },
         {
           "name": "Country Junction - World's Largest General Store",
           "times": {
-            "kingston": 59,
-            "scranton": 69,
-            "canadensis": 70
+            "kingston": 49,
+            "scranton": 60,
+            "canadensis": 55
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Country%20Junction%20-%20World's%20Largest%20General%20Store%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.862508%2C-75.590247",
           "website": null,
-          "notes": "big general store with little rides and petting zoo"
+          "notes": "big general store with little rides and petting zoo",
+          "coordinates": {
+            "lat": 40.862508,
+            "lng": -75.590247
+          },
+          "address": "6565 Interchange Rd, Lehighton, PA 18235"
         },
         {
           "name": "general search",
@@ -1352,7 +1923,9 @@
           },
           "map": "https://www.google.com/maps/search/?api=1&query=general%20search%2C%20PA",
           "website": null,
-          "notes": "Go into the menu to search for specific things you're interested in (hikes, museum's etc)"
+          "notes": "Go into the menu to search for specific things you're interested in (hikes, museum's etc)",
+          "coordinates": null,
+          "address": null
         },
         {
           "name": "general search",
@@ -1363,7 +1936,9 @@
           },
           "map": "https://www.google.com/maps/search/?api=1&query=general%20search%2C%20PA",
           "website": null,
-          "notes": ""
+          "notes": "",
+          "coordinates": null,
+          "address": null
         }
       ]
     },
@@ -1373,13 +1948,18 @@
         {
           "name": "Knoebels Amusement Resort",
           "times": {
-            "kingston": 81,
-            "scranton": 97,
-            "canadensis": 124
+            "kingston": 67,
+            "scranton": 79,
+            "canadensis": 94
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Knoebels%20Amusement%20Resort%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.87996%2C-76.502076",
           "website": null,
-          "notes": ""
+          "notes": "",
+          "coordinates": {
+            "lat": 40.87996,
+            "lng": -76.502076
+          },
+          "address": "391 Knoebels Blvd, Elysburg, PA 17824"
         }
       ]
     },
@@ -1389,255 +1969,370 @@
         {
           "name": "Long Live Playtime",
           "times": {
-            "kingston": 2,
+            "kingston": 6,
             "scranton": 31,
-            "canadensis": 78
+            "canadensis": 66
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Long%20Live%20Playtime%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.25615%2C-75.901687",
           "website": null,
-          "notes": ""
+          "notes": "",
+          "coordinates": {
+            "lat": 41.25615,
+            "lng": -75.901687
+          },
+          "address": "75 S Wyoming Ave Ste 5, Edwardsville, PA 18704"
         },
         {
           "name": "Chuck E Cheese",
           "times": {
-            "kingston": 9,
-            "scranton": 26,
-            "canadensis": 73
+            "kingston": 13,
+            "scranton": 24,
+            "canadensis": 59
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Chuck%20E%20Cheese%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.239063%2C-75.856611",
           "website": null,
-          "notes": "chuck e cheese"
+          "notes": "chuck e cheese",
+          "coordinates": {
+            "lat": 41.239063,
+            "lng": -75.856611
+          },
+          "address": "Market Place, 2120 Wilkes Barre Township Blvd, Wilkes-Barre Township, PA 18702"
         },
         {
           "name": "Dave & Buster's Scranton",
           "times": {
-            "kingston": 27,
-            "scranton": 11,
-            "canadensis": 57
+            "kingston": 22,
+            "scranton": 13,
+            "canadensis": 48
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Dave%20%26%20Buster's%20Scranton%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.361037%2C-75.676089",
           "website": null,
-          "notes": ""
+          "notes": "",
+          "coordinates": {
+            "lat": 41.361037,
+            "lng": -75.676089
+          },
+          "address": "6000 Shoppes Blvd, Moosic, PA 18507"
         },
         {
           "name": "Bee's Backyard",
           "times": {
-            "kingston": 30,
-            "scranton": 1,
-            "canadensis": 53
+            "kingston": 27,
+            "scranton": 7,
+            "canadensis": 45
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Bee's%20Backyard%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.408139%2C-75.668527",
           "website": null,
-          "notes": "call in advance to make sure they are open they sometimes have private events and aren't open daily"
+          "notes": "call in advance to make sure they are open they sometimes have private events and aren't open daily",
+          "coordinates": {
+            "lat": 41.408139,
+            "lng": -75.668527
+          },
+          "address": "The Marketplace at Steamtown, 300 Lackawanna Ave, Scranton, PA 18503"
         },
         {
           "name": "Bloom Waldessori Play Space",
           "times": {
-            "kingston": 71,
-            "scranton": 58,
-            "canadensis": 44
+            "kingston": 56,
+            "scranton": 47,
+            "canadensis": 32
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Bloom%20Waldessori%20Play%20Space%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.977612%2C-75.236562",
           "website": null,
-          "notes": "Website"
+          "notes": "Website",
+          "coordinates": {
+            "lat": 40.977612,
+            "lng": -75.236562
+          },
+          "address": "106 Renastar Rd, Stroudsburg, PA 18360"
         },
         {
           "name": "Breakout Escape Room",
           "times": {
-            "kingston": 10,
-            "scranton": 27,
+            "kingston": 14,
+            "scranton": 26,
             "canadensis": 60
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Breakout%20Escape%20Room%20618%20Blackman%20St%2C%20Wilkes-Barre%20Township%2C%20PA%2018702",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.223045%2C-75.885142",
           "website": "http://breakoutescapepa.com",
-          "notes": "618 Blackman St, Wilkes-Barre Township, PA 18702  •  Cheaper if you pay cash | Site: http://breakoutescapepa.com"
+          "notes": "618 Blackman St, Wilkes-Barre Township, PA 18702  •  Cheaper if you pay cash | Site: http://breakoutescapepa.com",
+          "coordinates": {
+            "lat": 41.223045,
+            "lng": -75.885142
+          },
+          "address": "618 Blackman St, Wilkes-Barre Township, PA 18702"
         },
         {
           "name": "Wilkes-Barre Climbing Gym Indoor Rock Climbing",
           "times": {
-            "kingston": 10,
-            "scranton": 28,
-            "canadensis": 61
+            "kingston": 7,
+            "scranton": 29,
+            "canadensis": 64
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Wilkes-Barre%20Climbing%20Gym%20Indoor%20Rock%20Climbing%20102%20S%20Main%20St%2C%20Wilkes-Barre%2C%20PA%2018701",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.243598%2C-75.885439",
           "website": "https://wilkesbarreclimbinggym.com",
-          "notes": "102 S Main St, Wilkes-Barre, PA 18701 | Site: https://wilkesbarreclimbinggym.com"
+          "notes": "102 S Main St, Wilkes-Barre, PA 18701 | Site: https://wilkesbarreclimbinggym.com",
+          "coordinates": {
+            "lat": 41.243598,
+            "lng": -75.885439
+          },
+          "address": "102 S Main St, Wilkes-Barre, PA 18701"
         },
         {
           "name": "Yum Yum Fun",
           "times": {
-            "kingston": 8,
-            "scranton": 34,
-            "canadensis": 67
+            "kingston": 11,
+            "scranton": 36,
+            "canadensis": 70
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Yum%20Yum%20Fun%20125%20E%20Main%20St%2C%20Plymouth%2C%20PA%2018651",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.241803%2C-75.942733",
           "website": "https://yumyumfunfec.com/",
-          "notes": "125 E Main St, Plymouth, PA 18651 | Site: https://yumyumfunfec.com/"
+          "notes": "125 E Main St, Plymouth, PA 18651 | Site: https://yumyumfunfec.com/",
+          "coordinates": {
+            "lat": 41.241803,
+            "lng": -75.942733
+          },
+          "address": "125 E Main St, Plymouth, PA 18651"
         },
         {
           "name": "Purrfect Mugs Cat Cafe",
           "times": {
-            "kingston": 11,
-            "scranton": 25,
-            "canadensis": 58
+            "kingston": 10,
+            "scranton": 26,
+            "canadensis": 61
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Purrfect%20Mugs%20Cat%20Cafe%201325%20N%20River%20St%20Ste%20102A%2C%20Hilldale%2C%20PA%2018702",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.289834%2C-75.84588",
           "website": "https://www.purrfectmugscatcafe.com/",
-          "notes": "1325 N River St Ste 102A, Hilldale, PA 18702 | Site: https://www.purrfectmugscatcafe.com/"
+          "notes": "1325 N River St Ste 102A, Hilldale, PA 18702 | Site: https://www.purrfectmugscatcafe.com/",
+          "coordinates": {
+            "lat": 41.289834,
+            "lng": -75.84588
+          },
+          "address": "1325 N River St Ste 102A, Hilldale, PA 18702"
         },
         {
           "name": "Buff City Soap",
           "times": {
-            "kingston": 12,
-            "scranton": 24,
-            "canadensis": 57
+            "kingston": 35,
+            "scranton": 14,
+            "canadensis": 48
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Buff%20City%20Soap%2C%20PA",
-          "website": "https://g.co/kgs/qGWJAu",
-          "notes": "397 Arena Hub Plaza, Wilkes-Barre Township, PA 18702  •  Make-your-own soap; (570) 477-7200 | Site: https://g.co/kgs/qGWJAu"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.465784%2C-75.637038",
+          "website": "https://www.google.com/maps/search/?api=1&query=Buff%20City%20Soap",
+          "notes": "397 Arena Hub Plaza, Wilkes-Barre Township, PA 18702  •  Make-your-own soap; (570) 477-7200 | Site: https://www.google.com/maps/search/?api=1&query=Buff%20City%20Soap",
+          "coordinates": {
+            "lat": 41.465784,
+            "lng": -75.637038
+          },
+          "address": "1249 Commerce Blvd Ste A, Dickson City, PA 18519"
         },
         {
           "name": "Clubhouse315",
           "times": {
-            "kingston": 15,
-            "scranton": 21,
-            "canadensis": 54
+            "kingston": 14,
+            "scranton": 22,
+            "canadensis": 57
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Clubhouse315%2C%20PA",
-          "website": "https://g.co/kgs/7h5sH58",
-          "notes": "1492 PA-315, Wilkes-Barre, PA 18702  •  (570) 304-6405 | Site: https://g.co/kgs/7h5sH58"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.27476%2C-75.803054",
+          "website": "https://www.google.com/maps/search/?api=1&query=Clubhouse315",
+          "notes": "1492 PA-315, Wilkes-Barre, PA 18702  •  (570) 304-6405 | Site: https://www.google.com/maps/search/?api=1&query=Clubhouse315",
+          "coordinates": {
+            "lat": 41.27476,
+            "lng": -75.803054
+          },
+          "address": "1492 PA-315, Wilkes-Barre, PA 18702"
         },
         {
           "name": "Zensory Zone",
           "times": {
-            "kingston": 22,
-            "scranton": 9,
-            "canadensis": 42
+            "kingston": 20,
+            "scranton": 11,
+            "canadensis": 45
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Zensory%20Zone%2073%20Montage%20Mountain%20Rd%2C%20Moosic%2C%20PA%2018507",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.369219%2C-75.686579",
           "website": "https://www.zensoryzone.com/",
-          "notes": "73 Montage Mountain Rd, Moosic, PA 18507 | Site: https://www.zensoryzone.com/"
+          "notes": "73 Montage Mountain Rd, Moosic, PA 18507 | Site: https://www.zensoryzone.com/",
+          "coordinates": {
+            "lat": 41.369219,
+            "lng": -75.686579
+          },
+          "address": "73 Montage Mountain Rd, Moosic, PA 18507"
         },
         {
           "name": "Noteology",
           "times": {
-            "kingston": 29,
+            "kingston": 28,
             "scranton": 3,
-            "canadensis": 42
+            "canadensis": 46
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Noteology%20537%20Wyoming%20Ave%2C%20Scranton%2C%20PA%2018509",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.413288%2C-75.66029",
           "website": "https://www.noteology.com/",
-          "notes": "537 Wyoming Ave, Scranton, PA 18509 | Site: https://www.noteology.com/"
+          "notes": "537 Wyoming Ave, Scranton, PA 18509 | Site: https://www.noteology.com/",
+          "coordinates": {
+            "lat": 41.413288,
+            "lng": -75.66029
+          },
+          "address": "537 Wyoming Ave, Scranton, PA 18509"
         },
         {
           "name": "Idle Hours North",
           "times": {
-            "kingston": 36,
-            "scranton": 14,
-            "canadensis": 45
+            "kingston": 35,
+            "scranton": 15,
+            "canadensis": 48
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Idle%20Hours%20North%202008%20Scranton%20Carbondale%20Hwy%2C%20Scranton%2C%20PA%2018508",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.475191%2C-75.625558",
           "website": "https://www.idlehoursentertainment.com/",
-          "notes": "2008 Scranton Carbondale Hwy, Scranton, PA 18508  •  Has a south location too | Site: https://www.idlehoursentertainment.com/"
+          "notes": "2008 Scranton Carbondale Hwy, Scranton, PA 18508  •  Has a south location too | Site: https://www.idlehoursentertainment.com/",
+          "coordinates": {
+            "lat": 41.475191,
+            "lng": -75.625558
+          },
+          "address": "2008 Scranton Carbondale Hwy, Scranton, PA 18508"
         },
         {
           "name": "United Sports Academy Ninja Nook - Mayfield",
           "times": {
-            "kingston": 41,
-            "scranton": 22,
-            "canadensis": 45
+            "kingston": 40,
+            "scranton": 23,
+            "canadensis": 48
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=United%20Sports%20Academy%20Ninja%20Nook%20-%20Mayfield%20603%20Scranton%20Carbondale%20Hwy%2C%20Mayfield%2C%20PA%2018433",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.541813%2C-75.543577",
           "website": "https://unitedsportsacademygym.com/",
-          "notes": "603 Scranton Carbondale Hwy, Mayfield, PA 18433  •  Open gym | Site: https://unitedsportsacademygym.com/"
+          "notes": "603 Scranton Carbondale Hwy, Mayfield, PA 18433  •  Open gym | Site: https://unitedsportsacademygym.com/",
+          "coordinates": {
+            "lat": 41.541813,
+            "lng": -75.543577
+          },
+          "address": "603 Scranton Carbondale Hwy, Mayfield, PA 18433"
         },
         {
           "name": "Wonderland Madhouse",
           "times": {
-            "kingston": 51,
-            "scranton": 41,
-            "canadensis": 26
+            "kingston": 50,
+            "scranton": 42,
+            "canadensis": 23
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Wonderland%20Madhouse%201000%20Premium%20Outlets%20Dr%20Ste%20i01%2C%20Tannersville%2C%20PA%2018372",
-          "website": "https://g.co/kgs/X4QnuD8",
-          "notes": "Located behind the Food Trucks by Carters, 1000 Premium Outlets Dr Ste i01, Tannersville, PA 18372 | Site: https://g.co/kgs/X4QnuD8"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.049449%2C-75.313294",
+          "website": "https://www.google.com/maps/search/?api=1&query=Mirror%20Maze",
+          "notes": "Located behind the Food Trucks by Carters, 1000 Premium Outlets Dr Ste i01, Tannersville, PA 18372 | Site: https://www.google.com/maps/search/?api=1&query=Mirror%20Maze",
+          "coordinates": {
+            "lat": 41.049449,
+            "lng": -75.313294
+          },
+          "address": "Located behind the Food Trucks by Carters, 1000 Premium Outlets Dr Ste i01, Tannersville, PA 18372"
         },
         {
           "name": "Pocolandia - The EPIC PlayPark!",
           "times": {
-            "kingston": 57,
-            "scranton": 46,
-            "canadensis": 33
+            "kingston": 55,
+            "scranton": 47,
+            "canadensis": 30
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Pocolandia%20-%20The%20EPIC%20PlayPark!%20344%20Stroud%20Mall%20Rd%20%23430%2C%20Stroudsburg%2C%20PA%2018360",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.989926%2C-75.224615",
           "website": "https://epicplaypark.kids/",
-          "notes": "344 Stroud Mall Rd #430, Stroudsburg, PA 18360 | Site: https://epicplaypark.kids/"
+          "notes": "344 Stroud Mall Rd #430, Stroudsburg, PA 18360 | Site: https://epicplaypark.kids/",
+          "coordinates": {
+            "lat": 40.989926,
+            "lng": -75.224615
+          },
+          "address": "344 Stroud Mall Rd #430, Stroudsburg, PA 18360"
         },
         {
           "name": "Imagi Nation",
           "times": {
-            "kingston": 66,
-            "scranton": 74,
-            "canadensis": 72
+            "kingston": 65,
+            "scranton": 75,
+            "canadensis": 69
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Imagi%20Nation%203313%20Hamilton%20Blvd%2C%20Allentown%2C%20PA%2018103",
-          "website": "https://g.co/kgs/5odwYit",
-          "notes": "3313 Hamilton Blvd, Allentown, PA 18103  •  (610) 841-5919 | Site: https://g.co/kgs/5odwYit"
+          "map": "https://www.google.com/maps/search/?api=1&query=40.579384%2C-75.525325",
+          "website": "https://www.google.com/maps/search/?api=1&query=Imagi%20Nation",
+          "notes": "3313 Hamilton Blvd, Allentown, PA 18103  •  (610) 841-5919 | Site: https://www.google.com/maps/search/?api=1&query=Imagi%20Nation",
+          "coordinates": {
+            "lat": 40.579384,
+            "lng": -75.525325
+          },
+          "address": "3313 Hamilton Blvd, Allentown, PA 18103"
         },
         {
           "name": "Slime Time II",
           "times": {
-            "kingston": 74,
-            "scranton": 82,
-            "canadensis": 71
+            "kingston": 73,
+            "scranton": 84,
+            "canadensis": 68
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Slime%20Time%20II%202845%20Center%20Valley%20Pkwy%2C%20Center%20Valley%2C%20PA%2018034",
-          "website": "https://g.co/kgs/kA7xBj",
-          "notes": "2845 Center Valley Pkwy, Center Valley, PA 18034  •  (610) 443-0871 | Site: https://g.co/kgs/kA7xBj"
+          "map": "https://www.google.com/maps/search/?api=1&query=40.560158%2C-75.410096",
+          "website": "https://www.google.com/maps/search/?api=1&query=Slime%20Time%20Entertainment",
+          "notes": "2845 Center Valley Pkwy, Center Valley, PA 18034  •  (610) 443-0871 | Site: https://www.google.com/maps/search/?api=1&query=Slime%20Time%20Entertainment",
+          "coordinates": {
+            "lat": 40.560158,
+            "lng": -75.410096
+          },
+          "address": "2845 Center Valley Pkwy, Center Valley, PA 18034"
         },
         {
           "name": "Lost River Caverns",
           "times": {
-            "kingston": 79,
-            "scranton": 77,
-            "canadensis": 65
+            "kingston": 78,
+            "scranton": 78,
+            "canadensis": 62
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lost%20River%20Caverns%20726%20Durham%20St%2C%20Hellertown%2C%20PA%2018055",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.580837%2C-75.330613",
           "website": "https://lostcave.com/",
-          "notes": "726 Durham St, Hellertown, PA 18055 | Site: https://lostcave.com/"
+          "notes": "726 Durham St, Hellertown, PA 18055 | Site: https://lostcave.com/",
+          "coordinates": {
+            "lat": 40.580837,
+            "lng": -75.330613
+          },
+          "address": "726 Durham St, Hellertown, PA 18055"
         },
         {
           "name": "Crayola Experience",
           "times": {
-            "kingston": 82,
-            "scranton": 71,
-            "canadensis": 59
+            "kingston": 81,
+            "scranton": 72,
+            "canadensis": 56
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Crayola%20Experience%2030%20Centre%20Sq%20Cir%2C%20Easton%2C%20PA%2018042",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.690933%2C-75.209857",
           "website": "https://www.crayolaexperience.com/easton",
-          "notes": "30 Centre Sq Cir, Easton, PA 18042 | Site: https://www.crayolaexperience.com/easton"
+          "notes": "30 Centre Sq Cir, Easton, PA 18042 | Site: https://www.crayolaexperience.com/easton",
+          "coordinates": {
+            "lat": 40.690933,
+            "lng": -75.209857
+          },
+          "address": "30 Centre Sq Cir, Easton, PA 18042"
         },
         {
           "name": "Otherworld Philadelphia",
           "times": {
-            "kingston": 122,
-            "scranton": 131,
-            "canadensis": 132
+            "kingston": 121,
+            "scranton": 132,
+            "canadensis": 129
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Otherworld%20Philadelphia%202500%20Grant%20Ave%20%231%2C%20Philadelphia%2C%20PA%2019114",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.078106%2C-75.025012",
           "website": "https://otherworldphila.com",
-          "notes": "2500 Grant Ave #1, Philadelphia, PA 19114  •  Great for older kids | Site: https://otherworldphila.com"
+          "notes": "2500 Grant Ave #1, Philadelphia, PA 19114  •  Great for older kids | Site: https://otherworldphila.com",
+          "coordinates": {
+            "lat": 40.078106,
+            "lng": -75.025012
+          },
+          "address": "2500 Grant Ave #1, Philadelphia, PA 19114"
         },
         {
           "name": "Penn's Cave and Wildlife Park",
           "times": {
-            "kingston": 124,
-            "scranton": 134,
-            "canadensis": 153
+            "kingston": 123,
+            "scranton": 135,
+            "canadensis": 150
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Penn's%20Cave%20and%20Wildlife%20Park%20222%20Penns%20Cave%20Rd%2C%20Centre%20Hall%2C%20PA%2016828",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.88255%2C-77.611657",
           "website": "https://www.pennscave.com/",
-          "notes": "222 Penns Cave Rd, Centre Hall, PA 16828 | Site: https://www.pennscave.com/"
+          "notes": "222 Penns Cave Rd, Centre Hall, PA 16828 | Site: https://www.pennscave.com/",
+          "coordinates": {
+            "lat": 40.88255,
+            "lng": -77.611657
+          },
+          "address": "222 Penns Cave Rd, Centre Hall, PA 16828"
         }
       ]
     },
@@ -1647,46 +2342,66 @@
         {
           "name": "Lackawanna County Children's Library",
           "times": {
-            "kingston": 30,
-            "scranton": 2,
-            "canadensis": 53
+            "kingston": 27,
+            "scranton": 5,
+            "canadensis": 45
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lackawanna%20County%20Children's%20Library%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.410815%2C-75.659349",
           "website": null,
-          "notes": "Lackawanna County. open Sunday"
+          "notes": "Lackawanna County. open Sunday",
+          "coordinates": {
+            "lat": 41.410815,
+            "lng": -75.659349
+          },
+          "address": "520 Vine St, Scranton, PA 18509"
         },
         {
           "name": "Abington Community Library",
           "times": {
-            "kingston": 43,
-            "scranton": 14,
-            "canadensis": 62
+            "kingston": 38,
+            "scranton": 15,
+            "canadensis": 51
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Abington%20Community%20Library%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.485672%2C-75.718692",
           "website": null,
-          "notes": "Abington"
+          "notes": "Abington",
+          "coordinates": {
+            "lat": 41.485672,
+            "lng": -75.718692
+          },
+          "address": "1200 W Grove St, Clarks Summit, PA 18411"
         },
         {
           "name": "Back Mountain Memorial Library",
           "times": {
-            "kingston": 16,
-            "scranton": 33,
-            "canadensis": 66
+            "kingston": 15,
+            "scranton": 34,
+            "canadensis": 69
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Back%20Mountain%20Memorial%20Library%2096%20Huntsville%20Rd%2C%20Dallas%2C%20PA%2018612",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.33305%2C-75.962673",
           "website": "https://luzernelibraries.org/back-mountain-memorial-library/",
-          "notes": "96 Huntsville Rd, Dallas, PA 18612  •  Has a toddler playroom | Site: https://luzernelibraries.org/back-mountain-memorial-library/"
+          "notes": "96 Huntsville Rd, Dallas, PA 18612  •  Has a toddler playroom | Site: https://luzernelibraries.org/back-mountain-memorial-library/",
+          "coordinates": {
+            "lat": 41.33305,
+            "lng": -75.962673
+          },
+          "address": "96 Huntsville Rd, Dallas, PA 18612"
         },
         {
           "name": "Albright Memorial Library Building Scranton Public Library",
           "times": {
-            "kingston": 28,
-            "scranton": 4,
-            "canadensis": 42
+            "kingston": 27,
+            "scranton": 5,
+            "canadensis": 45
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Albright%20Memorial%20Library%20Building%20Scranton%20Public%20Library%20500%20Vine%20St%2C%20Scranton%2C%20PA%2018509",
-          "website": "https://g.co/kgs/XUNx8k",
-          "notes": "500 Vine St, Scranton, PA 18509  •  (570) 348-3000 | Site: https://g.co/kgs/XUNx8k"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.411024%2C-75.65961",
+          "website": "https://www.google.com/maps/search/?api=1&query=Albright%20Memorial%20Library%20Building%20Scranton%20Public%20Library",
+          "notes": "500 Vine St, Scranton, PA 18509  •  (570) 348-3000 | Site: https://www.google.com/maps/search/?api=1&query=Albright%20Memorial%20Library%20Building%20Scranton%20Public%20Library",
+          "coordinates": {
+            "lat": 41.411024,
+            "lng": -75.65961
+          },
+          "address": "500 Vine St, Scranton, PA 18509"
         }
       ]
     },
@@ -1696,90 +2411,130 @@
         {
           "name": "Toyota SportsPlex Ice skating Rink",
           "times": {
-            "kingston": 8,
+            "kingston": 9,
             "scranton": 28,
-            "canadensis": 75
+            "canadensis": 63
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Toyota%20SportsPlex%20Ice%20skating%20Rink%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.241667%2C-75.868395",
           "website": null,
-          "notes": "Toyota Sports Plex | Wilkes-Barre, PA"
+          "notes": "Toyota Sports Plex | Wilkes-Barre, PA",
+          "coordinates": {
+            "lat": 41.241667,
+            "lng": -75.868395
+          },
+          "address": "38 Coal St, Wilkes-Barre, PA 18702"
         },
         {
           "name": "Skateaway",
           "times": {
-            "kingston": 9,
+            "kingston": 13,
             "scranton": 26,
-            "canadensis": 73
+            "canadensis": 61
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Skateaway%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.223555%2C-75.885867",
           "website": null,
-          "notes": "Wilkes-barre Rink - Home"
+          "notes": "Wilkes-barre Rink - Home",
+          "coordinates": {
+            "lat": 41.223555,
+            "lng": -75.885867
+          },
+          "address": "610 Blackman St, Wilkes-Barre Township, PA 18702"
         },
         {
           "name": "Revolution Ice Centre",
           "times": {
-            "kingston": 18,
-            "scranton": 17,
-            "canadensis": 64
+            "kingston": 17,
+            "scranton": 19,
+            "canadensis": 54
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Revolution%20Ice%20Centre%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.296219%2C-75.772774",
           "website": null,
-          "notes": "Revolution Ice Centre | Ice Skating Facility & Hockey Training Program"
+          "notes": "Revolution Ice Centre | Ice Skating Facility & Hockey Training Program",
+          "coordinates": {
+            "lat": 41.296219,
+            "lng": -75.772774
+          },
+          "address": "12 Old Boston Rd, Pittston, PA 18640"
         },
         {
           "name": "Electric City Axe Throwing",
           "times": {
-            "kingston": 32,
-            "scranton": 6,
-            "canadensis": 44
+            "kingston": 30,
+            "scranton": 4,
+            "canadensis": 47
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Electric%20City%20Axe%20Throwing%201141%20Capouse%20Ave%2C%20Scranton%2C%20PA%2018509",
-          "website": "https://g.co/kgs/k9u5NA",
-          "notes": "1141 Capouse Ave, Scranton, PA 18509  •  (570) 866-3228 | Site: https://g.co/kgs/k9u5NA"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.421928%2C-75.654685",
+          "website": "https://www.google.com/maps/search/?api=1&query=Electric%20City%20Axe%20Throwing",
+          "notes": "1141 Capouse Ave, Scranton, PA 18509  •  (570) 866-3228 | Site: https://www.google.com/maps/search/?api=1&query=Electric%20City%20Axe%20Throwing",
+          "coordinates": {
+            "lat": 41.421928,
+            "lng": -75.654685
+          },
+          "address": "1141 Capouse Ave, Scranton, PA 18509"
         },
         {
           "name": "High Tines Archery and Outdoors",
           "times": {
-            "kingston": 29,
-            "scranton": 10,
-            "canadensis": 37
+            "kingston": 28,
+            "scranton": 9,
+            "canadensis": 41
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=High%20Tines%20Archery%20and%20Outdoors%20116%20Monahan%20Ave%2C%20Dunmore%2C%20PA%2018512",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.43089%2C-75.616092",
           "website": null,
-          "notes": "116 Monahan Ave, Dunmore, PA 18512"
+          "notes": "116 Monahan Ave, Dunmore, PA 18512",
+          "coordinates": {
+            "lat": 41.43089,
+            "lng": -75.616092
+          },
+          "address": "116 Monahan Ave, Dunmore, PA 18512"
         },
         {
           "name": "940 Golf N'Fun",
           "times": {
-            "kingston": 37,
-            "scranton": 41,
-            "canadensis": 35
+            "kingston": 36,
+            "scranton": 42,
+            "canadensis": 32
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=940%20Golf%20N'Fun%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.119018%2C-75.548845",
           "website": "https://940golfnfun.com/",
-          "notes": "951 PA-940, Pocono Lake, PA 18347  •  Mini golf, trampoline; all ages except babies | Site: https://940golfnfun.com/"
+          "notes": "951 PA-940, Pocono Lake, PA 18347  •  Mini golf, trampoline; all ages except babies | Site: https://940golfnfun.com/",
+          "coordinates": {
+            "lat": 41.119018,
+            "lng": -75.548845
+          },
+          "address": "951 PA-940, Pocono Lake, PA 18347"
         },
         {
           "name": "Pocono Biking, Jim Thorpe",
           "times": {
-            "kingston": 48,
-            "scranton": 56,
-            "canadensis": 63
+            "kingston": 46,
+            "scranton": 57,
+            "canadensis": 59
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Pocono%20Biking%2C%20Jim%20Thorpe%207%20Hazard%20Square%2C%20Jim%20Thorpe%2C%20PA%2018229",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.863542%2C-75.737727",
           "website": "https://parailbike.com/",
-          "notes": "7 Hazard Square, Jim Thorpe, PA 18229 | Site: https://parailbike.com/"
+          "notes": "7 Hazard Square, Jim Thorpe, PA 18229 | Site: https://parailbike.com/",
+          "coordinates": {
+            "lat": 40.863542,
+            "lng": -75.737727
+          },
+          "address": "7 Hazard Square, Jim Thorpe, PA 18229"
         },
         {
           "name": "Dingmans Shooting Range",
           "times": {
-            "kingston": 71,
-            "scranton": 52,
-            "canadensis": 42
+            "kingston": 70,
+            "scranton": 53,
+            "canadensis": 44
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Dingmans%20Shooting%20Range%2C%20PA",
-          "website": "https://maps.app.goo.gl/QmC5Y91H3mtao9519",
-          "notes": "1497 PA-739, Dingmans Ferry, PA 18328  •  Allows children 10+ | Site: https://maps.app.goo.gl/QmC5Y91H3mtao9519"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.281529%2C-74.931781",
+          "website": "https://www.google.com/maps/place/Dingmans+Shooting+Range,+1497+PA-739,+Dingmans+Ferry,+PA+18328/data=!4m2!3m1!1s0x89c35f0891a0513d:0xd77b36fa0899b9d0!18m1!1e1",
+          "notes": "1497 PA-739, Dingmans Ferry, PA 18328  •  Allows children 10+ | Site: https://www.google.com/maps/place/Dingmans+Shooting+Range,+1497+PA-739,+Dingmans+Ferry,+PA+18328/data=!4m2!3m1!1s0x89c35f0891a0513d:0xd77b36fa0899b9d0!18m1!1e1",
+          "coordinates": {
+            "lat": 41.281529,
+            "lng": -74.931781
+          },
+          "address": "1497 PA-739, Dingmans Ferry, PA 18328"
         }
       ]
     },
@@ -1789,24 +2544,34 @@
         {
           "name": "Lehigh Gorge Scenic Railway: Trademark of the Reading & Northern Railroad",
           "times": {
-            "kingston": 49,
-            "scranton": 57,
-            "canadensis": 64
+            "kingston": 48,
+            "scranton": 58,
+            "canadensis": 61
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Gorge%20Scenic%20Railway%3A%20Trademark%20of%20the%20Reading%20%26%20Northern%20Railroad%201%20Susquehanna%20St%2C%20Jim%20Thorpe%2C%20PA%2018229",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.863141%2C-75.737447",
           "website": null,
-          "notes": "1 Susquehanna St, Jim Thorpe, PA 18229  •  (570) 325-8485"
+          "notes": "1 Susquehanna St, Jim Thorpe, PA 18229 • (570) 325-8485",
+          "coordinates": {
+            "lat": 40.863141,
+            "lng": -75.737447
+          },
+          "address": "1 Susquehanna St, Jim Thorpe, PA 18229"
         },
         {
           "name": "Reading Blue Mountain & Northern Railroad",
           "times": {
-            "kingston": 100,
-            "scranton": 109,
-            "canadensis": 108
+            "kingston": 77,
+            "scranton": 89,
+            "canadensis": 91
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Reading%20Blue%20Mountain%20%26%20Northern%20Railroad%203501%20Pottsville%20Pike%2C%20Reading%2C%20PA%2019605",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.576243%2C-76.024758",
           "website": "https://www.rbmnrr-passenger.com/pijt",
-          "notes": "3501 Pottsville Pike, Reading, PA 19605 | Site: https://www.rbmnrr-passenger.com/pijt"
+          "notes": "3501 Pottsville Pike, Reading, PA 19605 | Site: https://www.rbmnrr-passenger.com/pijt",
+          "coordinates": {
+            "lat": 40.576243,
+            "lng": -76.024758
+          },
+          "address": "1 Railroad Blvd, Port Clinton, PA 19549"
         }
       ]
     },
@@ -1816,68 +2581,98 @@
         {
           "name": "Great Wolf Lodge | Pocono Mountains",
           "times": {
-            "kingston": 56,
-            "scranton": 44,
-            "canadensis": 27
+            "kingston": 54,
+            "scranton": 45,
+            "canadensis": 24
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Great%20Wolf%20Lodge%20%7C%20Pocono%20Mountains%201%20Great%20Wolf%20Dr%2C%20Scotrun%2C%20PA%2018355",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.059849%2C-75.322075",
           "website": "https://www.greatwolf.com/poconos",
-          "notes": "1 Great Wolf Dr, Scotrun, PA 18355 | Site: https://www.greatwolf.com/poconos"
+          "notes": "1 Great Wolf Dr, Scotrun, PA 18355 | Site: https://www.greatwolf.com/poconos",
+          "coordinates": {
+            "lat": 41.059849,
+            "lng": -75.322075
+          },
+          "address": "1 Great Wolf Dr, Scotrun, PA 18355"
         },
         {
           "name": "Eagles Mere Toboggan Slide",
           "times": {
-            "kingston": 68,
-            "scranton": 85,
-            "canadensis": 118
+            "kingston": 67,
+            "scranton": 86,
+            "canadensis": 121
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Eagles%20Mere%20Toboggan%20Slide%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.412394%2C-76.581527",
           "website": "https://www.eaglesmeretobogganslide.com/",
-          "notes": "PO Box 56, Eagles Mere, PA 17731  •  Winter; ice toboggan | Site: https://www.eaglesmeretobogganslide.com/"
+          "notes": "PO Box 56, Eagles Mere, PA 17731  •  Winter; ice toboggan | Site: https://www.eaglesmeretobogganslide.com/",
+          "coordinates": {
+            "lat": 41.412394,
+            "lng": -76.581527
+          },
+          "address": "PO Box 56, Eagles Mere, PA 17731"
         },
         {
           "name": "Pocono Guided Zip TreeVentures",
           "times": {
-            "kingston": 73,
-            "scranton": 62,
-            "canadensis": 39
+            "kingston": 71,
+            "scranton": 63,
+            "canadensis": 35
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Pocono%20Guided%20Zip%20TreeVentures%201575%20Fairway%20Blvd%2C%20East%20Stroudsburg%2C%20PA%2018302",
-          "website": "https://g.co/kgs/8P8sWwj",
-          "notes": "1575 Fairway Blvd, East Stroudsburg, PA 18302  •  (800) 446-0231; aerial ropes course | Site: https://g.co/kgs/8P8sWwj"
+          "map": "https://www.google.com/maps/search/?api=1&query=41.071962%2C-75.036209",
+          "website": "https://www.google.com/maps/search/?api=1&query=Pocono%20TreeVentures",
+          "notes": "1575 Fairway Blvd, East Stroudsburg, PA 18302  •  (800) 446-0231; aerial ropes course | Site: https://www.google.com/maps/search/?api=1&query=Pocono%20TreeVentures",
+          "coordinates": {
+            "lat": 41.071962,
+            "lng": -75.036209
+          },
+          "address": "1575 Fairway Blvd, East Stroudsburg, PA 18302"
         },
         {
           "name": "Land of Make Believe",
           "times": {
-            "kingston": 76,
-            "scranton": 66,
-            "canadensis": 49
+            "kingston": 75,
+            "scranton": 67,
+            "canadensis": 46
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Land%20of%20Make%20Believe%20354%20Great%20Meadows%20Rd%2C%20Hope%2C%20NJ%2007844",
-          "website": "https://g.co/kgs/teBQ5E",
-          "notes": "354 Great Meadows Rd, Hope, NJ 07844  •  (908) 459-9000 | Site: https://g.co/kgs/teBQ5E"
+          "map": "https://www.google.com/maps/search/?api=1&query=40.902847%2C-74.958016",
+          "website": "https://www.google.com/maps/search/?api=1&query=Land%20of%20Make%20Believe",
+          "notes": "354 Great Meadows Rd, Hope, NJ 07844  •  (908) 459-9000 | Site: https://www.google.com/maps/search/?api=1&query=Land%20of%20Make%20Believe",
+          "coordinates": {
+            "lat": 40.902847,
+            "lng": -74.958016
+          },
+          "address": "354 Great Meadows Rd, Hope, NJ 07844"
         },
         {
           "name": "Thrillz High Flying Adventure Park",
           "times": {
-            "kingston": 100,
-            "scranton": 108,
-            "canadensis": 109
+            "kingston": 98,
+            "scranton": 109,
+            "canadensis": 106
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Thrillz%20High%20Flying%20Adventure%20Park%20555%20S%20Henderson%20Rd%2C%20King%20of%20Prussia%2C%20PA%2019406",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.079521%2C-75.355894",
           "website": "https://thrillzparks.com/king-of-prussia-pa/",
-          "notes": "555 S Henderson Rd, King of Prussia, PA 19406 | Site: https://thrillzparks.com/king-of-prussia-pa/"
+          "notes": "555 S Henderson Rd, King of Prussia, PA 19406 | Site: https://thrillzparks.com/king-of-prussia-pa/",
+          "coordinates": {
+            "lat": 40.079521,
+            "lng": -75.355894
+          },
+          "address": "555 S Henderson Rd, King of Prussia, PA 19406"
         },
         {
           "name": "American Dream",
           "times": {
-            "kingston": 125,
-            "scranton": 114,
-            "canadensis": 98
+            "kingston": 123,
+            "scranton": 115,
+            "canadensis": 95
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=American%20Dream%201%20American%20Dream%20Wy%2C%20East%20Rutherford%2C%20NJ%2007073",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.809129%2C-74.068567",
           "website": "https://betweencarpools.com/american-dream/",
-          "notes": "1 American Dream Wy, East Rutherford, NJ 07073 | Site: https://betweencarpools.com/american-dream/"
+          "notes": "1 American Dream Wy, East Rutherford, NJ 07073 | Site: https://betweencarpools.com/american-dream/",
+          "coordinates": {
+            "lat": 40.809129,
+            "lng": -74.068567
+          },
+          "address": "1 American Dream Wy, East Rutherford, NJ 07073"
         }
       ]
     },
@@ -1887,24 +2682,34 @@
         {
           "name": "Montage Mountain Resorts",
           "times": {
-            "kingston": 27,
-            "scranton": 15,
-            "canadensis": 47
+            "kingston": 25,
+            "scranton": 16,
+            "canadensis": 51
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Montage%20Mountain%20Resorts%201000%20Montage%20Mountain%20Rd%2C%20Scranton%2C%20PA%2018507",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.351243%2C-75.662917",
           "website": "https://www.montagemountaingroup.com/",
-          "notes": "1000 Montage Mountain Rd, Scranton, PA 18507  •  Skiing, snowboarding, lessons | Site: https://www.montagemountaingroup.com/"
+          "notes": "1000 Montage Mountain Rd, Scranton, PA 18507  •  Skiing, snowboarding, lessons | Site: https://www.montagemountaingroup.com/",
+          "coordinates": {
+            "lat": 41.351243,
+            "lng": -75.662917
+          },
+          "address": "1000 Montage Mountain Rd, Scranton, PA 18507"
         },
         {
           "name": "Camelback Resort",
           "times": {
-            "kingston": 55,
+            "kingston": 54,
             "scranton": 45,
-            "canadensis": 31
+            "canadensis": 28
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Camelback%20Resort%20193%20Resort%20Dr%2C%20Tannersville%2C%20PA%2018372",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.052224%2C-75.346053",
           "website": null,
-          "notes": "193 Resort Dr, Tannersville, PA 18372  •  Skiing, waterpark"
+          "notes": "193 Resort Dr, Tannersville, PA 18372 • Skiing, waterpark",
+          "coordinates": {
+            "lat": 41.052224,
+            "lng": -75.346053
+          },
+          "address": "193 Resort Dr, Tannersville, PA 18372"
         }
       ]
     },
@@ -1914,222 +2719,322 @@
         {
           "name": "Back Mountain Trail",
           "times": {
-            "kingston": 7,
-            "scranton": 29,
-            "canadensis": 76
+            "kingston": 8,
+            "scranton": 27,
+            "canadensis": 62
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Back%20Mountain%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.286338%2C-75.900631",
           "website": null,
-          "notes": "trail behind the cheder building in Luzerne. stroller friendly"
+          "notes": "trail behind the cheder building in Luzerne. stroller friendly",
+          "coordinates": {
+            "lat": 41.286338,
+            "lng": -75.900631
+          },
+          "address": null
         },
         {
           "name": "Frances Slocum State Park",
           "times": {
-            "kingston": 19,
-            "scranton": 36,
-            "canadensis": 69
+            "kingston": 18,
+            "scranton": 37,
+            "canadensis": 72
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Frances%20Slocum%20State%20Park%20565%20Mt%20Olivet%20Rd%2C%20Wyoming%2C%20PA%2018644",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.340711%2C-75.892579",
           "website": null,
-          "notes": "565 Mt Olivet Rd, Wyoming, PA 18644  •  (570) 696-3525"
+          "notes": "565 Mt Olivet Rd, Wyoming, PA 18644 • (570) 696-3525",
+          "coordinates": {
+            "lat": 41.340711,
+            "lng": -75.892579
+          },
+          "address": "565 Mt Olivet Rd, Wyoming, PA 18644"
         },
         {
           "name": "Bloomsburg Rail Trail",
           "times": {
-            "kingston": 56,
-            "scranton": 66,
-            "canadensis": 80
+            "kingston": 55,
+            "scranton": 67,
+            "canadensis": 82
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Bloomsburg%20Rail%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.004129%2C-76.460635",
           "website": null,
-          "notes": "~3-mile out-and-back; flat gravel & asphalt along Fishing Creek. Bloomsburg, PA."
+          "notes": "~3-mile out-and-back; flat gravel & asphalt along Fishing Creek. Bloomsburg, PA.",
+          "coordinates": {
+            "lat": 41.004129,
+            "lng": -76.460635
+          },
+          "address": "Bloomsburg Rail-Trail, Bloomsburg, PA 17815"
         },
         {
           "name": "Cherry Valley National Wildlife Refuge",
           "times": {
-            "kingston": 61,
-            "scranton": 50,
-            "canadensis": 33
+            "kingston": 60,
+            "scranton": 51,
+            "canadensis": 36
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Cherry%20Valley%20National%20Wildlife%20Refuge%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.883408%2C-75.304598",
           "website": null,
-          "notes": "3.5+ miles paved (former golf cart paths) through wetlands & meadows. Stroudsburg, PA."
+          "notes": "3.5+ miles paved (former golf cart paths) through wetlands & meadows. Stroudsburg, PA.",
+          "coordinates": {
+            "lat": 40.883408,
+            "lng": -75.304598
+          },
+          "address": "Stroudsburg, PA 18360"
         },
         {
           "name": "D&H Rail-Trail",
           "times": {
-            "kingston": 58,
-            "scranton": 39,
-            "canadensis": 66
+            "kingston": 77,
+            "scranton": 57,
+            "canadensis": 92
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=D%26H%20Rail-Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.96599%2C-75.578079",
           "website": null,
-          "notes": "Wide crushed-stone, gentle grade; access points across multiple NEPA counties. Union Dale, PA."
+          "notes": "Wide crushed-stone, gentle grade; access points across multiple NEPA counties. Union Dale, PA.",
+          "coordinates": {
+            "lat": 41.96599,
+            "lng": -75.578079
+          },
+          "address": "D&H Rail-Trail, Lanesboro, PA 18847"
         },
         {
           "name": "ForEvergreen Nature Preserve",
           "times": {
-            "kingston": 63,
-            "scranton": 50,
-            "canadensis": 18
+            "kingston": 62,
+            "scranton": 51,
+            "canadensis": 20
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=ForEvergreen%20Nature%20Preserve%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.060233%2C-75.216877",
           "website": null,
-          "notes": "1-mile gravel loop through forest & meadow; bald eagle viewing. East Stroudsburg, PA."
+          "notes": "1-mile gravel loop through forest & meadow; bald eagle viewing. East Stroudsburg, PA.",
+          "coordinates": {
+            "lat": 41.060233,
+            "lng": -75.216877
+          },
+          "address": "1539 Cherry Lane Rd, East Stroudsburg, PA 18301"
         },
         {
           "name": "Greater Hazleton Rails to Trails",
           "times": {
-            "kingston": 43,
-            "scranton": 52,
-            "canadensis": 66
+            "kingston": 42,
+            "scranton": 54,
+            "canadensis": 68
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Greater%20Hazleton%20Rails%20to%20Trails%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.941399%2C-75.947451",
           "website": null,
-          "notes": "~4-mile main section, flat crushed stone; Dreck Creek Reservoir views. Hazle Twp., PA."
+          "notes": "~4-mile main section, flat crushed stone; Dreck Creek Reservoir views. Hazle Twp., PA.",
+          "coordinates": {
+            "lat": 40.941399,
+            "lng": -75.947451
+          },
+          "address": "Greater Hazleton Rails to Trails, Hazle Township, PA 18201"
         },
         {
           "name": "Hawk Mountain Sanctuary",
           "times": {
-            "kingston": 75,
-            "scranton": 85,
-            "canadensis": 93
+            "kingston": 74,
+            "scranton": 87,
+            "canadensis": 96
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Hawk%20Mountain%20Sanctuary%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.633803%2C-75.986928",
           "website": null,
-          "notes": "Silhouette Trail, crushed stone, max 8% grade to South Lookout. Kempton, PA."
+          "notes": "Silhouette Trail, crushed stone, max 8% grade to South Lookout. Kempton, PA.",
+          "coordinates": {
+            "lat": 40.633803,
+            "lng": -75.986928
+          },
+          "address": "1700 Hawk Mountain Rd, Kempton, PA 19529"
         },
         {
           "name": "Iroquois Trail",
           "times": {
             "kingston": 40,
-            "scranton": 34,
+            "scranton": 37,
             "canadensis": 71
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Iroquois%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.541563%2C-75.926391",
           "website": null,
-          "notes": "3.6-mile round-trip crushed stone, gentle grades; Tunkhannock Creek. Tunkhannock, PA."
+          "notes": "3.6-mile round-trip crushed stone, gentle grades; Tunkhannock Creek. Tunkhannock, PA.",
+          "coordinates": {
+            "lat": 41.541563,
+            "lng": -75.926391
+          },
+          "address": "51 Sunnyside Rd, Tunkhannock, PA 18657"
         },
         {
           "name": "Lackawanna River Heritage Trail",
           "times": {
             "kingston": 28,
-            "scranton": 5,
-            "canadensis": 45
+            "scranton": 8,
+            "canadensis": 46
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lackawanna%20River%20Heritage%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.405306%2C-75.672188",
           "website": null,
-          "notes": "70-mile system; Scranton-Taylor 3.5-mile stretch is paved with gentle inclines. Scranton, PA."
+          "notes": "70-mile system; Scranton-Taylor 3.5-mile stretch is paved with gentle inclines. Scranton, PA.",
+          "coordinates": {
+            "lat": 41.405306,
+            "lng": -75.672188
+          },
+          "address": "Lackawanna River Heritage Trail, Scranton, PA"
         },
         {
           "name": "Lake Scranton Walking Trail",
           "times": {
-            "kingston": 31,
-            "scranton": 12,
-            "canadensis": 42
+            "kingston": 25,
+            "scranton": 10,
+            "canadensis": 46
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lake%20Scranton%20Walking%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.38995%2C-75.631802",
           "website": null,
-          "notes": "3.5-mile paved loop around the reservoir, mostly flat. Scranton, PA."
+          "notes": "3.5-mile paved loop around the reservoir, mostly flat. Scranton, PA.",
+          "coordinates": {
+            "lat": 41.38995,
+            "lng": -75.631802
+          },
+          "address": "Lake Scranton Walking Trail, Pennsylvania"
         },
         {
           "name": "Lehigh Canal Park",
           "times": {
-            "kingston": 46,
-            "scranton": 55,
-            "canadensis": 57
+            "kingston": 47,
+            "scranton": 58,
+            "canadensis": 61
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Canal%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.816271%2C-75.673708",
           "website": null,
-          "notes": "Flat crushed-stone towpath on the D&L Trail along the Lehigh Canal. Weissport, PA."
+          "notes": "Flat crushed-stone towpath on the D&L Trail along the Lehigh Canal. Weissport, PA.",
+          "coordinates": {
+            "lat": 40.816271,
+            "lng": -75.673708
+          },
+          "address": "Lehighton, PA 18235"
         },
         {
           "name": "Lehigh Gorge Trail",
           "times": {
-            "kingston": 37,
-            "scranton": 45,
-            "canadensis": 47
+            "kingston": 38,
+            "scranton": 47,
+            "canadensis": 49
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Gorge%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.051153%2C-75.771721",
           "website": null,
-          "notes": "26-mile fine-gravel trail, slight downgrade; good for strollers, bikes & scooters. White Haven, PA."
+          "notes": "26-mile fine-gravel trail, slight downgrade; good for strollers, bikes & scooters. White Haven, PA.",
+          "coordinates": {
+            "lat": 41.051153,
+            "lng": -75.771721
+          },
+          "address": "Lehigh Gorge Trail, White Haven, PA"
         },
         {
           "name": "Levee Loop Trail",
           "times": {
-            "kingston": 63,
-            "scranton": 52,
-            "canadensis": 25
+            "kingston": 62,
+            "scranton": 53,
+            "canadensis": 27
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Levee%20Loop%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.002896%2C-75.191784",
           "website": null,
-          "notes": "4.5-mile mostly flat grass & gravel along Brodhead Creek. East Stroudsburg, PA."
+          "notes": "4.5-mile mostly flat grass & gravel along Brodhead Creek. East Stroudsburg, PA.",
+          "coordinates": {
+            "lat": 41.002896,
+            "lng": -75.191784
+          },
+          "address": "Levee Loop Trail, Arlington Heights, PA 18360"
         },
         {
           "name": "Locust Lake State Park",
           "times": {
             "kingston": 55,
-            "scranton": 65,
-            "canadensis": 80
+            "scranton": 67,
+            "canadensis": 82
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Locust%20Lake%20State%20Park%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=40.783787%2C-76.12036",
           "website": null,
-          "notes": "1.3-mile paved Bicycle Trail loop + Oak/Ridge interpretive trail. Barnesville, PA."
+          "notes": "1.3-mile paved Bicycle Trail loop + Oak/Ridge interpretive trail. Barnesville, PA.",
+          "coordinates": {
+            "lat": 40.783787,
+            "lng": -76.12036
+          },
+          "address": "220 Locust Lake Rd, Barnesville, PA 18214"
         },
         {
           "name": "Luzerne County Levee Trail",
           "times": {
-            "kingston": 6,
-            "scranton": 26,
+            "kingston": 4,
+            "scranton": 28,
             "canadensis": 62
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Luzerne%20County%20Levee%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.258592%2C-75.87822",
           "website": null,
-          "notes": "12 miles paved along the Susquehanna; access to Kirby & Nesbitt Parks. Kingston, PA."
+          "notes": "12 miles paved along the Susquehanna; access to Kirby & Nesbitt Parks. Kingston, PA.",
+          "coordinates": {
+            "lat": 41.258592,
+            "lng": -75.87822
+          },
+          "address": "Luzerne County Levee Trail, Kingston, PA 18704"
         },
         {
           "name": "Luzerne County Rail Trail",
           "times": {
-            "kingston": 19,
-            "scranton": 21,
+            "kingston": 18,
+            "scranton": 23,
             "canadensis": 57
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Luzerne%20County%20Rail%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.320718%2C-75.79838",
           "website": null,
-          "notes": "1.8-mile paved/crushed stone, gentle grade; river views & public art. Pittston, PA."
+          "notes": "1.8-mile paved/crushed stone, gentle grade; river views & public art. Pittston, PA.",
+          "coordinates": {
+            "lat": 41.320718,
+            "lng": -75.79838
+          },
+          "address": "Luzerne County Rail Trail, Pittston, PA 18640"
         },
         {
           "name": "Susquehanna Warrior Trail",
           "times": {
-            "kingston": 20,
-            "scranton": 37,
-            "canadensis": 73
+            "kingston": 24,
+            "scranton": 39,
+            "canadensis": 74
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Susquehanna%20Warrior%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.189389%2C-76.088826",
           "website": null,
-          "notes": "12.5-mile hard-packed crushed stone along the Susquehanna. Berwick, PA."
+          "notes": "12.5-mile hard-packed crushed stone along the Susquehanna. Berwick, PA.",
+          "coordinates": {
+            "lat": 41.189389,
+            "lng": -76.088826
+          },
+          "address": "Susquehanna Warrior Trail, Pennsylvania"
         },
         {
           "name": "Trolley Trail",
           "times": {
-            "kingston": 39,
-            "scranton": 14,
-            "canadensis": 51
+            "kingston": 40,
+            "scranton": 19,
+            "canadensis": 53
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Trolley%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.510349%2C-75.718707",
           "website": null,
-          "notes": "Clarks Summit-Dalton ~3 mi one-way; smooth surface, gentle grade. Clarks Summit, PA."
+          "notes": "Clarks Summit-Dalton ~3 mi one-way; smooth surface, gentle grade. Clarks Summit, PA.",
+          "coordinates": {
+            "lat": 41.510349,
+            "lng": -75.718707
+          },
+          "address": "Trolley Trail, Pennsylvania"
         },
         {
           "name": "Wallenpaupack Lake Trail",
           "times": {
-            "kingston": 63,
-            "scranton": 44,
-            "canadensis": 36
+            "kingston": 62,
+            "scranton": 45,
+            "canadensis": 38
           },
-          "map": "https://www.google.com/maps/search/?api=1&query=Wallenpaupack%20Lake%20Trail%2C%20PA",
+          "map": "https://www.google.com/maps/search/?api=1&query=41.458969%2C-75.183618",
           "website": null,
-          "notes": "1.5-mile paved trail along the dike; lake views & learning center. Hawley, PA."
+          "notes": "1.5-mile paved trail along the dike; lake views & learning center. Hawley, PA.",
+          "coordinates": {
+            "lat": 41.458969,
+            "lng": -75.183618
+          },
+          "address": "126 Lamberton Ln, Hawley, PA 18428"
         }
       ]
     }

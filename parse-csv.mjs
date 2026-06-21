@@ -62,18 +62,31 @@ function extractUrl(notes) {
     return m ? m[0].replace(/[.,)]+$/, "") : null;
 }
 
-// Build a Google Maps search link. The source "Map" column has no real URL,
-// so we search by place name + any address-ish text from the notes, biased to PA.
-function mapUrl(name, notes) {
-    // Try to find an address fragment in the notes (e.g. "350 Cliff St, Scranton, PA 18503")
-    let query = name;
-    const addr =
-        notes &&
-        notes.match(
+// Parse a "lat, lng" string into { lat, lng }, or null if not present/valid.
+function parseCoordinates(str) {
+    if (!str) return null;
+    const m = str.match(/(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)/);
+    if (!m) return null;
+    return { lat: parseFloat(m[1]), lng: parseFloat(m[2]) };
+}
+
+// Build a Google Maps search link. Prefer exact coordinates, then the known
+// address, then fall back to searching by place name + any address-ish text
+// from the notes, biased to PA.
+function mapUrl(name, notes, coords, address) {
+    if (coords) {
+        return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${coords.lat},${coords.lng}`)}`;
+    }
+    let query;
+    if (address) {
+        query = `${name} ${address}`;
+    } else {
+        // Try to find an address fragment in the notes (e.g. "350 Cliff St, Scranton, PA 18503")
+        const addr = notes.match(
             /\d{1,5}[^,|]*(?:Rd|St|Ave|Blvd|Dr|Hwy|Ln|Way|Wy|Pkwy|Trail|Trl|Sq|Pike|Cir)\.?[^|]*?,?\s*[A-Z][a-z]+,?\s*[A-Z]{2}\s*\d{5}/,
         );
-    if (addr) query = `${name} ${addr[0]}`;
-    else query = `${name}, PA`;
+        query = addr ? `${name} ${addr[0]}` : `${name}, PA`;
+    }
     return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
 }
 
@@ -81,17 +94,19 @@ const categories = [];
 let current = null;
 
 for (const r of rows) {
-    const [place, kingston, scranton, canadensis, mapCol, notes] = r.map((x) =>
-        (x ?? "").trim(),
-    );
+    const [place, kingston, scranton, canadensis, mapCol, notes, coordsCol, addressCol] =
+        r.map((x) => (x ?? "").trim());
     if (!place) continue;
 
     const kMin = toMinutes(kingston);
     const sMin = toMinutes(scranton);
     const cMin = toMinutes(canadensis);
+    const coordinates = parseCoordinates(coordsCol);
+    const address = addressCol || null;
 
-    // A pure category header has no times, no map link, and no notes.
-    const isHeader = !kMin && !sMin && !cMin && !mapCol && !notes;
+    // A pure category header has no times, no map link, notes, coords, or address.
+    const isHeader =
+        !kMin && !sMin && !cMin && !mapCol && !notes && !coordinates && !address;
     if (isHeader) {
         current = { name: place, items: [] };
         categories.push(current);
@@ -106,9 +121,11 @@ for (const r of rows) {
     current.items.push({
         name: place,
         times: { kingston: kMin, scranton: sMin, canadensis: cMin },
-        map: mapUrl(place, notes),
+        map: mapUrl(place, notes, coordinates, address),
         website: extractUrl(notes),
         notes: notes || "",
+        coordinates,
+        address,
     });
 }
 
