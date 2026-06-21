@@ -79,6 +79,29 @@
   color: var(--wa-color-text-normal);
 }
 
+.address {
+  display: flex;
+  align-items: center;
+  gap: var(--wa-space-2xs);
+  margin-bottom: var(--wa-space-2xs);
+  min-width: 0;
+}
+
+.address__text {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: var(--wa-font-size-s);
+  color: var(--wa-color-text-quiet);
+}
+
+.address__copy {
+  flex-shrink: 0;
+  font-size: var(--wa-font-size-s);
+}
+
 .notes {
   margin: 0;
   font-size: var(--wa-font-size-s);

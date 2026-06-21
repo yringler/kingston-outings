@@ -25,6 +25,18 @@ import { Origin, OriginId, Outing } from './outings.models';
         }
       </ul>
 
+      @if (outing().address; as address) {
+        <div class="address">
+          <span class="address__text" [title]="address">{{ address }}</span>
+          <wa-copy-button
+            class="address__copy"
+            [value]="address"
+            copy-label="Copy address"
+            success-label="Copied!"
+          ></wa-copy-button>
+        </div>
+      }
+
       @if (outing().notes) {
         <p class="notes" [class.notes--clamped]="!expanded() && long()">
           {{ outing().notes }}
