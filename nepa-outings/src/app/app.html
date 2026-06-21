@@ -1,0 +1,119 @@
+<header class="topbar">
+  <div class="topbar__inner">
+    <div class="brand">
+      <h1 class="brand__title">NEPA Family Outings</h1>
+      <p class="brand__sub">{{ svc.totalCount }} kid-friendly spots around Northeast PA</p>
+    </div>
+
+    <div class="origin">
+      <span class="origin__label">Distance from</span>
+      <div class="origin__toggle" role="group" aria-label="Choose your home base">
+        @for (o of svc.origins; track o.id) {
+          <button
+            type="button"
+            class="origin__btn"
+            [class.origin__btn--active]="svc.origin() === o.id"
+            [attr.aria-pressed]="svc.origin() === o.id"
+            (click)="setOrigin(o.id)"
+          >
+            {{ o.label }}
+          </button>
+        }
+      </div>
+    </div>
+  </div>
+
+  <div class="controls">
+    <label class="search">
+      <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+        <path
+          fill="currentColor"
+          d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 5 1.5-1.5-5-5Zm-6 0a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9Z"
+        />
+      </svg>
+      <input
+        type="search"
+        class="search__input"
+        placeholder="Search places or notes…"
+        [value]="svc.search()"
+        (input)="onSearch($any($event.target).value)"
+        aria-label="Search outings"
+      />
+    </label>
+
+    <label class="slider">
+      <span class="slider__label">
+        Within
+        <strong>
+          {{ svc.maxTime() == null ? 'any time' : formatTime(svc.maxTime()!) }}
+        </strong>
+      </span>
+      <input
+        type="range"
+        min="15"
+        [max]="svc.maxAvailableTime"
+        step="15"
+        [value]="svc.maxTime() ?? svc.maxAvailableTime"
+        (input)="onMaxTime($any($event.target).value)"
+        aria-label="Maximum drive time"
+      />
+    </label>
+  </div>
+
+  <nav class="chips" aria-label="Filter by category">
+    <button
+      type="button"
+      class="chip"
+      [class.chip--active]="svc.activeCategory() === null"
+      (click)="svc.activeCategory.set(null)"
+    >
+      All
+    </button>
+    @for (c of chips(); track c.name) {
+      <button
+        type="button"
+        class="chip"
+        [class.chip--active]="svc.activeCategory() === c.name"
+        (click)="toggleCategory(c.name)"
+      >
+        {{ c.name }} <span class="chip__count">{{ c.count }}</span>
+      </button>
+    }
+  </nav>
+</header>
+
+<main class="results">
+  <p class="results__meta" aria-live="polite">
+    Showing <strong>{{ svc.visibleCount() }}</strong> of {{ svc.totalCount }}
+    @if (svc.search() || svc.activeCategory() || svc.maxTime() != null) {
+      · <button type="button" class="link-btn" (click)="clearFilters()">Clear filters</button>
+    }
+  </p>
+
+  @for (category of svc.filtered(); track category.name) {
+    <section class="category">
+      <h2 class="category__title">
+        {{ category.name }}
+        <span class="category__count">{{ category.items.length }}</span>
+      </h2>
+      <div class="grid">
+        @for (item of category.items; track item.name) {
+          <app-outing-card
+            [outing]="item"
+            [origin]="svc.origin()"
+            [origins]="svc.origins"
+          />
+        }
+      </div>
+    </section>
+  } @empty {
+    <div class="empty">
+      <p>No outings match your filters.</p>
+      <button type="button" class="btn btn--map" (click)="clearFilters()">Clear filters</button>
+    </div>
+  }
+</main>
+
+<footer class="page-foot">
+  Built from the NEPA outings list · Drive times are one-way estimates · Map links open Google Maps
+</footer>

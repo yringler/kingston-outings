@@ -1,0 +1,1934 @@
+{
+  "origins": [
+    {
+      "id": "kingston",
+      "label": "Kingston"
+    },
+    {
+      "id": "scranton",
+      "label": "Scranton"
+    },
+    {
+      "id": "canadensis",
+      "label": "Canadensis"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Fruit and Veggies Picking",
+      "items": [
+        {
+          "name": "Smith’ Berry farm",
+          "times": {
+            "kingston": 18,
+            "scranton": 32,
+            "canadensis": 79
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Smith%E2%80%99%20Berry%20farm%2C%20PA",
+          "website": null,
+          "notes": "Closed Sundays. Their blueberries season seems to be over, last week there were some blueberries left but mostly higher up, not really within younger kids reach. Also the bushes are very overgrown it's hard to walk through most rows without getting scratched by branches. It is a really beautiful property. Maybe they'll have it trimmed in time for next year. Slow down when almost there, it's a hidden driveway that's easy to miss"
+        },
+        {
+          "name": "Brace Orchard",
+          "times": {
+            "kingston": 28,
+            "scranton": 42,
+            "canadensis": 89
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Brace%20Orchard%2C%20PA",
+          "website": null,
+          "notes": "peaches, apples"
+        },
+        {
+          "name": "Whistle Pig Pumpkin Patch",
+          "times": {
+            "kingston": 32,
+            "scranton": 54,
+            "canadensis": 101
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Whistle%20Pig%20Pumpkin%20Patch%2C%20PA",
+          "website": "http://www.whistlepigpumpkin.com/",
+          "notes": "raspberries, blueberries etc http://www.whistlepigpumpkin.com/"
+        },
+        {
+          "name": "Burger's Farm Market",
+          "times": {
+            "kingston": 37,
+            "scranton": 53,
+            "canadensis": 79
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Burger's%20Farm%20Market%2C%20PA",
+          "website": null,
+          "notes": "blueberries and different veggies available depending on the time of season Website"
+        },
+        {
+          "name": "Pallman Farms",
+          "times": {
+            "kingston": 41,
+            "scranton": 12,
+            "canadensis": 60
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Pallman%20Farms%2C%20PA",
+          "website": null,
+          "notes": "Website"
+        },
+        {
+          "name": "Stemmrich Blueberry Farm",
+          "times": {
+            "kingston": 42,
+            "scranton": 57,
+            "canadensis": 84
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Stemmrich%20Blueberry%20Farm%2C%20PA",
+          "website": null,
+          "notes": "no pets allowed. cash only. blueberries earlier and peaches later in the summer"
+        },
+        {
+          "name": "Berries & Blooms @ High Horizons Farm",
+          "times": {
+            "kingston": 55,
+            "scranton": 56,
+            "canadensis": 101
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Berries%20%26%20Blooms%20%40%20High%20Horizons%20Farm%2C%20PA",
+          "website": null,
+          "notes": "blueberry picking first week of July till first week of August"
+        },
+        {
+          "name": "Penn-Can Berry Farm",
+          "times": {
+            "kingston": 70,
+            "scranton": 42,
+            "canadensis": 85
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Penn-Can%20Berry%20Farm%2C%20PA",
+          "website": null,
+          "notes": "seasonally open berry farm Facebook"
+        },
+        {
+          "name": "George Schmidt Berry Farm",
+          "times": {
+            "kingston": 88,
+            "scranton": 100,
+            "canadensis": 110
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=George%20Schmidt%20Berry%20Farm%2C%20PA",
+          "website": null,
+          "notes": "different fruits and veggies available at different times of the season"
+        },
+        {
+          "name": "general list of blueberry picking in NEPA",
+          "times": {
+            "kingston": null,
+            "scranton": null,
+            "canadensis": null
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=general%20list%20of%20blueberry%20picking%20in%20NEPA%2C%20PA",
+          "website": null,
+          "notes": ""
+        },
+        {
+          "name": "Daisy Field Farm",
+          "times": {
+            "kingston": 38,
+            "scranton": 47,
+            "canadensis": 52
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Daisy%20Field%20Farm%20542%20Oley%20Valley%20Rd%2C%20White%20Haven%2C%20PA%2018661",
+          "website": "http://www.daisyfieldfarm.com/",
+          "notes": "542 Oley Valley Rd, White Haven, PA 18661 | Site: http://www.daisyfieldfarm.com/"
+        },
+        {
+          "name": "The Shoppes At Ritter's Farm",
+          "times": {
+            "kingston": 38,
+            "scranton": 19,
+            "canadensis": 31
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=The%20Shoppes%20At%20Ritter's%20Farm%201459%20Mt%20Cobb%20Rd%2C%20Lake%20Ariel%2C%20PA%2018436",
+          "website": "https://g.co/kgs/r7a996F",
+          "notes": "1459 Mt Cobb Rd, Lake Ariel, PA 18436 | Site: https://g.co/kgs/r7a996F"
+        },
+        {
+          "name": "Ritter's Cider Mill",
+          "times": {
+            "kingston": 39,
+            "scranton": 20,
+            "canadensis": 31
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Ritter's%20Cider%20Mill%20107%20Wimmers%20Rd%2C%20Jefferson%20Township%2C%20PA%2018436",
+          "website": "https://ritterscidermill.com/",
+          "notes": "107 Wimmers Rd, Jefferson Township, PA 18436  •  Attractions, picking | Site: https://ritterscidermill.com/"
+        },
+        {
+          "name": "Brown Hill Farms",
+          "times": {
+            "kingston": 50,
+            "scranton": 40,
+            "canadensis": 71
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Brown%20Hill%20Farms%20405%20W%20Avery%20Station%20Rd%2C%20Tunkhannock%2C%20PA%2018657",
+          "website": "https://www.brownhillfarms.com/",
+          "notes": "405 W Avery Station Rd, Tunkhannock, PA 18657  •  Sunflowers, picking | Site: https://www.brownhillfarms.com/"
+        },
+        {
+          "name": "Roba Family Farms",
+          "times": {
+            "kingston": 43,
+            "scranton": 22,
+            "canadensis": 51
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Roba%20Family%20Farms%20200%20Cranston%20Ave%2C%20North%20Abington%20Township%2C%20PA%2018414",
+          "website": "https://robafamilyfarms.com/",
+          "notes": "200 Cranston Ave, North Abington Township, PA 18414 | Site: https://robafamilyfarms.com/"
+        },
+        {
+          "name": "Spring Mountain Farms",
+          "times": {
+            "kingston": 47,
+            "scranton": 55,
+            "canadensis": 61
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Spring%20Mountain%20Farms%204595%20Interchange%20Rd%2C%20Lehighton%2C%20PA%2018235",
+          "website": "https://www.springmountainfarms.com/",
+          "notes": "4595 Interchange Rd, Lehighton, PA 18235 | Site: https://www.springmountainfarms.com/"
+        },
+        {
+          "name": "Gulicks Fruit Farm LLC",
+          "times": {
+            "kingston": 80,
+            "scranton": 69,
+            "canadensis": 53
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Gulicks%20Fruit%20Farm%20LLC%206490%20Koehler%20Rd%2C%20Bangor%2C%20PA%2018013",
+          "website": null,
+          "notes": "6490 Koehler Rd, Bangor, PA 18013  •  (610) 498-3020"
+        }
+      ]
+    },
+    {
+      "name": "Playgrounds",
+      "items": [
+        {
+          "name": "Kirby Park",
+          "times": {
+            "kingston": 3,
+            "scranton": 30,
+            "canadensis": 77
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Kirby%20Park%2C%20PA",
+          "website": null,
+          "notes": "near Market St bridge in Kingston"
+        },
+        {
+          "name": "Church Street Park",
+          "times": {
+            "kingston": 5,
+            "scranton": 28,
+            "canadensis": 74
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Church%20Street%20Park%2C%20PA",
+          "website": null,
+          "notes": "great playground tall slide for older kids, .5 mile walk around the playground, paved path"
+        },
+        {
+          "name": "Hamilton Park aka James S. Keiper Memorial Park",
+          "times": {
+            "kingston": 6,
+            "scranton": 29,
+            "canadensis": 76
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Hamilton%20Park%20aka%20James%20S.%20Keiper%20Memorial%20Park%2C%20PA",
+          "website": null,
+          "notes": "on Hamilton Ave in Kingston"
+        },
+        {
+          "name": "Plains Township Municipal Park",
+          "times": {
+            "kingston": 13,
+            "scranton": 26,
+            "canadensis": 73
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Plains%20Township%20Municipal%20Park%2C%20PA",
+          "website": null,
+          "notes": "beautiful playground. handicap accessible"
+        },
+        {
+          "name": "Dallas Nature Playground",
+          "times": {
+            "kingston": 16,
+            "scranton": 38,
+            "canadensis": 85
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Dallas%20Nature%20Playground%2C%20PA",
+          "website": null,
+          "notes": "use this link, if you type in Dallas playground on Google maps it doesn't bring you to the right location"
+        },
+        {
+          "name": "Nay Aug Park",
+          "times": {
+            "kingston": 30,
+            "scranton": 4,
+            "canadensis": 52
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Nay%20Aug%20Park%2C%20PA",
+          "website": null,
+          "notes": "cute nature based playground on a Lackawanna river trail head, nice paved kiddy road for bikes, mostly enclosed playground, it's on Nay Aug Avenue near Greenridge"
+        },
+        {
+          "name": "Weston Field",
+          "times": {
+            "kingston": 32,
+            "scranton": 4,
+            "canadensis": 53
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Weston%20Field%2C%20PA",
+          "website": null,
+          "notes": "small playground, down the road from the Scranton farmers market (.5 mile), portable bathrooms"
+        },
+        {
+          "name": "Monroe Street Park",
+          "times": {
+            "kingston": 35,
+            "scranton": 6,
+            "canadensis": 52
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Monroe%20Street%20Park%2C%20PA",
+          "website": null,
+          "notes": "between clay and Monroe ave in Scranton, fields, playground, no baby swings, sandbox, super sunny"
+        },
+        {
+          "name": "Crowley Park",
+          "times": {
+            "kingston": 35,
+            "scranton": 7,
+            "canadensis": 52
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Crowley%20Park%2C%20PA",
+          "website": null,
+          "notes": "Amazing climbing structures, new, basketball hoops, space to bike and shady, not much for young toddlers"
+        },
+        {
+          "name": "Sarah Bratty Park",
+          "times": {
+            "kingston": 43,
+            "scranton": 19,
+            "canadensis": 51
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Sarah%20Bratty%20Park%2C%20PA",
+          "website": null,
+          "notes": "tiny playground at a Lackawanna river trail"
+        },
+        {
+          "name": "Factoryville Borough/Clinton Twp Joint Municipal Park",
+          "times": {
+            "kingston": 61,
+            "scranton": 33,
+            "canadensis": 77
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Factoryville%20Borough%2FClinton%20Twp%20Joint%20Municipal%20Park%2C%20PA",
+          "website": null,
+          "notes": "AMAZING playground, tall slide and difficult playground and adorable toddler playground, way past clarks summit, huge hill to run down, stunning place"
+        },
+        {
+          "name": "Mountain View Park",
+          "times": {
+            "kingston": 62,
+            "scranton": 49,
+            "canadensis": 34
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Mountain%20View%20Park%2C%20PA",
+          "website": null,
+          "notes": "beautiful playground with lots of play structures"
+        },
+        {
+          "name": "Firefly Playground",
+          "times": {
+            "kingston": 97,
+            "scranton": 73,
+            "canadensis": 65
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Firefly%20Playground%2C%20PA",
+          "website": null,
+          "notes": "half way between Kingston and Monsey. only open some months of the year. call before to double check"
+        },
+        {
+          "name": "Kingston Neighborhood Park",
+          "times": {
+            "kingston": 5,
+            "scranton": 25,
+            "canadensis": 58
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Kingston%20Neighborhood%20Park%2C%20PA",
+          "website": null,
+          "notes": "Kingston, PA 18704"
+        },
+        {
+          "name": "Andrew Barilla Jr. Park",
+          "times": {
+            "kingston": 8,
+            "scranton": 26,
+            "canadensis": 59
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Andrew%20Barilla%20Jr.%20Park%20447%20Slocum%20St%2C%20Swoyersville%2C%20PA%2018704",
+          "website": null,
+          "notes": "447 Slocum St, Swoyersville, PA 18704  •  447 Slocum St, Kingston PA"
+        },
+        {
+          "name": "Barney Farms Park",
+          "times": {
+            "kingston": 12,
+            "scranton": 33,
+            "canadensis": 66
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Barney%20Farms%20Park%20178%20Reliance%20Dr%2C%20Wilkes-Barre%2C%20PA%2018702",
+          "website": "https://share.google/V58CXCrzHJE4JT26G",
+          "notes": "178 Reliance Dr, Wilkes-Barre, PA 18702 | Site: https://share.google/V58CXCrzHJE4JT26G"
+        },
+        {
+          "name": "Jackson Township Park",
+          "times": {
+            "kingston": 15,
+            "scranton": 33,
+            "canadensis": 66
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Jackson%20Township%20Park%201275%20Huntsville%20Rd%2C%20Shavertown%2C%20PA%2018708",
+          "website": null,
+          "notes": "1275 Huntsville Rd, Shavertown, PA 18708"
+        },
+        {
+          "name": "Spadi Park",
+          "times": {
+            "kingston": 15,
+            "scranton": 22,
+            "canadensis": 55
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Spadi%20Park%2012%20Main%20St%2C%20Inkerman%2C%20PA%2018640",
+          "website": null,
+          "notes": "12 Main St, Inkerman, PA 18640  •  Jenkins Township"
+        },
+        {
+          "name": "Laflin Creekside Community Playground",
+          "times": {
+            "kingston": 16,
+            "scranton": 21,
+            "canadensis": 53
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Laflin%20Creekside%20Community%20Playground%2C%20PA",
+          "website": "https://maps.app.goo.gl/WGRY38GEbe3PYX2v9",
+          "notes": "Wilkes-Barre, PA 18702  •  Recommended nice park | Site: https://maps.app.goo.gl/WGRY38GEbe3PYX2v9"
+        },
+        {
+          "name": "Yatesville Borough Park",
+          "times": {
+            "kingston": 19,
+            "scranton": 20,
+            "canadensis": 52
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Yatesville%20Borough%20Park%2C%20PA",
+          "website": "https://share.google/Zm9yiqVJle2Qt3gIK",
+          "notes": "Pittston Ave, Yatesville, PA 18640 | Site: https://share.google/Zm9yiqVJle2Qt3gIK"
+        },
+        {
+          "name": "Duryea Community Park",
+          "times": {
+            "kingston": 26,
+            "scranton": 17,
+            "canadensis": 49
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Duryea%20Community%20Park%2C%20PA",
+          "website": null,
+          "notes": "Washington St, Duryea, PA 18642  •  (570) 457-6120"
+        },
+        {
+          "name": "Wright Township Recreation Park",
+          "times": {
+            "kingston": 25,
+            "scranton": 34,
+            "canadensis": 63
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Wright%20Township%20Recreation%20Park%2C%20PA",
+          "website": null,
+          "notes": "Park Rd, Mountain Top, PA 18707  •  (570) 474-9067"
+        },
+        {
+          "name": "Falls Playground",
+          "times": {
+            "kingston": 32,
+            "scranton": 26,
+            "canadensis": 60
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Falls%20Playground%20327%20River%20Rd%2C%20Falls%2C%20PA%2018615",
+          "website": null,
+          "notes": "327 River Rd, Falls, PA 18615  •  327 River Rd, Falls, PA"
+        },
+        {
+          "name": "Hillside Park",
+          "times": {
+            "kingston": 42,
+            "scranton": 16,
+            "canadensis": 50
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Hillside%20Park%201188%20Winola%20Rd%2C%20South%20Abington%20Township%2C%20PA%2018411",
+          "website": null,
+          "notes": "1188 Winola Rd, South Abington Township, PA 18411  •  (570) 586-8996"
+        },
+        {
+          "name": "Bloomsburg Town Park",
+          "times": {
+            "kingston": 57,
+            "scranton": 67,
+            "canadensis": 86
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Bloomsburg%20Town%20Park%2C%20PA",
+          "website": "https://maps.app.goo.gl/LXEDFiAJaJZn657a8",
+          "notes": "Market St, Bloomsburg, PA 17815 | Site: https://maps.app.goo.gl/LXEDFiAJaJZn657a8"
+        },
+        {
+          "name": "Covered Bridge Park",
+          "times": {
+            "kingston": 66,
+            "scranton": 74,
+            "canadensis": 72
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Covered%20Bridge%20Park%202465%20Wehr%20Mill%20Rd%2C%20Allentown%2C%20PA%2018104",
+          "website": "https://maps.app.goo.gl/s6DPHyogvkfaeVi78",
+          "notes": "2465 Wehr Mill Rd, Allentown, PA 18104  •  (610) 398-0407 | Site: https://maps.app.goo.gl/s6DPHyogvkfaeVi78"
+        },
+        {
+          "name": "Cedar Beach Park",
+          "times": {
+            "kingston": 70,
+            "scranton": 78,
+            "canadensis": 73
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Cedar%20Beach%20Park%202600%20Parkway%20Blvd%2C%20Allentown%2C%20PA%2018104",
+          "website": "https://share.google/MaWrfSoI1ckJpVejt",
+          "notes": "2600 Parkway Blvd, Allentown, PA 18104  •  Big park good for all ages, Allentown | Site: https://share.google/MaWrfSoI1ckJpVejt"
+        }
+      ]
+    },
+    {
+      "name": "Playgrounds with sprinklers",
+      "items": [
+        {
+          "name": "Coal Street Park",
+          "times": {
+            "kingston": 6,
+            "scranton": 27,
+            "canadensis": 74
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Coal%20Street%20Park%2C%20PA",
+          "website": null,
+          "notes": "sprinklers on till 6 pm"
+        },
+        {
+          "name": "Sherwood Park aka S. Anthony's Memorial Park",
+          "times": {
+            "kingston": 32,
+            "scranton": 8,
+            "canadensis": 48
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Sherwood%20Park%20aka%20S.%20Anthony's%20Memorial%20Park%2C%20PA",
+          "website": null,
+          "notes": "Sherwood Park aka St Anthony's Memorial Park-  in Dunmore, New and old playground, has a splash pad and field, playground mostly enclosed"
+        },
+        {
+          "name": "Novembrino Park",
+          "times": {
+            "kingston": 33,
+            "scranton": 4,
+            "canadensis": 56
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Novembrino%20Park%2C%20PA",
+          "website": null,
+          "notes": "in Scranton"
+        },
+        {
+          "name": "McDade Park",
+          "times": {
+            "kingston": 35,
+            "scranton": 10,
+            "canadensis": 61
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=McDade%20Park%2C%20PA",
+          "website": null,
+          "notes": "by the coal mine, gorgeous place for pictures, great, open playground, small lake, sandbox and lots of fields. splashed open 11-7 daily . to find splashpad:Look for signs for the pool. It’s to the left about. 1/4 mile after the playground up a driveway on the left"
+        },
+        {
+          "name": "South Abington Community Park",
+          "times": {
+            "kingston": 42,
+            "scranton": 12,
+            "canadensis": 58
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=South%20Abington%20Community%20Park%2C%20PA",
+          "website": null,
+          "notes": "clarks summit, creek with paved path along side, playground, sandbox, splash pad"
+        }
+      ]
+    },
+    {
+      "name": "Indoors Trampoline places",
+      "items": [
+        {
+          "name": "Nova Trampoline Park",
+          "times": {
+            "kingston": 10,
+            "scranton": 29,
+            "canadensis": 76
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Nova%20Trampoline%20Park%2C%20PA",
+          "website": null,
+          "notes": ""
+        },
+        {
+          "name": "Sky Zone Trampoline Park",
+          "times": {
+            "kingston": 20,
+            "scranton": 17,
+            "canadensis": 64
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Sky%20Zone%20Trampoline%20Park%2C%20PA",
+          "website": null,
+          "notes": ""
+        },
+        {
+          "name": "Defy Scranton",
+          "times": {
+            "kingston": 40,
+            "scranton": 12,
+            "canadensis": 55
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Defy%20Scranton%2C%20PA",
+          "website": null,
+          "notes": "Website"
+        }
+      ]
+    },
+    {
+      "name": "Feeding animals / farms / zoos",
+      "items": [
+        {
+          "name": "The Lands at Hillside Farms",
+          "times": {
+            "kingston": 10,
+            "scranton": 32,
+            "canadensis": 79
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=The%20Lands%20at%20Hillside%20Farms%2C%20PA",
+          "website": null,
+          "notes": "animals and a creek"
+        },
+        {
+          "name": "Safari Farm Petting Zoo",
+          "times": {
+            "kingston": 47,
+            "scranton": 23,
+            "canadensis": 37
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Safari%20Farm%20Petting%20Zoo%2C%20PA",
+          "website": null,
+          "notes": "Great for getting kids used to animals, they let you touch them and you can feed them. It's not very large"
+        },
+        {
+          "name": "Quiet Valley Living Historical Farm",
+          "times": {
+            "kingston": 75,
+            "scranton": 61,
+            "canadensis": 48
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Quiet%20Valley%20Living%20Historical%20Farm%2C%20PA",
+          "website": null,
+          "notes": "Website"
+        },
+        {
+          "name": "Alpacas of Sunshine Farm",
+          "times": {
+            "kingston": 80,
+            "scranton": 53,
+            "canadensis": 96
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Alpacas%20of%20Sunshine%20Farm%2C%20PA",
+          "website": null,
+          "notes": "You get to go in right with the alpacas. It's free. there's no hours, you have to call to see if they'll be around when you want to come it's the owner's hobby CALL BEFORE"
+        },
+        {
+          "name": "Lehigh Valley Zoo",
+          "times": {
+            "kingston": 91,
+            "scranton": 101,
+            "canadensis": 108
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Valley%20Zoo%2C%20PA",
+          "website": null,
+          "notes": "zoo"
+        },
+        {
+          "name": "The Preserve",
+          "times": {
+            "kingston": 116,
+            "scranton": 89,
+            "canadensis": 131
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=The%20Preserve%2C%20PA",
+          "website": null,
+          "notes": "drive through zoo near Binghamton"
+        },
+        {
+          "name": "Goldschein's Homestead",
+          "times": {
+            "kingston": 140,
+            "scranton": 116,
+            "canadensis": 107
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Goldschein's%20Homestead%2C%20PA",
+          "website": null,
+          "notes": "upstate NY"
+        },
+        {
+          "name": "Puppies & More",
+          "times": {
+            "kingston": 4,
+            "scranton": 30,
+            "canadensis": 63
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Puppies%20%26%20More%2075%20S%20Wyoming%20Ave%2C%20Kingston%2C%20PA%2018704",
+          "website": "https://maps.google.com/?cid=7535749191563745533",
+          "notes": "75 S Wyoming Ave, Kingston, PA 18704  •  (570) 714-3101 | Site: https://maps.google.com/?cid=7535749191563745533"
+        },
+        {
+          "name": "Bear Mountain Butterfly Sanctuary",
+          "times": {
+            "kingston": 37,
+            "scranton": 45,
+            "canadensis": 52
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Bear%20Mountain%20Butterfly%20Sanctuary%2018%20Church%20Rd%2C%20Jim%20Thorpe%2C%20PA%2018229",
+          "website": "https://bearmountainbutterflies.com",
+          "notes": "18 Church Rd, Jim Thorpe, PA 18229  •  Indoor; insects, crafts, films | Site: https://bearmountainbutterflies.com"
+        },
+        {
+          "name": "Safari Farm Petting Zoo & Sanctuary",
+          "times": {
+            "kingston": 40,
+            "scranton": 21,
+            "canadensis": 31
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Safari%20Farm%20Petting%20Zoo%20%26%20Sanctuary%201675%20Mt%20Cobb%20Rd%2C%20Lake%20Ariel%2C%20PA%2018436",
+          "website": "https://g.co/kgs/Zzw7xTK",
+          "notes": "1675 Mt Cobb Rd, Lake Ariel, PA 18436 | Site: https://g.co/kgs/Zzw7xTK"
+        },
+        {
+          "name": "Alpacas of Windy Haven Farm",
+          "times": {
+            "kingston": 42,
+            "scranton": 24,
+            "canadensis": 37
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Alpacas%20of%20Windy%20Haven%20Farm%20153%20Center%20St%2C%20Covington%20Township%2C%20PA%2018424",
+          "website": null,
+          "notes": "153 Center St, Covington Township, PA 18424  •  (570) 955-8228; call ahead"
+        },
+        {
+          "name": "Pocono Snake & Animal Farm",
+          "times": {
+            "kingston": 62,
+            "scranton": 52,
+            "canadensis": 32
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Pocono%20Snake%20%26%20Animal%20Farm%20424%20Seven%20Bridge%20Rd%2C%20East%20Stroudsburg%2C%20PA%2018301",
+          "website": null,
+          "notes": "424 Seven Bridge Rd, East Stroudsburg, PA 18301  •  (570) 223-8653"
+        },
+        {
+          "name": "Animal Adventure Park",
+          "times": {
+            "kingston": 91,
+            "scranton": 68,
+            "canadensis": 99
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Animal%20Adventure%20Park%2085%20Martin%20Hill%20Rd%2C%20Harpursville%2C%20NY%2013787",
+          "website": "https://theanimaladventurepreserve.com/",
+          "notes": "85 Martin Hill Rd, Harpursville, NY 13787 | Site: https://theanimaladventurepreserve.com/"
+        },
+        {
+          "name": "Philadelphia Zoo",
+          "times": {
+            "kingston": 112,
+            "scranton": 120,
+            "canadensis": 122
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Philadelphia%20Zoo%203400%20W%20Girard%20Ave%2C%20Philadelphia%2C%20PA%2019104",
+          "website": null,
+          "notes": "3400 W Girard Ave, Philadelphia, PA 19104"
+        },
+        {
+          "name": "Essex County Turtle Back Zoo",
+          "times": {
+            "kingston": 116,
+            "scranton": 105,
+            "canadensis": 89
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Essex%20County%20Turtle%20Back%20Zoo%20560%20Northfield%20Ave%2C%20West%20Orange%2C%20NJ%2007052",
+          "website": "http://turtlebackzoo.com/",
+          "notes": "560 Northfield Ave, West Orange, NJ 07052 | Site: http://turtlebackzoo.com/"
+        }
+      ]
+    },
+    {
+      "name": "Garden",
+      "items": [
+        {
+          "name": "Edward's Garden Center",
+          "times": {
+            "kingston": 6,
+            "scranton": 27,
+            "canadensis": 73
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Edward's%20Garden%20Center%2C%20PA",
+          "website": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Fishing",
+      "items": [
+        {
+          "name": "Big Brown Fish & Pay Lakes",
+          "times": {
+            "kingston": 58,
+            "scranton": 62,
+            "canadensis": 52
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Big%20Brown%20Fish%20%26%20Pay%20Lakes%2C%20PA",
+          "website": null,
+          "notes": "Big brown is a fishing lake with 3 different skill levels . You can rent equipment and they'll even gut the fish for you"
+        }
+      ]
+    },
+    {
+      "name": "Museums",
+      "items": [
+        {
+          "name": "Bloomsburg Children's Museum",
+          "times": {
+            "kingston": 62,
+            "scranton": 78,
+            "canadensis": 105
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Bloomsburg%20Children's%20Museum%2C%20PA",
+          "website": null,
+          "notes": "children's museum"
+        },
+        {
+          "name": "Da Vinci Science Center",
+          "times": {
+            "kingston": 83,
+            "scranton": 93,
+            "canadensis": 88
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Da%20Vinci%20Science%20Center%2C%20PA",
+          "website": null,
+          "notes": "science museum"
+        },
+        {
+          "name": "America on Wheels",
+          "times": {
+            "kingston": 84,
+            "scranton": 94,
+            "canadensis": 86
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=America%20on%20Wheels%2C%20PA",
+          "website": null,
+          "notes": "For those with EBT $3 Adult. Kids under 12 free on weekends. Perfect for all males (kids and adults) and some females 😉"
+        },
+        {
+          "name": "Dorflinger Glass Museum",
+          "times": {
+            "kingston": 86,
+            "scranton": 63,
+            "canadensis": 60
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Dorflinger%20Glass%20Museum%2C%20PA",
+          "website": null,
+          "notes": "call ahead, not open daily Website"
+        },
+        {
+          "name": "general museum location finder",
+          "times": {
+            "kingston": null,
+            "scranton": null,
+            "canadensis": null
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=general%20museum%20location%20finder%2C%20PA",
+          "website": null,
+          "notes": "For those on food stamps, you can get into some museums at a very big discount or free"
+        },
+        {
+          "name": "Everhart Museum",
+          "times": {
+            "kingston": 29,
+            "scranton": 8,
+            "canadensis": 42
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Everhart%20Museum%201901%20Mulberry%20St%2C%20Scranton%2C%20PA%2018510",
+          "website": "https://everhart-museum.org/",
+          "notes": "1901 Mulberry St, Scranton, PA 18510 | Site: https://everhart-museum.org/"
+        },
+        {
+          "name": "Steamtown National Historic Site",
+          "times": {
+            "kingston": 31,
+            "scranton": 5,
+            "canadensis": 44
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Steamtown%20National%20Historic%20Site%20350%20Cliff%20St%2C%20Scranton%2C%20PA%2018503",
+          "website": "https://share.google/m144MXeDf63cbWzPK",
+          "notes": "350 Cliff St, Scranton, PA 18503 | Site: https://share.google/m144MXeDf63cbWzPK"
+        },
+        {
+          "name": "The Electric City Trolley Museum",
+          "times": {
+            "kingston": 32,
+            "scranton": 6,
+            "canadensis": 45
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=The%20Electric%20City%20Trolley%20Museum%20300%20Cliff%20St%2C%20Scranton%2C%20PA%2018503",
+          "website": null,
+          "notes": "300 Cliff St, Scranton, PA 18503"
+        },
+        {
+          "name": "Asa Packer Mansion Museum",
+          "times": {
+            "kingston": 48,
+            "scranton": 56,
+            "canadensis": 63
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Asa%20Packer%20Mansion%20Museum%2C%20PA",
+          "website": "https://www.asapackermansion.com/",
+          "notes": "Packer Hill Ave, Jim Thorpe, PA 18229 | Site: https://www.asapackermansion.com/"
+        },
+        {
+          "name": "Old Jail Museum",
+          "times": {
+            "kingston": 49,
+            "scranton": 58,
+            "canadensis": 64
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Old%20Jail%20Museum%2C%20PA",
+          "website": null,
+          "notes": "128 W Broadway, Jim Thorpe, PA 18229  •  (570) 325-5259"
+        },
+        {
+          "name": "Delaware & Hudson Canal Park at Lock 31",
+          "times": {
+            "kingston": 69,
+            "scranton": 50,
+            "canadensis": 41
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Delaware%20%26%20Hudson%20Canal%20Park%20at%20Lock%2031%20179%20Texas%20Palmyra%20Hwy%2C%20Hawley%2C%20PA%2018428",
+          "website": "https://www.waynehistorypa.com/museums/canalparklock31",
+          "notes": "179 Texas Palmyra Hwy, Hawley, PA 18428 | Site: https://www.waynehistorypa.com/museums/canalparklock31"
+        },
+        {
+          "name": "Grey Towers National Historic Site",
+          "times": {
+            "kingston": 72,
+            "scranton": 53,
+            "canadensis": 43
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Grey%20Towers%20National%20Historic%20Site%20151%20Grey%20Towers%20Dr%20Drive%2C%20Milford%2C%20PA%2018337",
+          "website": "https://g.co/kgs/uTZyqXp",
+          "notes": "151 Grey Towers Dr Drive, Milford, PA 18337  •  (570) 296-9630 | Site: https://g.co/kgs/uTZyqXp"
+        },
+        {
+          "name": "Lewisburg Children's Museum",
+          "times": {
+            "kingston": 83,
+            "scranton": 92,
+            "canadensis": 112
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lewisburg%20Children's%20Museum%20815%20Market%20St%20%2314%2C%20Lewisburg%2C%20PA%2017837",
+          "website": "https://g.co/kgs/LvktpX2",
+          "notes": "815 Market St #14, Lewisburg, PA 17837  •  Better than Bloomsburg; kids spend 3+ hrs | Site: https://g.co/kgs/LvktpX2"
+        },
+        {
+          "name": "National Canal Museum",
+          "times": {
+            "kingston": 86,
+            "scranton": 75,
+            "canadensis": 63
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=National%20Canal%20Museum%202750%20Hugh%20Moore%20Park%20Rd%2C%20Easton%2C%20PA%2018042",
+          "website": null,
+          "notes": "2750 Hugh Moore Park Rd, Easton, PA 18042"
+        },
+        {
+          "name": "The Discovery Center of the Southern Tier",
+          "times": {
+            "kingston": 89,
+            "scranton": 67,
+            "canadensis": 98
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=The%20Discovery%20Center%20of%20the%20Southern%20Tier%2060%20Morgan%20Rd%2C%20Binghamton%2C%20NY%2013903",
+          "website": "https://g.co/kgs/KoNn7w9",
+          "notes": "60 Morgan Rd, Binghamton, NY 13903 | Site: https://g.co/kgs/KoNn7w9"
+        }
+      ]
+    },
+    {
+      "name": "Hikes",
+      "items": [
+        {
+          "name": "Back Mountain Trail",
+          "times": {
+            "kingston": 7,
+            "scranton": 29,
+            "canadensis": 76
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Back%20Mountain%20Trail%2C%20PA",
+          "website": null,
+          "notes": "trail behind the cheder building in Luzerne. stroller friendly"
+        },
+        {
+          "name": "Seven Tubs Recreation Area",
+          "times": {
+            "kingston": 13,
+            "scranton": 25,
+            "canadensis": 72
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Seven%20Tubs%20Recreation%20Area%2C%20PA",
+          "website": null,
+          "notes": ""
+        },
+        {
+          "name": "Natural Lands' Bear Creek Preserve",
+          "times": {
+            "kingston": 26,
+            "scranton": 38,
+            "canadensis": 61
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Natural%20Lands'%20Bear%20Creek%20Preserve%2C%20PA",
+          "website": null,
+          "notes": ""
+        },
+        {
+          "name": "Eales Preserve at Moosic Mountain",
+          "times": {
+            "kingston": 40,
+            "scranton": 17,
+            "canadensis": 42
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Eales%20Preserve%20at%20Moosic%20Mountain%2C%20PA",
+          "website": null,
+          "notes": "Really gorgeous hike not too far from here"
+        },
+        {
+          "name": "Ricketts Glen Falls",
+          "times": {
+            "kingston": 43,
+            "scranton": 65,
+            "canadensis": 112
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Ricketts%20Glen%20Falls%2C%20PA",
+          "website": null,
+          "notes": "the link shared may not bring you to the right spot for the hike, research the correct link. amazing waterfall hike (long about 3-4 hours) and hard but fun, beach and boating other smaller hikes also"
+        },
+        {
+          "name": "Hawk Falls Parking",
+          "times": {
+            "kingston": 48,
+            "scranton": 57,
+            "canadensis": 57
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Hawk%20Falls%20Parking%2C%20PA",
+          "website": null,
+          "notes": "waterfall. near boulders field"
+        },
+        {
+          "name": "Rail Gap Pocono Creek Nature Preserve",
+          "times": {
+            "kingston": 68,
+            "scranton": 54,
+            "canadensis": 41
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Rail%20Gap%20Pocono%20Creek%20Nature%20Preserve%2C%20PA",
+          "website": null,
+          "notes": "A few really nice, short kid friendly hikes"
+        },
+        {
+          "name": "Wheelchair/stroller friendly",
+          "times": {
+            "kingston": null,
+            "scranton": null,
+            "canadensis": null
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Wheelchair%2Fstroller%20friendly%2C%20PA",
+          "website": null,
+          "notes": ""
+        },
+        {
+          "name": "Susquehanna Riverlands",
+          "times": {
+            "kingston": 33,
+            "scranton": 50,
+            "canadensis": 83
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Susquehanna%20Riverlands%20634%20Salem%20Blvd%2C%20Berwick%2C%20PA%2018603",
+          "website": null,
+          "notes": "634 Salem Blvd, Berwick, PA 18603"
+        },
+        {
+          "name": "Austin T. Blakeslee Natural Area",
+          "times": {
+            "kingston": 34,
+            "scranton": 43,
+            "canadensis": 37
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Austin%20T.%20Blakeslee%20Natural%20Area%2C%20PA",
+          "website": null,
+          "notes": "20 PA-115, Blakeslee, PA 18610"
+        },
+        {
+          "name": "D&L Trail White Haven North Trailhead",
+          "times": {
+            "kingston": 33,
+            "scranton": 41,
+            "canadensis": 48
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=D%26L%20Trail%20White%20Haven%20North%20Trailhead%20201%20Main%20St%2C%20White%20Haven%2C%20PA%2018661",
+          "website": null,
+          "notes": "201 Main St, White Haven, PA 18661  •  Bike trail; rentals at entrance"
+        },
+        {
+          "name": "Lazybrook Park",
+          "times": {
+            "kingston": 44,
+            "scranton": 33,
+            "canadensis": 65
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lazybrook%20Park%2C%20PA",
+          "website": null,
+          "notes": "152 Lazy Brk Pk, Tunkhannock, PA 18657"
+        },
+        {
+          "name": "Shades Of Death Trailhead",
+          "times": {
+            "kingston": 39,
+            "scranton": 47,
+            "canadensis": 52
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Shades%20Of%20Death%20Trailhead%2C%20PA",
+          "website": "https://maps.app.goo.gl/nfdAw7NSQJ2Rp9GW8",
+          "notes": "PA-534, Jim Thorpe, PA 18229 | Site: https://maps.app.goo.gl/nfdAw7NSQJ2Rp9GW8"
+        },
+        {
+          "name": "Hickory Run State Park",
+          "times": {
+            "kingston": 42,
+            "scranton": 50,
+            "canadensis": 54
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Hickory%20Run%20State%20Park%203%20Family%20Camp%20Rd%2C%20White%20Haven%2C%20PA%2018661",
+          "website": null,
+          "notes": "3 Family Camp Rd, White Haven, PA 18661  •  Has a beach; no boating"
+        },
+        {
+          "name": "Little Rocky Glen Preserve",
+          "times": {
+            "kingston": 47,
+            "scranton": 28,
+            "canadensis": 60
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Little%20Rocky%20Glen%20Preserve%2C%20PA",
+          "website": null,
+          "notes": "Lithia Valley Rd, Factoryville, PA 18419"
+        }
+      ]
+    },
+    {
+      "name": "State Parks",
+      "items": [
+        {
+          "name": "Covington Park",
+          "times": {
+            "kingston": 45,
+            "scranton": 21,
+            "canadensis": 50
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Covington%20Park%2C%20PA",
+          "website": null,
+          "notes": "nice playground, big open field for kites, and mini beach with lake, closer beach in Moscow PA, usually not a lot of people .things to consider: smaller area of beach, the walk from the parking to the lake is long and down the hill so on the way there it’s not too bad but the way up is exhausting"
+        },
+        {
+          "name": "Gouldsboro State Park",
+          "times": {
+            "kingston": 51,
+            "scranton": 28,
+            "canadensis": 36
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Gouldsboro%20State%20Park%2C%20PA",
+          "website": null,
+          "notes": "nice beach, usually empty. things to consider: dirty bathrooms"
+        },
+        {
+          "name": "Lake Jean at Ricketts Glen",
+          "times": {
+            "kingston": 55,
+            "scranton": 77,
+            "canadensis": 124
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lake%20Jean%20at%20Ricketts%20Glen%2C%20PA",
+          "website": null,
+          "notes": "Ricketts glen has a nice beach area. It’s called lake Jean. My GPS didn’t take me all the way there so you have to follow signs once you pass ricketts glen"
+        },
+        {
+          "name": "Beltzville State Park",
+          "times": {
+            "kingston": 59,
+            "scranton": 69,
+            "canadensis": 79
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Beltzville%20State%20Park%2C%20PA",
+          "website": null,
+          "notes": "small beach, playground, picnic tables"
+        },
+        {
+          "name": "Tobyhanna State Park",
+          "times": {
+            "kingston": 62,
+            "scranton": 38,
+            "canadensis": 31
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Tobyhanna%20State%20Park%2C%20PA",
+          "website": null,
+          "notes": "Tobyhanna is nice for sitting near the water, there are snails to collect instead of shells"
+        },
+        {
+          "name": "Promised Land State Park Kids Playground",
+          "times": {
+            "kingston": 69,
+            "scranton": 45,
+            "canadensis": 27
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Promised%20Land%20State%20Park%20Kids%20Playground%2C%20PA",
+          "website": null,
+          "notes": "playground area at promised land state park"
+        },
+        {
+          "name": "Promised Land Main Beach",
+          "times": {
+            "kingston": 69,
+            "scranton": 45,
+            "canadensis": 28
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Promised%20Land%20Main%20Beach%2C%20PA",
+          "website": null,
+          "notes": "beach area at promised land state park. things to consider: rocks in the lake (bring water shoes) , very busy and some walk from the car to the beach"
+        },
+        {
+          "name": "Lake Wallenpaupack",
+          "times": {
+            "kingston": 75,
+            "scranton": 51,
+            "canadensis": 43
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lake%20Wallenpaupack%2C%20PA",
+          "website": null,
+          "notes": "Lake Wallenpaupack is big, do research first to know which beach area is good"
+        },
+        {
+          "name": "Frances Slocum State Park",
+          "times": {
+            "kingston": 19,
+            "scranton": 36,
+            "canadensis": 69
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Frances%20Slocum%20State%20Park%20565%20Mt%20Olivet%20Rd%2C%20Wyoming%2C%20PA%2018644",
+          "website": null,
+          "notes": "565 Mt Olivet Rd, Wyoming, PA 18644  •  (570) 696-3525"
+        },
+        {
+          "name": "Moon Lake State Forest Recreation Area",
+          "times": {
+            "kingston": 23,
+            "scranton": 42,
+            "canadensis": 75
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Moon%20Lake%20State%20Forest%20Recreation%20Area%2C%20PA",
+          "website": null,
+          "notes": "Deerwood Dr, Hunlock Creek, PA 18621"
+        },
+        {
+          "name": "Francis E. Walter Dam",
+          "times": {
+            "kingston": 28,
+            "scranton": 38,
+            "canadensis": 49
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Francis%20E.%20Walter%20Dam%2C%20PA",
+          "website": null,
+          "notes": "St Fish and Game Commission Rd, White Haven, PA 18661  •  (215) 377-0438"
+        },
+        {
+          "name": "Nescopeck State Park",
+          "times": {
+            "kingston": 32,
+            "scranton": 42,
+            "canadensis": 58
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Nescopeck%20State%20Park%201137%20Honey%20Hole%20Rd%2C%20Drums%2C%20PA%2018222",
+          "website": null,
+          "notes": "1137 Honey Hole Rd, Drums, PA 18222  •  1137 Honey Hole Rd, Drums PA"
+        },
+        {
+          "name": "Mauch Chunk Lake Park",
+          "times": {
+            "kingston": 55,
+            "scranton": 63,
+            "canadensis": 70
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Mauch%20Chunk%20Lake%20Park%20625%20Lentz%20Trail%2C%20Jim%20Thorpe%2C%20PA%2018229",
+          "website": null,
+          "notes": "625 Lentz Trail, Jim Thorpe, PA 18229  •  (570) 325-3669"
+        },
+        {
+          "name": "Palmyra Township Public Beach",
+          "times": {
+            "kingston": 64,
+            "scranton": 45,
+            "canadensis": 35
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Palmyra%20Township%20Public%20Beach%202512%20Lake%20Wallenpaupack%20Rd%2C%20Hawley%2C%20PA%2018428",
+          "website": "https://maps.app.goo.gl/1ZeTeRVc7VNk587ZA",
+          "notes": "Palmyra Township Public Beach, 2512 Lake Wallenpaupack Rd, Hawley, PA 18428 | Site: https://maps.app.goo.gl/1ZeTeRVc7VNk587ZA"
+        }
+      ]
+    },
+    {
+      "name": "Family outings",
+      "items": [
+        {
+          "name": "Nesbitt Park Disc Golf Course",
+          "times": {
+            "kingston": 4,
+            "scranton": 30,
+            "canadensis": 77
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Nesbitt%20Park%20Disc%20Golf%20Course%2C%20PA",
+          "website": null,
+          "notes": "frisbee golf"
+        },
+        {
+          "name": "Electric City Aquarium & Reptile Den",
+          "times": {
+            "kingston": 30,
+            "scranton": 1,
+            "canadensis": 53
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Electric%20City%20Aquarium%20%26%20Reptile%20Den%2C%20PA",
+          "website": null,
+          "notes": "small aquarium"
+        },
+        {
+          "name": "Lakeland Orchard & Cidery",
+          "times": {
+            "kingston": 54,
+            "scranton": 28,
+            "canadensis": 63
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lakeland%20Orchard%20%26%20Cidery%2C%20PA",
+          "website": null,
+          "notes": "There’s rides, corn pool, axe throwing for kids as well, strawberry and apple picking and a food court to chill at its very very nice also has some goats. not open daily"
+        },
+        {
+          "name": "Jim Thorpe scenic train ride",
+          "times": {
+            "kingston": 58,
+            "scranton": 68,
+            "canadensis": 78
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Jim%20Thorpe%20scenic%20train%20ride%2C%20PA",
+          "website": null,
+          "notes": "Scenic 70 minute round trip train rides. near a pretty neighborhood with old beautiful homes Schedule"
+        },
+        {
+          "name": "Country Junction - World's Largest General Store",
+          "times": {
+            "kingston": 59,
+            "scranton": 69,
+            "canadensis": 70
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Country%20Junction%20-%20World's%20Largest%20General%20Store%2C%20PA",
+          "website": null,
+          "notes": "big general store with little rides and petting zoo"
+        },
+        {
+          "name": "general search",
+          "times": {
+            "kingston": null,
+            "scranton": null,
+            "canadensis": null
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=general%20search%2C%20PA",
+          "website": null,
+          "notes": "Go into the menu to search for specific things you're interested in (hikes, museum's etc)"
+        },
+        {
+          "name": "general search",
+          "times": {
+            "kingston": null,
+            "scranton": null,
+            "canadensis": null
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=general%20search%2C%20PA",
+          "website": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Amusement park",
+      "items": [
+        {
+          "name": "Knoebels Amusement Resort",
+          "times": {
+            "kingston": 81,
+            "scranton": 97,
+            "canadensis": 124
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Knoebels%20Amusement%20Resort%2C%20PA",
+          "website": null,
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Indoor play space",
+      "items": [
+        {
+          "name": "Long Live Playtime",
+          "times": {
+            "kingston": 2,
+            "scranton": 31,
+            "canadensis": 78
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Long%20Live%20Playtime%2C%20PA",
+          "website": null,
+          "notes": ""
+        },
+        {
+          "name": "Chuck E Cheese",
+          "times": {
+            "kingston": 9,
+            "scranton": 26,
+            "canadensis": 73
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Chuck%20E%20Cheese%2C%20PA",
+          "website": null,
+          "notes": "chuck e cheese"
+        },
+        {
+          "name": "Dave & Buster's Scranton",
+          "times": {
+            "kingston": 27,
+            "scranton": 11,
+            "canadensis": 57
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Dave%20%26%20Buster's%20Scranton%2C%20PA",
+          "website": null,
+          "notes": ""
+        },
+        {
+          "name": "Bee's Backyard",
+          "times": {
+            "kingston": 30,
+            "scranton": 1,
+            "canadensis": 53
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Bee's%20Backyard%2C%20PA",
+          "website": null,
+          "notes": "call in advance to make sure they are open they sometimes have private events and aren't open daily"
+        },
+        {
+          "name": "Bloom Waldessori Play Space",
+          "times": {
+            "kingston": 71,
+            "scranton": 58,
+            "canadensis": 44
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Bloom%20Waldessori%20Play%20Space%2C%20PA",
+          "website": null,
+          "notes": "Website"
+        },
+        {
+          "name": "Breakout Escape Room",
+          "times": {
+            "kingston": 10,
+            "scranton": 27,
+            "canadensis": 60
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Breakout%20Escape%20Room%20618%20Blackman%20St%2C%20Wilkes-Barre%20Township%2C%20PA%2018702",
+          "website": "http://breakoutescapepa.com",
+          "notes": "618 Blackman St, Wilkes-Barre Township, PA 18702  •  Cheaper if you pay cash | Site: http://breakoutescapepa.com"
+        },
+        {
+          "name": "Wilkes-Barre Climbing Gym Indoor Rock Climbing",
+          "times": {
+            "kingston": 10,
+            "scranton": 28,
+            "canadensis": 61
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Wilkes-Barre%20Climbing%20Gym%20Indoor%20Rock%20Climbing%20102%20S%20Main%20St%2C%20Wilkes-Barre%2C%20PA%2018701",
+          "website": "https://wilkesbarreclimbinggym.com",
+          "notes": "102 S Main St, Wilkes-Barre, PA 18701 | Site: https://wilkesbarreclimbinggym.com"
+        },
+        {
+          "name": "Yum Yum Fun",
+          "times": {
+            "kingston": 8,
+            "scranton": 34,
+            "canadensis": 67
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Yum%20Yum%20Fun%20125%20E%20Main%20St%2C%20Plymouth%2C%20PA%2018651",
+          "website": "https://yumyumfunfec.com/",
+          "notes": "125 E Main St, Plymouth, PA 18651 | Site: https://yumyumfunfec.com/"
+        },
+        {
+          "name": "Purrfect Mugs Cat Cafe",
+          "times": {
+            "kingston": 11,
+            "scranton": 25,
+            "canadensis": 58
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Purrfect%20Mugs%20Cat%20Cafe%201325%20N%20River%20St%20Ste%20102A%2C%20Hilldale%2C%20PA%2018702",
+          "website": "https://www.purrfectmugscatcafe.com/",
+          "notes": "1325 N River St Ste 102A, Hilldale, PA 18702 | Site: https://www.purrfectmugscatcafe.com/"
+        },
+        {
+          "name": "Buff City Soap",
+          "times": {
+            "kingston": 12,
+            "scranton": 24,
+            "canadensis": 57
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Buff%20City%20Soap%2C%20PA",
+          "website": "https://g.co/kgs/qGWJAu",
+          "notes": "397 Arena Hub Plaza, Wilkes-Barre Township, PA 18702  •  Make-your-own soap; (570) 477-7200 | Site: https://g.co/kgs/qGWJAu"
+        },
+        {
+          "name": "Clubhouse315",
+          "times": {
+            "kingston": 15,
+            "scranton": 21,
+            "canadensis": 54
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Clubhouse315%2C%20PA",
+          "website": "https://g.co/kgs/7h5sH58",
+          "notes": "1492 PA-315, Wilkes-Barre, PA 18702  •  (570) 304-6405 | Site: https://g.co/kgs/7h5sH58"
+        },
+        {
+          "name": "Zensory Zone",
+          "times": {
+            "kingston": 22,
+            "scranton": 9,
+            "canadensis": 42
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Zensory%20Zone%2073%20Montage%20Mountain%20Rd%2C%20Moosic%2C%20PA%2018507",
+          "website": "https://www.zensoryzone.com/",
+          "notes": "73 Montage Mountain Rd, Moosic, PA 18507 | Site: https://www.zensoryzone.com/"
+        },
+        {
+          "name": "Noteology",
+          "times": {
+            "kingston": 29,
+            "scranton": 3,
+            "canadensis": 42
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Noteology%20537%20Wyoming%20Ave%2C%20Scranton%2C%20PA%2018509",
+          "website": "https://www.noteology.com/",
+          "notes": "537 Wyoming Ave, Scranton, PA 18509 | Site: https://www.noteology.com/"
+        },
+        {
+          "name": "Idle Hours North",
+          "times": {
+            "kingston": 36,
+            "scranton": 14,
+            "canadensis": 45
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Idle%20Hours%20North%202008%20Scranton%20Carbondale%20Hwy%2C%20Scranton%2C%20PA%2018508",
+          "website": "https://www.idlehoursentertainment.com/",
+          "notes": "2008 Scranton Carbondale Hwy, Scranton, PA 18508  •  Has a south location too | Site: https://www.idlehoursentertainment.com/"
+        },
+        {
+          "name": "United Sports Academy Ninja Nook - Mayfield",
+          "times": {
+            "kingston": 41,
+            "scranton": 22,
+            "canadensis": 45
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=United%20Sports%20Academy%20Ninja%20Nook%20-%20Mayfield%20603%20Scranton%20Carbondale%20Hwy%2C%20Mayfield%2C%20PA%2018433",
+          "website": "https://unitedsportsacademygym.com/",
+          "notes": "603 Scranton Carbondale Hwy, Mayfield, PA 18433  •  Open gym | Site: https://unitedsportsacademygym.com/"
+        },
+        {
+          "name": "Wonderland Madhouse",
+          "times": {
+            "kingston": 51,
+            "scranton": 41,
+            "canadensis": 26
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Wonderland%20Madhouse%201000%20Premium%20Outlets%20Dr%20Ste%20i01%2C%20Tannersville%2C%20PA%2018372",
+          "website": "https://g.co/kgs/X4QnuD8",
+          "notes": "Located behind the Food Trucks by Carters, 1000 Premium Outlets Dr Ste i01, Tannersville, PA 18372 | Site: https://g.co/kgs/X4QnuD8"
+        },
+        {
+          "name": "Pocolandia - The EPIC PlayPark!",
+          "times": {
+            "kingston": 57,
+            "scranton": 46,
+            "canadensis": 33
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Pocolandia%20-%20The%20EPIC%20PlayPark!%20344%20Stroud%20Mall%20Rd%20%23430%2C%20Stroudsburg%2C%20PA%2018360",
+          "website": "https://epicplaypark.kids/",
+          "notes": "344 Stroud Mall Rd #430, Stroudsburg, PA 18360 | Site: https://epicplaypark.kids/"
+        },
+        {
+          "name": "Imagi Nation",
+          "times": {
+            "kingston": 66,
+            "scranton": 74,
+            "canadensis": 72
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Imagi%20Nation%203313%20Hamilton%20Blvd%2C%20Allentown%2C%20PA%2018103",
+          "website": "https://g.co/kgs/5odwYit",
+          "notes": "3313 Hamilton Blvd, Allentown, PA 18103  •  (610) 841-5919 | Site: https://g.co/kgs/5odwYit"
+        },
+        {
+          "name": "Slime Time II",
+          "times": {
+            "kingston": 74,
+            "scranton": 82,
+            "canadensis": 71
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Slime%20Time%20II%202845%20Center%20Valley%20Pkwy%2C%20Center%20Valley%2C%20PA%2018034",
+          "website": "https://g.co/kgs/kA7xBj",
+          "notes": "2845 Center Valley Pkwy, Center Valley, PA 18034  •  (610) 443-0871 | Site: https://g.co/kgs/kA7xBj"
+        },
+        {
+          "name": "Lost River Caverns",
+          "times": {
+            "kingston": 79,
+            "scranton": 77,
+            "canadensis": 65
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lost%20River%20Caverns%20726%20Durham%20St%2C%20Hellertown%2C%20PA%2018055",
+          "website": "https://lostcave.com/",
+          "notes": "726 Durham St, Hellertown, PA 18055 | Site: https://lostcave.com/"
+        },
+        {
+          "name": "Crayola Experience",
+          "times": {
+            "kingston": 82,
+            "scranton": 71,
+            "canadensis": 59
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Crayola%20Experience%2030%20Centre%20Sq%20Cir%2C%20Easton%2C%20PA%2018042",
+          "website": "https://www.crayolaexperience.com/easton",
+          "notes": "30 Centre Sq Cir, Easton, PA 18042 | Site: https://www.crayolaexperience.com/easton"
+        },
+        {
+          "name": "Otherworld Philadelphia",
+          "times": {
+            "kingston": 122,
+            "scranton": 131,
+            "canadensis": 132
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Otherworld%20Philadelphia%202500%20Grant%20Ave%20%231%2C%20Philadelphia%2C%20PA%2019114",
+          "website": "https://otherworldphila.com",
+          "notes": "2500 Grant Ave #1, Philadelphia, PA 19114  •  Great for older kids | Site: https://otherworldphila.com"
+        },
+        {
+          "name": "Penn's Cave and Wildlife Park",
+          "times": {
+            "kingston": 124,
+            "scranton": 134,
+            "canadensis": 153
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Penn's%20Cave%20and%20Wildlife%20Park%20222%20Penns%20Cave%20Rd%2C%20Centre%20Hall%2C%20PA%2016828",
+          "website": "https://www.pennscave.com/",
+          "notes": "222 Penns Cave Rd, Centre Hall, PA 16828 | Site: https://www.pennscave.com/"
+        }
+      ]
+    },
+    {
+      "name": "Libraries",
+      "items": [
+        {
+          "name": "Lackawanna County Children's Library",
+          "times": {
+            "kingston": 30,
+            "scranton": 2,
+            "canadensis": 53
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lackawanna%20County%20Children's%20Library%2C%20PA",
+          "website": null,
+          "notes": "Lackawanna County. open Sunday"
+        },
+        {
+          "name": "Abington Community Library",
+          "times": {
+            "kingston": 43,
+            "scranton": 14,
+            "canadensis": 62
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Abington%20Community%20Library%2C%20PA",
+          "website": null,
+          "notes": "Abington"
+        },
+        {
+          "name": "Back Mountain Memorial Library",
+          "times": {
+            "kingston": 16,
+            "scranton": 33,
+            "canadensis": 66
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Back%20Mountain%20Memorial%20Library%2096%20Huntsville%20Rd%2C%20Dallas%2C%20PA%2018612",
+          "website": "https://luzernelibraries.org/back-mountain-memorial-library/",
+          "notes": "96 Huntsville Rd, Dallas, PA 18612  •  Has a toddler playroom | Site: https://luzernelibraries.org/back-mountain-memorial-library/"
+        },
+        {
+          "name": "Albright Memorial Library Building Scranton Public Library",
+          "times": {
+            "kingston": 28,
+            "scranton": 4,
+            "canadensis": 42
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Albright%20Memorial%20Library%20Building%20Scranton%20Public%20Library%20500%20Vine%20St%2C%20Scranton%2C%20PA%2018509",
+          "website": "https://g.co/kgs/XUNx8k",
+          "notes": "500 Vine St, Scranton, PA 18509  •  (570) 348-3000 | Site: https://g.co/kgs/XUNx8k"
+        }
+      ]
+    },
+    {
+      "name": "Indoor Fun",
+      "items": [
+        {
+          "name": "Toyota SportsPlex Ice skating Rink",
+          "times": {
+            "kingston": 8,
+            "scranton": 28,
+            "canadensis": 75
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Toyota%20SportsPlex%20Ice%20skating%20Rink%2C%20PA",
+          "website": null,
+          "notes": "Toyota Sports Plex | Wilkes-Barre, PA"
+        },
+        {
+          "name": "Skateaway",
+          "times": {
+            "kingston": 9,
+            "scranton": 26,
+            "canadensis": 73
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Skateaway%2C%20PA",
+          "website": null,
+          "notes": "Wilkes-barre Rink - Home"
+        },
+        {
+          "name": "Revolution Ice Centre",
+          "times": {
+            "kingston": 18,
+            "scranton": 17,
+            "canadensis": 64
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Revolution%20Ice%20Centre%2C%20PA",
+          "website": null,
+          "notes": "Revolution Ice Centre | Ice Skating Facility & Hockey Training Program"
+        },
+        {
+          "name": "Electric City Axe Throwing",
+          "times": {
+            "kingston": 32,
+            "scranton": 6,
+            "canadensis": 44
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Electric%20City%20Axe%20Throwing%201141%20Capouse%20Ave%2C%20Scranton%2C%20PA%2018509",
+          "website": "https://g.co/kgs/k9u5NA",
+          "notes": "1141 Capouse Ave, Scranton, PA 18509  •  (570) 866-3228 | Site: https://g.co/kgs/k9u5NA"
+        },
+        {
+          "name": "High Tines Archery and Outdoors",
+          "times": {
+            "kingston": 29,
+            "scranton": 10,
+            "canadensis": 37
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=High%20Tines%20Archery%20and%20Outdoors%20116%20Monahan%20Ave%2C%20Dunmore%2C%20PA%2018512",
+          "website": null,
+          "notes": "116 Monahan Ave, Dunmore, PA 18512"
+        },
+        {
+          "name": "940 Golf N'Fun",
+          "times": {
+            "kingston": 37,
+            "scranton": 41,
+            "canadensis": 35
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=940%20Golf%20N'Fun%2C%20PA",
+          "website": "https://940golfnfun.com/",
+          "notes": "951 PA-940, Pocono Lake, PA 18347  •  Mini golf, trampoline; all ages except babies | Site: https://940golfnfun.com/"
+        },
+        {
+          "name": "Pocono Biking, Jim Thorpe",
+          "times": {
+            "kingston": 48,
+            "scranton": 56,
+            "canadensis": 63
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Pocono%20Biking%2C%20Jim%20Thorpe%207%20Hazard%20Square%2C%20Jim%20Thorpe%2C%20PA%2018229",
+          "website": "https://parailbike.com/",
+          "notes": "7 Hazard Square, Jim Thorpe, PA 18229 | Site: https://parailbike.com/"
+        },
+        {
+          "name": "Dingmans Shooting Range",
+          "times": {
+            "kingston": 71,
+            "scranton": 52,
+            "canadensis": 42
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Dingmans%20Shooting%20Range%2C%20PA",
+          "website": "https://maps.app.goo.gl/QmC5Y91H3mtao9519",
+          "notes": "1497 PA-739, Dingmans Ferry, PA 18328  •  Allows children 10+ | Site: https://maps.app.goo.gl/QmC5Y91H3mtao9519"
+        }
+      ]
+    },
+    {
+      "name": "Scenic Train / Rides",
+      "items": [
+        {
+          "name": "Lehigh Gorge Scenic Railway: Trademark of the Reading & Northern Railroad",
+          "times": {
+            "kingston": 49,
+            "scranton": 57,
+            "canadensis": 64
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Gorge%20Scenic%20Railway%3A%20Trademark%20of%20the%20Reading%20%26%20Northern%20Railroad%201%20Susquehanna%20St%2C%20Jim%20Thorpe%2C%20PA%2018229",
+          "website": null,
+          "notes": "1 Susquehanna St, Jim Thorpe, PA 18229  •  (570) 325-8485"
+        },
+        {
+          "name": "Reading Blue Mountain & Northern Railroad",
+          "times": {
+            "kingston": 100,
+            "scranton": 109,
+            "canadensis": 108
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Reading%20Blue%20Mountain%20%26%20Northern%20Railroad%203501%20Pottsville%20Pike%2C%20Reading%2C%20PA%2019605",
+          "website": "https://www.rbmnrr-passenger.com/pijt",
+          "notes": "3501 Pottsville Pike, Reading, PA 19605 | Site: https://www.rbmnrr-passenger.com/pijt"
+        }
+      ]
+    },
+    {
+      "name": "Amusement / Day Trips",
+      "items": [
+        {
+          "name": "Great Wolf Lodge | Pocono Mountains",
+          "times": {
+            "kingston": 56,
+            "scranton": 44,
+            "canadensis": 27
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Great%20Wolf%20Lodge%20%7C%20Pocono%20Mountains%201%20Great%20Wolf%20Dr%2C%20Scotrun%2C%20PA%2018355",
+          "website": "https://www.greatwolf.com/poconos",
+          "notes": "1 Great Wolf Dr, Scotrun, PA 18355 | Site: https://www.greatwolf.com/poconos"
+        },
+        {
+          "name": "Eagles Mere Toboggan Slide",
+          "times": {
+            "kingston": 68,
+            "scranton": 85,
+            "canadensis": 118
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Eagles%20Mere%20Toboggan%20Slide%2C%20PA",
+          "website": "https://www.eaglesmeretobogganslide.com/",
+          "notes": "PO Box 56, Eagles Mere, PA 17731  •  Winter; ice toboggan | Site: https://www.eaglesmeretobogganslide.com/"
+        },
+        {
+          "name": "Pocono Guided Zip TreeVentures",
+          "times": {
+            "kingston": 73,
+            "scranton": 62,
+            "canadensis": 39
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Pocono%20Guided%20Zip%20TreeVentures%201575%20Fairway%20Blvd%2C%20East%20Stroudsburg%2C%20PA%2018302",
+          "website": "https://g.co/kgs/8P8sWwj",
+          "notes": "1575 Fairway Blvd, East Stroudsburg, PA 18302  •  (800) 446-0231; aerial ropes course | Site: https://g.co/kgs/8P8sWwj"
+        },
+        {
+          "name": "Land of Make Believe",
+          "times": {
+            "kingston": 76,
+            "scranton": 66,
+            "canadensis": 49
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Land%20of%20Make%20Believe%20354%20Great%20Meadows%20Rd%2C%20Hope%2C%20NJ%2007844",
+          "website": "https://g.co/kgs/teBQ5E",
+          "notes": "354 Great Meadows Rd, Hope, NJ 07844  •  (908) 459-9000 | Site: https://g.co/kgs/teBQ5E"
+        },
+        {
+          "name": "Thrillz High Flying Adventure Park",
+          "times": {
+            "kingston": 100,
+            "scranton": 108,
+            "canadensis": 109
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Thrillz%20High%20Flying%20Adventure%20Park%20555%20S%20Henderson%20Rd%2C%20King%20of%20Prussia%2C%20PA%2019406",
+          "website": "https://thrillzparks.com/king-of-prussia-pa/",
+          "notes": "555 S Henderson Rd, King of Prussia, PA 19406 | Site: https://thrillzparks.com/king-of-prussia-pa/"
+        },
+        {
+          "name": "American Dream",
+          "times": {
+            "kingston": 125,
+            "scranton": 114,
+            "canadensis": 98
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=American%20Dream%201%20American%20Dream%20Wy%2C%20East%20Rutherford%2C%20NJ%2007073",
+          "website": "https://betweencarpools.com/american-dream/",
+          "notes": "1 American Dream Wy, East Rutherford, NJ 07073 | Site: https://betweencarpools.com/american-dream/"
+        }
+      ]
+    },
+    {
+      "name": "Ski / Snow",
+      "items": [
+        {
+          "name": "Montage Mountain Resorts",
+          "times": {
+            "kingston": 27,
+            "scranton": 15,
+            "canadensis": 47
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Montage%20Mountain%20Resorts%201000%20Montage%20Mountain%20Rd%2C%20Scranton%2C%20PA%2018507",
+          "website": "https://www.montagemountaingroup.com/",
+          "notes": "1000 Montage Mountain Rd, Scranton, PA 18507  •  Skiing, snowboarding, lessons | Site: https://www.montagemountaingroup.com/"
+        },
+        {
+          "name": "Camelback Resort",
+          "times": {
+            "kingston": 55,
+            "scranton": 45,
+            "canadensis": 31
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Camelback%20Resort%20193%20Resort%20Dr%2C%20Tannersville%2C%20PA%2018372",
+          "website": null,
+          "notes": "193 Resort Dr, Tannersville, PA 18372  •  Skiing, waterpark"
+        }
+      ]
+    }
+  ]
+}
