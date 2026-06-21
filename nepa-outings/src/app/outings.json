@@ -982,17 +982,6 @@
       "name": "Hikes",
       "items": [
         {
-          "name": "Back Mountain Trail",
-          "times": {
-            "kingston": 7,
-            "scranton": 29,
-            "canadensis": 76
-          },
-          "map": "https://www.google.com/maps/search/?api=1&query=Back%20Mountain%20Trail%2C%20PA",
-          "website": null,
-          "notes": "trail behind the cheder building in Luzerne. stroller friendly"
-        },
-        {
           "name": "Seven Tubs Recreation Area",
           "times": {
             "kingston": 13,
@@ -1238,17 +1227,6 @@
           "map": "https://www.google.com/maps/search/?api=1&query=Lake%20Wallenpaupack%2C%20PA",
           "website": null,
           "notes": "Lake Wallenpaupack is big, do research first to know which beach area is good"
-        },
-        {
-          "name": "Frances Slocum State Park",
-          "times": {
-            "kingston": 19,
-            "scranton": 36,
-            "canadensis": 69
-          },
-          "map": "https://www.google.com/maps/search/?api=1&query=Frances%20Slocum%20State%20Park%20565%20Mt%20Olivet%20Rd%2C%20Wyoming%2C%20PA%2018644",
-          "website": null,
-          "notes": "565 Mt Olivet Rd, Wyoming, PA 18644  •  (570) 696-3525"
         },
         {
           "name": "Moon Lake State Forest Recreation Area",
@@ -1927,6 +1905,231 @@
           "map": "https://www.google.com/maps/search/?api=1&query=Camelback%20Resort%20193%20Resort%20Dr%2C%20Tannersville%2C%20PA%2018372",
           "website": null,
           "notes": "193 Resort Dr, Tannersville, PA 18372  •  Skiing, waterpark"
+        }
+      ]
+    },
+    {
+      "name": "Stroller friendly hikes",
+      "items": [
+        {
+          "name": "Back Mountain Trail",
+          "times": {
+            "kingston": 7,
+            "scranton": 29,
+            "canadensis": 76
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Back%20Mountain%20Trail%2C%20PA",
+          "website": null,
+          "notes": "trail behind the cheder building in Luzerne. stroller friendly"
+        },
+        {
+          "name": "Frances Slocum State Park",
+          "times": {
+            "kingston": 19,
+            "scranton": 36,
+            "canadensis": 69
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Frances%20Slocum%20State%20Park%20565%20Mt%20Olivet%20Rd%2C%20Wyoming%2C%20PA%2018644",
+          "website": null,
+          "notes": "565 Mt Olivet Rd, Wyoming, PA 18644  •  (570) 696-3525"
+        },
+        {
+          "name": "Bloomsburg Rail Trail",
+          "times": {
+            "kingston": 56,
+            "scranton": 66,
+            "canadensis": 80
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Bloomsburg%20Rail%20Trail%2C%20PA",
+          "website": null,
+          "notes": "~3-mile out-and-back; flat gravel & asphalt along Fishing Creek. Bloomsburg, PA."
+        },
+        {
+          "name": "Cherry Valley National Wildlife Refuge",
+          "times": {
+            "kingston": 61,
+            "scranton": 50,
+            "canadensis": 33
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Cherry%20Valley%20National%20Wildlife%20Refuge%2C%20PA",
+          "website": null,
+          "notes": "3.5+ miles paved (former golf cart paths) through wetlands & meadows. Stroudsburg, PA."
+        },
+        {
+          "name": "D&H Rail-Trail",
+          "times": {
+            "kingston": 58,
+            "scranton": 39,
+            "canadensis": 66
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=D%26H%20Rail-Trail%2C%20PA",
+          "website": null,
+          "notes": "Wide crushed-stone, gentle grade; access points across multiple NEPA counties. Union Dale, PA."
+        },
+        {
+          "name": "ForEvergreen Nature Preserve",
+          "times": {
+            "kingston": 63,
+            "scranton": 50,
+            "canadensis": 18
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=ForEvergreen%20Nature%20Preserve%2C%20PA",
+          "website": null,
+          "notes": "1-mile gravel loop through forest & meadow; bald eagle viewing. East Stroudsburg, PA."
+        },
+        {
+          "name": "Greater Hazleton Rails to Trails",
+          "times": {
+            "kingston": 43,
+            "scranton": 52,
+            "canadensis": 66
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Greater%20Hazleton%20Rails%20to%20Trails%2C%20PA",
+          "website": null,
+          "notes": "~4-mile main section, flat crushed stone; Dreck Creek Reservoir views. Hazle Twp., PA."
+        },
+        {
+          "name": "Hawk Mountain Sanctuary",
+          "times": {
+            "kingston": 75,
+            "scranton": 85,
+            "canadensis": 93
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Hawk%20Mountain%20Sanctuary%2C%20PA",
+          "website": null,
+          "notes": "Silhouette Trail, crushed stone, max 8% grade to South Lookout. Kempton, PA."
+        },
+        {
+          "name": "Iroquois Trail",
+          "times": {
+            "kingston": 40,
+            "scranton": 34,
+            "canadensis": 71
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Iroquois%20Trail%2C%20PA",
+          "website": null,
+          "notes": "3.6-mile round-trip crushed stone, gentle grades; Tunkhannock Creek. Tunkhannock, PA."
+        },
+        {
+          "name": "Lackawanna River Heritage Trail",
+          "times": {
+            "kingston": 28,
+            "scranton": 5,
+            "canadensis": 45
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lackawanna%20River%20Heritage%20Trail%2C%20PA",
+          "website": null,
+          "notes": "70-mile system; Scranton-Taylor 3.5-mile stretch is paved with gentle inclines. Scranton, PA."
+        },
+        {
+          "name": "Lake Scranton Walking Trail",
+          "times": {
+            "kingston": 31,
+            "scranton": 12,
+            "canadensis": 42
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lake%20Scranton%20Walking%20Trail%2C%20PA",
+          "website": null,
+          "notes": "3.5-mile paved loop around the reservoir, mostly flat. Scranton, PA."
+        },
+        {
+          "name": "Lehigh Canal Park",
+          "times": {
+            "kingston": 46,
+            "scranton": 55,
+            "canadensis": 57
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Canal%20Park%2C%20PA",
+          "website": null,
+          "notes": "Flat crushed-stone towpath on the D&L Trail along the Lehigh Canal. Weissport, PA."
+        },
+        {
+          "name": "Lehigh Gorge Trail",
+          "times": {
+            "kingston": 37,
+            "scranton": 45,
+            "canadensis": 47
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Gorge%20Trail%2C%20PA",
+          "website": null,
+          "notes": "26-mile fine-gravel trail, slight downgrade; good for strollers, bikes & scooters. White Haven, PA."
+        },
+        {
+          "name": "Levee Loop Trail",
+          "times": {
+            "kingston": 63,
+            "scranton": 52,
+            "canadensis": 25
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Levee%20Loop%20Trail%2C%20PA",
+          "website": null,
+          "notes": "4.5-mile mostly flat grass & gravel along Brodhead Creek. East Stroudsburg, PA."
+        },
+        {
+          "name": "Locust Lake State Park",
+          "times": {
+            "kingston": 55,
+            "scranton": 65,
+            "canadensis": 80
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Locust%20Lake%20State%20Park%2C%20PA",
+          "website": null,
+          "notes": "1.3-mile paved Bicycle Trail loop + Oak/Ridge interpretive trail. Barnesville, PA."
+        },
+        {
+          "name": "Luzerne County Levee Trail",
+          "times": {
+            "kingston": 6,
+            "scranton": 26,
+            "canadensis": 62
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Luzerne%20County%20Levee%20Trail%2C%20PA",
+          "website": null,
+          "notes": "12 miles paved along the Susquehanna; access to Kirby & Nesbitt Parks. Kingston, PA."
+        },
+        {
+          "name": "Luzerne County Rail Trail",
+          "times": {
+            "kingston": 19,
+            "scranton": 21,
+            "canadensis": 57
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Luzerne%20County%20Rail%20Trail%2C%20PA",
+          "website": null,
+          "notes": "1.8-mile paved/crushed stone, gentle grade; river views & public art. Pittston, PA."
+        },
+        {
+          "name": "Susquehanna Warrior Trail",
+          "times": {
+            "kingston": 20,
+            "scranton": 37,
+            "canadensis": 73
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Susquehanna%20Warrior%20Trail%2C%20PA",
+          "website": null,
+          "notes": "12.5-mile hard-packed crushed stone along the Susquehanna. Berwick, PA."
+        },
+        {
+          "name": "Trolley Trail",
+          "times": {
+            "kingston": 39,
+            "scranton": 14,
+            "canadensis": 51
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Trolley%20Trail%2C%20PA",
+          "website": null,
+          "notes": "Clarks Summit-Dalton ~3 mi one-way; smooth surface, gentle grade. Clarks Summit, PA."
+        },
+        {
+          "name": "Wallenpaupack Lake Trail",
+          "times": {
+            "kingston": 63,
+            "scranton": 44,
+            "canadensis": 36
+          },
+          "map": "https://www.google.com/maps/search/?api=1&query=Wallenpaupack%20Lake%20Trail%2C%20PA",
+          "website": null,
+          "notes": "1.5-mile paved trail along the dike; lake views & learning center. Hawley, PA."
         }
       ]
     }
