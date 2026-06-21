@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="NEPA Outings">
+  <rect width="32" height="32" rx="7" fill="#1f7a5a"/>
+  <!-- back hill -->
+  <path d="M0 26 Q9 14 18 22 T32 20 L32 32 L0 32 Z" fill="#2e9970"/>
+  <!-- front hill -->
+  <path d="M0 32 Q11 21 21 27 T32 26 L32 32 Z" fill="#196347"/>
+  <!-- location pin -->
+  <g transform="translate(16 6)">
+    <path d="M0 0 C4.2 0 7 3 7 6.6 C7 11 0 17 0 17 C0 17 -7 11 -7 6.6 C-7 3 -4.2 0 0 0 Z" fill="#ffffff"/>
+    <circle cx="0" cy="6.4" r="2.7" fill="#1f7a5a"/>
+  </g>
+</svg>
