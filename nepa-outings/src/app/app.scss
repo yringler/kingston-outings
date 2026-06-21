@@ -48,6 +48,29 @@
   min-width: 12rem;
 }
 
+/* ---------- My-location origin ---------- */
+.mylocation {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--wa-space-2xs) var(--wa-space-s);
+}
+
+.mylocation__saved {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--wa-space-3xs);
+}
+
+.mylocation__remove {
+  font-size: var(--wa-font-size-s);
+  color: var(--wa-color-text-quiet);
+}
+
+.location-error {
+  margin-bottom: var(--wa-space-m);
+}
+
 .filters-btn {
   flex: 0 0 auto;
 }

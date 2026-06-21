@@ -19,6 +19,46 @@
         }
       </wa-radio-group>
 
+      @if (svc.geoSupported) {
+        <div class="mylocation">
+          <wa-button
+            class="mylocation__btn"
+            size="small"
+            [attr.appearance]="svc.origin() === ME ? 'accent' : 'outlined'"
+            [attr.variant]="svc.origin() === ME ? 'brand' : 'neutral'"
+            [attr.loading]="svc.locating() ? true : null"
+            (click)="useMyLocation()"
+          >
+            <wa-icon slot="start" name="location-crosshairs"></wa-icon>
+            {{ svc.recentLocations().length ? 'Update my location' : 'Use my location' }}
+          </wa-button>
+
+          @for (loc of svc.recentLocations(); track loc.key) {
+            <span class="mylocation__saved">
+              <wa-button
+                size="small"
+                pill
+                [attr.appearance]="svc.origin() === ME && svc.activeLocation()?.key === loc.key ? 'accent' : 'outlined'"
+                [attr.variant]="svc.origin() === ME && svc.activeLocation()?.key === loc.key ? 'brand' : 'neutral'"
+                (click)="selectLocation(loc)"
+              >
+                <wa-icon slot="start" name="location-dot"></wa-icon>
+                {{ loc.label }}
+              </wa-button>
+              <wa-button
+                class="mylocation__remove"
+                appearance="plain"
+                size="small"
+                [attr.aria-label]="'Remove ' + loc.label"
+                (click)="removeLocation($event, loc.key)"
+              >
+                <wa-icon name="xmark"></wa-icon>
+              </wa-button>
+            </span>
+          }
+        </div>
+      }
+
       <wa-input
         class="search"
         type="search"
@@ -101,6 +141,13 @@
 </wa-drawer>
 
 <main class="results">
+  @if (svc.locationError(); as error) {
+    <wa-callout class="location-error" variant="warning" role="alert">
+      <wa-icon slot="icon" name="triangle-exclamation"></wa-icon>
+      {{ error }}
+    </wa-callout>
+  }
+
   <p class="results__meta" aria-live="polite">
     Showing <strong>{{ svc.visibleCount() }}</strong> of {{ svc.totalCount }}
     @if (svc.search() || svc.activeCategory() || svc.maxTime() != null) {
@@ -120,6 +167,8 @@
             [outing]="item"
             [origin]="svc.origin()"
             [origins]="svc.origins"
+            [liveTime]="svc.liveTimes()[item.name] ?? null"
+            [myLocationLabel]="svc.activeLocation()?.label ?? null"
           />
         }
       </div>

@@ -1,7 +1,8 @@
 import { Component, computed, CUSTOM_ELEMENTS_SCHEMA, inject, signal } from '@angular/core';
 import { OutingsService } from './outings.service';
 import { OutingCard } from './outing-card';
-import { OriginId } from './outings.models';
+import { MY_LOCATION_ID, OriginId } from './outings.models';
+import { SavedLocation } from './location-store';
 
 @Component({
   selector: 'app-root',
@@ -12,6 +13,7 @@ import { OriginId } from './outings.models';
 })
 export class App {
   protected readonly svc = inject(OutingsService);
+  protected readonly ME = MY_LOCATION_ID;
 
   /** Whether the filters drawer is open. */
   protected readonly filtersOpen = signal(false);
@@ -33,6 +35,19 @@ export class App {
 
   protected setOrigin(id: OriginId): void {
     this.svc.origin.set(id);
+  }
+
+  protected useMyLocation(): void {
+    void this.svc.useMyLocation();
+  }
+
+  protected selectLocation(loc: SavedLocation): void {
+    this.svc.selectSavedLocation(loc);
+  }
+
+  protected removeLocation(event: Event, key: string): void {
+    event.stopPropagation();
+    this.svc.removeLocation(key);
   }
 
   protected toggleCategory(name: string): void {

@@ -1,5 +1,5 @@
 import { Component, computed, CUSTOM_ELEMENTS_SCHEMA, input, signal } from '@angular/core';
-import { Origin, OriginId, Outing } from './outings.models';
+import { MY_LOCATION_ID, Origin, Outing, SelectedOrigin } from './outings.models';
 
 @Component({
   selector: 'app-outing-card',
@@ -17,6 +17,12 @@ import { Origin, OriginId, Outing } from './outings.models';
       </div>
 
       <ul class="times" aria-label="Drive times from each home base">
+        @if (myLocationLabel(); as label) {
+          <li class="times__item" [class.times__item--active]="origin() === ME">
+            <span class="times__label">{{ label }}</span>
+            <span class="times__val">{{ format(liveTime()) }}</span>
+          </li>
+        }
         @for (o of origins(); track o.id) {
           <li class="times__item" [class.times__item--active]="o.id === origin()">
             <span class="times__label">{{ o.label }}</span>
@@ -83,13 +89,22 @@ import { Origin, OriginId, Outing } from './outings.models';
   schemas: [CUSTOM_ELEMENTS_SCHEMA],
 })
 export class OutingCard {
+  protected readonly ME = MY_LOCATION_ID;
+
   readonly outing = input.required<Outing>();
-  readonly origin = input.required<OriginId>();
+  readonly origin = input.required<SelectedOrigin>();
   readonly origins = input.required<Origin[]>();
+  /** Drive time (minutes) from the user's active location, or null. */
+  readonly liveTime = input<number | null>(null);
+  /** Label for the user-location row; null hides the row. */
+  readonly myLocationLabel = input<string | null>(null);
 
   readonly expanded = signal(false);
 
-  readonly primaryTime = computed(() => this.outing().times[this.origin()]);
+  readonly primaryTime = computed(() => {
+    const origin = this.origin();
+    return origin === MY_LOCATION_ID ? this.liveTime() : this.outing().times[origin];
+  });
   readonly long = computed(() => this.outing().notes.length > 120);
 
   format(min: number | null): string {

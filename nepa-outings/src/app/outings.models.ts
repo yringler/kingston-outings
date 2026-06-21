@@ -1,4 +1,12 @@
+/** The fixed home bases that ship with the data (drive times are precomputed). */
 export type OriginId = 'kingston' | 'scranton' | 'canadensis';
+
+/** Sentinel origin id for the user's live geolocation. */
+export const MY_LOCATION_ID = 'me';
+export type MyLocationId = typeof MY_LOCATION_ID;
+
+/** Any origin the user can sort by: a fixed base or their own location. */
+export type SelectedOrigin = OriginId | MyLocationId;
 
 export interface Origin {
   id: OriginId;
