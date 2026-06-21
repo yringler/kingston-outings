@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "skills": {
+    "angular-developer": {
+      "source": "angular/skills",
+      "sourceType": "github",
+      "skillPath": "angular-developer/SKILL.md",
+      "computedHash": "e6400c4e948ba8c9d002509e9a482862c189f96938e01655f56a1e9a4533cb19"
+    },
+    "angular-new-app": {
+      "source": "angular/skills",
+      "sourceType": "github",
+      "skillPath": "angular-new-app/SKILL.md",
+      "computedHash": "49bd84ab08bd3498c52f476bed48fbb942dc6dbc0925607e84549adbed34bccf"
+    },
+    "webawesome": {
+      "source": "/home/yehuda/dev/kingston-trips/node_modules/@awesome.me/webawesome/dist/skills/webawesome",
+      "sourceType": "local",
+      "computedHash": "a1f79688a912ba4230a936cde412936bc8c4f28b578cd9d2eeac3d7fca29fbd4"
+    },
+    "webawesome-design": {
+      "source": "/home/yehuda/dev/kingston-trips/node_modules/@awesome.me/webawesome/dist/skills/webawesome-design",
+      "sourceType": "local",
+      "computedHash": "a921100f4b42573cac52c6c44350e3ad094e4bd7267aac9596b35ba1db66ee33"
+    }
+  }
+}
