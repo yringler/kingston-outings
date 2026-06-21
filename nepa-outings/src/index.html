@@ -1,23 +1,26 @@
 <!doctype html>
 <html lang="en" class="wa-theme-default wa-palette-default wa-brand-green">
-<head>
-  <meta charset="utf-8">
-  <title>NEPA Family Outings</title>
-  <meta name="description" content="Browse kid-friendly outings around Northeast PA, sorted by drive time from Kingston, Scranton, or Canadensis.">
-  <meta name="theme-color" content="#1f7a5a">
-  <base href="/">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <script>
-    // Follow the OS color scheme. Web Awesome themes via explicit classes,
-    // so set wa-light / wa-dark before first paint to avoid a flash.
-    (function () {
-      var dark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-      document.documentElement.classList.add(dark ? 'wa-dark' : 'wa-light');
-    })();
-  </script>
-</head>
-<body>
-  <app-root></app-root>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <title>NEPA Family Outings</title>
+    <meta
+      name="description"
+      content="Browse kid-friendly outings around Northeast PA, sorted by drive time from Kingston, Scranton, or Canadensis."
+    />
+    <meta name="theme-color" content="#1f7a5a" />
+    <base href="/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="favicon.svg" />
+    <script>
+      // Follow the OS color scheme. Web Awesome themes via explicit classes,
+      // so set wa-light / wa-dark before first paint to avoid a flash.
+      (function () {
+        var dark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        document.documentElement.classList.add(dark ? 'wa-dark' : 'wa-light');
+      })();
+    </script>
+  </head>
+  <body>
+    <app-root></app-root>
+  </body>
 </html>
