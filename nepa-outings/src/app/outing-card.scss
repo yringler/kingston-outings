@@ -79,6 +79,34 @@
   color: var(--wa-color-text-normal);
 }
 
+.times__summary {
+  flex: 1.6;
+  justify-content: center;
+  gap: var(--wa-space-3xs);
+  padding-inline: var(--wa-space-xs);
+  text-align: start;
+}
+
+.times__summary-row {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--wa-space-xs);
+}
+
+.times__summary-label {
+  font-size: var(--wa-font-size-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--wa-color-text-quiet);
+}
+
+.times__summary-val {
+  font-size: var(--wa-font-size-xs);
+  font-weight: var(--wa-font-weight-semibold);
+  white-space: nowrap;
+  color: var(--wa-color-text-normal);
+}
+
 .address {
   display: flex;
   align-items: center;

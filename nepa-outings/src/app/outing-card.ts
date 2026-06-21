@@ -23,11 +23,22 @@ import { MY_LOCATION_ID, Origin, Outing, SelectedOrigin } from './outings.models
             <span class="times__val">{{ format(liveTime()) }}</span>
           </li>
         }
-        @for (o of origins(); track o.id) {
-          <li class="times__item" [class.times__item--active]="o.id === origin()">
-            <span class="times__label">{{ o.label }}</span>
-            <span class="times__val">{{ format(outing().times[o.id]) }}</span>
+        @if (origin() === ME) {
+          <li class="times__item times__summary">
+            @for (o of origins(); track o.id) {
+              <span class="times__summary-row">
+                <span class="times__summary-label">{{ o.label }}</span>
+                <span class="times__summary-val">{{ format(outing().times[o.id]) }}</span>
+              </span>
+            }
           </li>
+        } @else {
+          @for (o of origins(); track o.id) {
+            <li class="times__item" [class.times__item--active]="o.id === origin()">
+              <span class="times__label">{{ o.label }}</span>
+              <span class="times__val">{{ format(outing().times[o.id]) }}</span>
+            </li>
+          }
         }
       </ul>
 
