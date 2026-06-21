@@ -16,10 +16,15 @@ export class App {
   /** Whether the filters drawer is open. */
   protected readonly filtersOpen = signal(false);
 
-  /** Category names with counts, for the filter chips. */
-  protected readonly chips = computed(() =>
-    this.svc.categories.map((c) => ({ name: c.name, count: c.items.length })),
-  );
+  /**
+   * True while the user is dragging the drive-time slider. On touch devices the
+   * drag can end with a synthesized tap on the drawer overlay, which would
+   * otherwise light-dismiss the drawer; we use this to block that close.
+   */
+  private sliderDragging = false;
+
+  /** Category names with live counts (react to the current filters). */
+  protected readonly chips = computed(() => this.svc.categoryCounts());
 
   /** Number of refinements active inside the drawer (category + drive time). */
   protected readonly activeFilterCount = computed(
@@ -41,6 +46,21 @@ export class App {
   protected onMaxTime(value: string): void {
     const n = Number(value);
     this.svc.maxTime.set(n >= this.svc.maxAvailableTime ? null : n);
+  }
+
+  protected onSliderPointerDown(): void {
+    this.sliderDragging = true;
+  }
+
+  protected onSliderPointerUp(): void {
+    // Defer clearing so a tap synthesized at the end of the drag (which can
+    // land on the overlay) is still treated as part of the drag.
+    setTimeout(() => (this.sliderDragging = false));
+  }
+
+  /** Keep the drawer open if a slider drag tries to dismiss it. */
+  protected onDrawerHide(event: Event): void {
+    if (this.sliderDragging) event.preventDefault();
   }
 
   protected clearFilters(): void {

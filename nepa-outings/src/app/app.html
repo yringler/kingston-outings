@@ -47,6 +47,7 @@
   label="Filters"
   light-dismiss
   [open]="filtersOpen()"
+  (wa-hide)="onDrawerHide($event)"
   (wa-after-hide)="filtersOpen.set(false)"
 >
   <div class="drawer-body">
@@ -59,6 +60,9 @@
         label="Max drive time — within {{ svc.maxTime() == null ? 'any time' : formatTime(svc.maxTime()!) }}"
         [value]="svc.maxTime() ?? svc.maxAvailableTime"
         (input)="onMaxTime($any($event.target).value)"
+        (pointerdown)="onSliderPointerDown()"
+        (pointerup)="onSliderPointerUp()"
+        (pointercancel)="onSliderPointerUp()"
       ></wa-slider>
     </section>
 

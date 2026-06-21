@@ -1,6 +1,6 @@
 import { Injectable, computed, signal } from '@angular/core';
 import data from './outings.json';
-import { Category, OriginId, OutingsData } from './outings.models';
+import { Category, OriginId, Outing, OutingsData } from './outings.models';
 
 const DATA = data as OutingsData;
 
@@ -32,6 +32,34 @@ export class OutingsService {
     return Math.ceil(max / 15) * 15;
   })();
 
+  /** Items of a category that match the current search + max-time filters. */
+  private filterItems(
+    category: Category,
+    query: string,
+    max: number | null,
+    origin: OriginId,
+  ): Outing[] {
+    let items = category.items;
+
+    if (query) {
+      items = items.filter(
+        (i) =>
+          i.name.toLowerCase().includes(query) ||
+          i.notes.toLowerCase().includes(query) ||
+          category.name.toLowerCase().includes(query),
+      );
+    }
+
+    if (max != null) {
+      items = items.filter((i) => {
+        const t = i.times[origin];
+        return t != null && t <= max;
+      });
+    }
+
+    return items;
+  }
+
   /**
    * Categories with their items filtered by search / category / max-time and
    * sorted by distance from the selected origin (items with no time go last).
@@ -46,24 +74,7 @@ export class OutingsService {
     for (const category of DATA.categories) {
       if (active && category.name !== active) continue;
 
-      let items = category.items;
-
-      if (query) {
-        items = items.filter(
-          (i) =>
-            i.name.toLowerCase().includes(query) ||
-            i.notes.toLowerCase().includes(query) ||
-            category.name.toLowerCase().includes(query),
-        );
-      }
-
-      if (max != null) {
-        items = items.filter((i) => {
-          const t = i.times[origin];
-          return t != null && t <= max;
-        });
-      }
-
+      const items = this.filterItems(category, query, max, origin);
       if (!items.length) continue;
 
       const sorted = [...items].sort((a, b) => {
@@ -78,6 +89,21 @@ export class OutingsService {
       result.push({ name: category.name, items: sorted });
     }
     return result;
+  });
+
+  /**
+   * Per-category counts honoring search + max-time, but ignoring the active
+   * category selection so the chips always show how many places each category
+   * has under the current drive-time limit.
+   */
+  readonly categoryCounts = computed(() => {
+    const origin = this.origin();
+    const query = this.search().trim().toLowerCase();
+    const max = this.maxTime();
+    return DATA.categories.map((category) => ({
+      name: category.name,
+      count: this.filterItems(category, query, max, origin).length,
+    }));
   });
 
   /** Number of outings currently visible after filtering. */
