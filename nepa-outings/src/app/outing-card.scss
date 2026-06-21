@@ -47,7 +47,10 @@
   display: flex;
   flex-direction: column;
   gap: var(--wa-space-3xs);
-  padding: var(--wa-space-2xs);
+  min-width: 0;
+  padding-block: var(--wa-space-2xs);
+  padding-inline: 0;
+  margin-inline: 0;
   text-align: center;
   background: var(--wa-color-neutral-fill-quiet);
   border: var(--wa-border-width-s) solid transparent;
