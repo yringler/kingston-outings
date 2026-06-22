@@ -54,6 +54,10 @@ ng e2e
 
 Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
+## Attribution
+
+The precomputed drive times bundled in `src/app/outings.json` come from Google Maps. The live "My Location" estimates — computed on demand when you pick your own location — are from [OSRM](https://project-osrm.org/) (Open Source Routing Machine). Those requests currently go to the public OSRM demo server (`router.project-osrm.org`), which is intended for development and demo use only — it is rate-limited and offers no uptime guarantee, per the [OSRM API usage policy](https://github.com/Project-OSRM/osrm-backend/wiki/Api-usage-policy). For production or heavier use, self-host an OSRM instance and point `OsrmService` at it (a one-line `base` change in `src/app/osrm/osrm.service.ts`).
+
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.

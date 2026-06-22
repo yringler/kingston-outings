@@ -158,4 +158,9 @@
   font-size: var(--wa-font-size-s);
   color: var(--wa-color-text-quiet);
   border-top: var(--wa-border-width-s) solid var(--wa-color-surface-border);
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
 }
