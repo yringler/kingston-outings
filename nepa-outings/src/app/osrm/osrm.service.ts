@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Coordinates } from './outings.models';
+import { Coordinates } from '../outings.models';
 
 export interface DriveMetric {
   /** Driving distance along the fastest route, in meters. */
@@ -38,8 +38,7 @@ export class OsrmService {
 
     const coords = [user, ...destinations].map((p) => `${p.lng},${p.lat}`).join(';');
     const url =
-      `${this.base}/table/v1/driving/${coords}` +
-      `?sources=0&annotations=distance,duration`;
+      `${this.base}/table/v1/driving/${coords}` + `?sources=0&annotations=distance,duration`;
 
     const res = await fetch(url);
     if (!res.ok) {

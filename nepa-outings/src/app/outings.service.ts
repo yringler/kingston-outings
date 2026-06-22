@@ -9,7 +9,7 @@ import {
   SelectedOrigin,
 } from './outings.models';
 import { GeolocationFailure, GeolocationService } from './geolocation.service';
-import { OsrmService } from './osrm.service';
+import { OsrmService } from './osrm/osrm.service';
 import { LocationStore, SavedLocation } from './location-store';
 
 const DATA = data as OutingsData;
@@ -235,9 +235,7 @@ export class OutingsService {
   });
 
   /** Number of outings currently visible after filtering. */
-  readonly visibleCount = computed(() =>
-    this.filtered().reduce((n, c) => n + c.items.length, 0),
-  );
+  readonly visibleCount = computed(() => this.filtered().reduce((n, c) => n + c.items.length, 0));
 }
 
 /** A friendly default name for a freshly-pinned location. */

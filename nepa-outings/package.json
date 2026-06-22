@@ -6,7 +6,9 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test",
+    "test": "ng test --exclude \"**/*.integration.spec.ts\"",
+    "test:osrm": "ng test --include \"**/*.integration.spec.ts\"",
+    "osrm:expected": "node scripts/generate-osrm-expected.mts",
     "e2e": "playwright test"
   },
   "private": true,
@@ -28,6 +30,7 @@
     "@angular/compiler-cli": "^22.0.0",
     "@fortawesome/fontawesome-free": "^7.2.0",
     "@playwright/test": "^1.61.0",
+    "@types/node": "^24.13.2",
     "jsdom": "^28.0.0",
     "prettier": "^3.8.1",
     "typescript": "~6.0.2",
