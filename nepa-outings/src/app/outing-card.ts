@@ -12,7 +12,7 @@ import { MY_LOCATION_ID, Origin, Outing, SelectedOrigin } from './outings.models
           appearance="filled"
           [attr.variant]="primaryTime() == null ? 'neutral' : 'brand'"
         >
-          {{ format(primaryTime()) }}
+          {{ origin() === ME ? formatLive(primaryTime()) : format(primaryTime()) }}
         </wa-badge>
       </div>
 
@@ -20,7 +20,7 @@ import { MY_LOCATION_ID, Origin, Outing, SelectedOrigin } from './outings.models
         @if (myLocationLabel(); as label) {
           <li class="times__item" [class.times__item--active]="origin() === ME">
             <span class="times__label">{{ label }}</span>
-            <span class="times__val">{{ format(liveTime()) }}</span>
+            <span class="times__val">{{ formatLive(liveTime()) }}</span>
           </li>
         }
         @if (origin() === ME) {
@@ -124,5 +124,14 @@ export class OutingCard {
     const h = Math.floor(min / 60);
     const m = min % 60;
     return m ? `${h} hr ${m} min` : `${h} hr`;
+  }
+
+  /**
+   * Drive times from the user's live location are OSRM estimates, not exact, so
+   * round to the nearest 5 minutes and prefix "Around" to signal the imprecision.
+   */
+  formatLive(min: number | null): string {
+    if (min == null) return '—';
+    return `Around ${this.format(min)}`;
   }
 }

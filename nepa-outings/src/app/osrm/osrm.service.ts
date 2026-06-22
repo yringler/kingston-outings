@@ -1,6 +1,13 @@
 import { Injectable } from '@angular/core';
 import { Coordinates } from '../outings.models';
 
+/**
+ * Calibration factor for OSRM durations. The public OSRM demo server tends to
+ * estimate trips ~20% longer than Google Maps, so we scale its times down to
+ * land closer to real-world driving times.
+ */
+const OSRM_DURATION_FACTOR = 0.8;
+
 export interface DriveMetric {
   /** Driving distance along the fastest route, in meters. */
   readonly meters: number;
@@ -52,6 +59,9 @@ export class OsrmService {
     const dist = body.distances[0];
     const dur = body.durations[0];
     // Index 0 is user->user; destination i is at index i + 1.
-    return destinations.map((_, i) => ({ meters: dist[i + 1], seconds: dur[i + 1] }));
+    return destinations.map((_, i) => ({
+      meters: dist[i + 1],
+      seconds: dur[i + 1] * OSRM_DURATION_FACTOR,
+    }));
   }
 }
