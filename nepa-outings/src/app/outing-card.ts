@@ -16,6 +16,18 @@ import { MY_LOCATION_ID, Origin, Outing, SelectedOrigin } from './outings.models
         </wa-badge>
       </div>
 
+      @if (statusInfo(); as status) {
+        <div [class]="'status status--' + status.variant" role="note">
+          <div class="status__head">
+            <wa-icon class="status__icon" [name]="status.icon"></wa-icon>
+            <span class="status__label">{{ status.label }}</span>
+          </div>
+          @if (status.note) {
+            <p class="status__note">{{ status.note }}</p>
+          }
+        </div>
+      }
+
       <ul class="times" aria-label="Drive times from each home base">
         @if (myLocationLabel(); as label) {
           <li class="times__item" [class.times__item--active]="origin() === ME">
@@ -117,6 +129,32 @@ export class OutingCard {
     return origin === MY_LOCATION_ID ? this.liveTime() : this.outing().times[origin];
   });
   readonly long = computed(() => this.outing().notes.length > 120);
+
+  /**
+   * Presentation for the Google Maps BusinessStatus badge, or null when the
+   * place is operational. "Temporarily closed" is frequently just seasonal, so
+   * we nudge the user to confirm via the Map link rather than trust it blindly.
+   */
+  readonly statusInfo = computed(() => {
+    switch (this.outing().status) {
+      case 'CLOSED_TEMPORARILY':
+        return {
+          variant: 'warning',
+          icon: 'clock',
+          label: 'Temporarily closed',
+          note: 'This is often just seasonal — many of these places shut down for the off-season. Open the Map link to check the current hours before heading out.',
+        };
+      case 'CLOSED_PERMANENTLY':
+        return {
+          variant: 'danger',
+          icon: 'circle-xmark',
+          label: 'Permanently closed',
+          note: null,
+        };
+      default:
+        return null;
+    }
+  });
 
   format(min: number | null): string {
     if (min == null) return '—';
