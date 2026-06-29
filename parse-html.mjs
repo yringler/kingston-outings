@@ -71,6 +71,14 @@ function extractUrl(notes) {
     return m ? m[0].replace(/[.,)]+$/, "") : null;
 }
 
+// Normalise the Google Maps BusinessStatus cell. Only the two "closed" states
+// are recorded in the sheet; an empty/operational cell maps to null.
+function parseStatus(str) {
+    const s = (str || "").trim().toUpperCase();
+    if (s === "CLOSED_TEMPORARILY" || s === "CLOSED_PERMANENTLY") return s;
+    return null;
+}
+
 // Parse a "lat, lng" string into { lat, lng }, or null if not present/valid.
 function parseCoordinates(str) {
     if (!str) return null;
@@ -150,6 +158,7 @@ export function parseHtml(rawHtml) {
 
         const coordinates = parseCoordinates(textOf(cells[6]?.html ?? ""));
         const address = textOf(cells[7]?.html ?? "") || null;
+        const status = parseStatus(textOf(cells[8]?.html ?? ""));
 
         current.items.push({
             name: place,
@@ -159,6 +168,7 @@ export function parseHtml(rawHtml) {
             notes,
             coordinates,
             address,
+            status,
         });
     }
 

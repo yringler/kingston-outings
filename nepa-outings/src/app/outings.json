@@ -31,7 +31,8 @@
             "lat": 41.347395,
             "lng": -75.873371
           },
-          "address": "1589 W 8th St, Wyoming, PA 18644"
+          "address": "1589 W 8th St, Wyoming, PA 18644",
+          "status": "CLOSED_TEMPORARILY"
         },
         {
           "name": "Brace Orchard",
@@ -47,7 +48,8 @@
             "lat": 41.399602,
             "lng": -75.898443
           },
-          "address": "444 Brace Rd, Dallas, PA 18612"
+          "address": "444 Brace Rd, Dallas, PA 18612",
+          "status": null
         },
         {
           "name": "Whistle Pig Pumpkin Patch",
@@ -63,7 +65,8 @@
             "lat": 41.420397,
             "lng": -76.045333
           },
-          "address": "3369 PA-29, Noxen, PA 18636"
+          "address": "3369 PA-29, Noxen, PA 18636",
+          "status": null
         },
         {
           "name": "Burger's Farm Market",
@@ -79,7 +82,8 @@
             "lat": 41.028727,
             "lng": -76.044788
           },
-          "address": "371 St Johns Rd, Drums, PA 18222"
+          "address": "371 St Johns Rd, Drums, PA 18222",
+          "status": null
         },
         {
           "name": "Pallman Farms",
@@ -95,7 +99,8 @@
             "lat": 41.472147,
             "lng": -75.710085
           },
-          "address": "1511 Summit Lake Rd, Clarks Summit, PA 18411"
+          "address": "1511 Summit Lake Rd, Clarks Summit, PA 18411",
+          "status": null
         },
         {
           "name": "Stemmrich Blueberry Farm",
@@ -111,7 +116,8 @@
             "lat": 41.053579,
             "lng": -76.157301
           },
-          "address": "71 E Cherry Ln, Nescopeck, PA 18635"
+          "address": "71 E Cherry Ln, Nescopeck, PA 18635",
+          "status": null
         },
         {
           "name": "Berries & Blooms @ High Horizons Farm",
@@ -127,7 +133,8 @@
             "lat": 41.541349,
             "lng": -75.999933
           },
-          "address": "128 Dziuba Ct, Tunkhannock, PA 18657"
+          "address": "128 Dziuba Ct, Tunkhannock, PA 18657",
+          "status": null
         },
         {
           "name": "Penn-Can Berry Farm",
@@ -143,7 +150,8 @@
             "lat": 41.827241,
             "lng": -75.684662
           },
-          "address": "2531 PA-848, New Milford, PA 18834"
+          "address": "2531 PA-848, New Milford, PA 18834",
+          "status": null
         },
         {
           "name": "George Schmidt Berry Farm",
@@ -159,7 +167,8 @@
             "lat": 40.667264,
             "lng": -75.704068
           },
-          "address": "5681 Berry Dr, New Tripoli, PA 18066"
+          "address": "5681 Berry Dr, New Tripoli, PA 18066",
+          "status": null
         },
         {
           "name": "general list of blueberry picking in NEPA",
@@ -172,7 +181,8 @@
           "website": null,
           "notes": "",
           "coordinates": null,
-          "address": null
+          "address": null,
+          "status": null
         },
         {
           "name": "Daisy Field Farm",
@@ -188,7 +198,8 @@
             "lat": 41.059811,
             "lng": -75.82209
           },
-          "address": "542 Oley Valley Rd, White Haven, PA 18661"
+          "address": "542 Oley Valley Rd, White Haven, PA 18661",
+          "status": null
         },
         {
           "name": "The Shoppes At Ritter's Farm",
@@ -204,7 +215,8 @@
             "lat": 41.415096,
             "lng": -75.478254
           },
-          "address": "1459 Mt Cobb Rd, Lake Ariel, PA 18436"
+          "address": "1459 Mt Cobb Rd, Lake Ariel, PA 18436",
+          "status": null
         },
         {
           "name": "Ritter's Cider Mill",
@@ -220,7 +232,8 @@
             "lat": 41.400892,
             "lng": -75.469909
           },
-          "address": "107 Wimmers Rd, Jefferson Township, PA 18436"
+          "address": "107 Wimmers Rd, Jefferson Township, PA 18436",
+          "status": "CLOSED_TEMPORARILY"
         },
         {
           "name": "Brown Hill Farms",
@@ -236,7 +249,8 @@
             "lat": 41.627286,
             "lng": -75.915412
           },
-          "address": "405 W Avery Station Rd, Tunkhannock, PA 18657"
+          "address": "405 W Avery Station Rd, Tunkhannock, PA 18657",
+          "status": "CLOSED_TEMPORARILY"
         },
         {
           "name": "Roba Family Farms",
@@ -252,7 +266,8 @@
             "lat": 41.5543,
             "lng": -75.688435
           },
-          "address": "200 Cranston Ave, North Abington Township, PA 18414"
+          "address": "200 Cranston Ave, North Abington Township, PA 18414",
+          "status": "CLOSED_TEMPORARILY"
         },
         {
           "name": "Spring Mountain Farms",
@@ -268,7 +283,8 @@
             "lat": 40.846024,
             "lng": -75.624016
           },
-          "address": "4595 Interchange Rd, Lehighton, PA 18235"
+          "address": "4595 Interchange Rd, Lehighton, PA 18235",
+          "status": null
         },
         {
           "name": "Gulicks Fruit Farm LLC",
@@ -284,7 +300,8 @@
             "lat": 40.819175,
             "lng": -75.111922
           },
-          "address": "6490 Koehler Rd, Bangor, PA 18013"
+          "address": "6490 Koehler Rd, Bangor, PA 18013",
+          "status": "CLOSED_TEMPORARILY"
         }
       ]
     },
@@ -305,7 +322,8 @@
             "lat": 41.250772,
             "lng": -75.892027
           },
-          "address": "160 Market St, Wilkes-Barre, PA 18704"
+          "address": "160 Market St, Wilkes-Barre, PA 18704",
+          "status": null
         },
         {
           "name": "Church Street Park",
@@ -321,7 +339,8 @@
             "lat": 41.265775,
             "lng": -75.875101
           },
-          "address": "Kingston, PA 18704"
+          "address": "Kingston, PA 18704",
+          "status": null
         },
         {
           "name": "Hamilton Park aka James S. Keiper Memorial Park",
@@ -337,7 +356,8 @@
             "lat": 41.263362,
             "lng": -75.878449
           },
-          "address": "Hamilton Ave, Kingston, PA 18704"
+          "address": "Hamilton Ave, Kingston, PA 18704",
+          "status": null
         },
         {
           "name": "Plains Township Municipal Park",
@@ -353,7 +373,8 @@
             "lat": 41.285229,
             "lng": -75.832999
           },
-          "address": "Wilkes-Barre, PA 18705"
+          "address": "Wilkes-Barre, PA 18705",
+          "status": null
         },
         {
           "name": "Dallas Nature Playground",
@@ -369,7 +390,8 @@
             "lat": 41.337734,
             "lng": -75.959795
           },
-          "address": "92 Southside Ave, Dallas, PA 18612"
+          "address": "92 Southside Ave, Dallas, PA 18612",
+          "status": null
         },
         {
           "name": "Nay Aug Park",
@@ -385,7 +407,8 @@
             "lat": 41.400091,
             "lng": -75.644679
           },
-          "address": "500 Arthur Ave, Scranton, PA 18510"
+          "address": "500 Arthur Ave, Scranton, PA 18510",
+          "status": null
         },
         {
           "name": "Weston Field",
@@ -401,7 +424,8 @@
             "lat": 41.424207,
             "lng": -75.665615
           },
-          "address": "982 Providence Rd, Scranton, PA 18508"
+          "address": "982 Providence Rd, Scranton, PA 18508",
+          "status": null
         },
         {
           "name": "Monroe Street Park",
@@ -417,7 +441,8 @@
             "lat": 41.419445,
             "lng": -75.641001
           },
-          "address": "1317 Clay Ave, Scranton, PA 18510"
+          "address": "1317 Clay Ave, Scranton, PA 18510",
+          "status": null
         },
         {
           "name": "Crowley Park",
@@ -433,7 +458,8 @@
             "lat": 41.437697,
             "lng": -75.634975
           },
-          "address": "1199 Highnett Pl #901, Scranton, PA 18509"
+          "address": "1199 Highnett Pl #901, Scranton, PA 18509",
+          "status": null
         },
         {
           "name": "Sarah Bratty Park",
@@ -449,7 +475,8 @@
             "lat": 41.481534,
             "lng": -75.550432
           },
-          "address": "Winton Rd & Lackawanna River Heritage Trail, Archbald, PA 18403"
+          "address": "Winton Rd & Lackawanna River Heritage Trail, Archbald, PA 18403",
+          "status": null
         },
         {
           "name": "Factoryville Borough/Clinton Twp Joint Municipal Park",
@@ -465,7 +492,8 @@
             "lat": 41.565375,
             "lng": -75.793712
           },
-          "address": "166-178 Creek Rd, Factoryville, PA 18419"
+          "address": "166-178 Creek Rd, Factoryville, PA 18419",
+          "status": null
         },
         {
           "name": "Mountain View Park",
@@ -481,7 +509,8 @@
             "lat": 41.053555,
             "lng": -75.328706
           },
-          "address": "104 Mount View Park Ln, Tannersville, PA 18372"
+          "address": "104 Mount View Park Ln, Tannersville, PA 18372",
+          "status": null
         },
         {
           "name": "Firefly Playground",
@@ -497,7 +526,8 @@
             "lat": 41.361815,
             "lng": -74.697478
           },
-          "address": "Avenue S, Matamoras, PA 18336"
+          "address": "Avenue S, Matamoras, PA 18336",
+          "status": null
         },
         {
           "name": "Kingston Neighborhood Park",
@@ -513,7 +543,8 @@
             "lat": 41.274327,
             "lng": -75.881792
           },
-          "address": "Kingston, PA 18704"
+          "address": "Kingston, PA 18704",
+          "status": null
         },
         {
           "name": "Andrew Barilla Jr. Park",
@@ -529,7 +560,8 @@
             "lat": 41.28797,
             "lng": -75.887966
           },
-          "address": "447 Slocum St, Swoyersville, PA 18704"
+          "address": "447 Slocum St, Swoyersville, PA 18704",
+          "status": null
         },
         {
           "name": "Barney Farms Park",
@@ -545,7 +577,8 @@
             "lat": 41.246567,
             "lng": -75.912905
           },
-          "address": "178 Reliance Dr, Wilkes-Barre, PA 18702"
+          "address": "178 Reliance Dr, Wilkes-Barre, PA 18702",
+          "status": null
         },
         {
           "name": "Jackson Township Park",
@@ -561,7 +594,8 @@
             "lat": 41.299059,
             "lng": -75.97521
           },
-          "address": "1275 Huntsville Rd, Shavertown, PA 18708"
+          "address": "1275 Huntsville Rd, Shavertown, PA 18708",
+          "status": null
         },
         {
           "name": "Spadi Park",
@@ -577,7 +611,8 @@
             "lat": 41.29894,
             "lng": -75.809071
           },
-          "address": "12 Main St, Inkerman, PA 18640"
+          "address": "12 Main St, Inkerman, PA 18640",
+          "status": null
         },
         {
           "name": "Laflin Creekside Community Playground",
@@ -593,7 +628,8 @@
             "lat": 41.289256,
             "lng": -75.805113
           },
-          "address": "Wilkes-Barre, PA 18702"
+          "address": "Wilkes-Barre, PA 18702",
+          "status": null
         },
         {
           "name": "Yatesville Borough Park",
@@ -609,7 +645,8 @@
             "lat": 41.305588,
             "lng": -75.783296
           },
-          "address": "Pittston Ave, Yatesville, PA 18640"
+          "address": "Pittston Ave, Yatesville, PA 18640",
+          "status": null
         },
         {
           "name": "Duryea Community Park",
@@ -625,7 +662,8 @@
             "lat": 41.351479,
             "lng": -75.764029
           },
-          "address": "Washington St, Duryea, PA 18642"
+          "address": "Washington St, Duryea, PA 18642",
+          "status": null
         },
         {
           "name": "Wright Township Recreation Park",
@@ -641,7 +679,8 @@
             "lat": 41.137063,
             "lng": -75.908254
           },
-          "address": "Park Rd, Mountain Top, PA 18707"
+          "address": "Park Rd, Mountain Top, PA 18707",
+          "status": null
         },
         {
           "name": "Falls Playground",
@@ -657,7 +696,8 @@
             "lat": 41.461,
             "lng": -75.856431
           },
-          "address": "327 River Rd, Falls, PA 18615"
+          "address": "327 River Rd, Falls, PA 18615",
+          "status": null
         },
         {
           "name": "Hillside Park",
@@ -673,7 +713,8 @@
             "lat": 41.485247,
             "lng": -75.732033
           },
-          "address": "1188 Winola Rd, South Abington Township, PA 18411"
+          "address": "1188 Winola Rd, South Abington Township, PA 18411",
+          "status": null
         },
         {
           "name": "Bloomsburg Town Park",
@@ -689,7 +730,8 @@
             "lat": 40.991453,
             "lng": -76.448362
           },
-          "address": "Market St, Bloomsburg, PA 17815"
+          "address": "Market St, Bloomsburg, PA 17815",
+          "status": null
         },
         {
           "name": "Covered Bridge Park",
@@ -705,7 +747,8 @@
             "lat": 40.628337,
             "lng": -75.569013
           },
-          "address": "2465 Wehr Mill Rd, Allentown, PA 18104"
+          "address": "2465 Wehr Mill Rd, Allentown, PA 18104",
+          "status": null
         },
         {
           "name": "Cedar Beach Park",
@@ -721,7 +764,8 @@
             "lat": 40.593489,
             "lng": -75.51145
           },
-          "address": "2600 Parkway Blvd, Allentown, PA 18104"
+          "address": "2600 Parkway Blvd, Allentown, PA 18104",
+          "status": null
         }
       ]
     },
@@ -742,7 +786,8 @@
             "lat": 41.241697,
             "lng": -75.870098
           },
-          "address": "Wilkes-Barre, PA 18702"
+          "address": "Wilkes-Barre, PA 18702",
+          "status": null
         },
         {
           "name": "Sherwood Park aka S. Anthony's Memorial Park",
@@ -758,7 +803,8 @@
             "lat": 41.422074,
             "lng": -75.615485
           },
-          "address": "450 Barnard St, Dunmore, PA 18512"
+          "address": "450 Barnard St, Dunmore, PA 18512",
+          "status": null
         },
         {
           "name": "Novembrino Park",
@@ -774,10 +820,11 @@
             "lat": 41.409987,
             "lng": -75.680838
           },
-          "address": "Scranton, PA 18504"
+          "address": "Scranton, PA 18504",
+          "status": null
         },
         {
-          "name": "McDade Park",
+          "name": "McDade Park. Sprinklers closed temporarily",
           "times": {
             "kingston": 29,
             "scranton": 17,
@@ -785,12 +832,13 @@
           },
           "map": "https://www.google.com/maps/search/?api=1&query=McDade%20Park&query_place_id=ChIJXXQX8VXfxIkRigczF6AdTVc",
           "website": null,
-          "notes": "by the coal mine, gorgeous place for pictures, great, open playground, small lake, sandbox and lots of fields. splashed open 11-7 daily . to find splashpad:Look for signs for the pool. It’s to the left about. 1/4 mile after the playground up a driveway on the left",
+          "notes": "Sprinklers temporarily closed. by the coal mine, gorgeous place for pictures, great, open playground, small lake, sandbox and lots of fields. splashed open 11-7 daily . to find splashpad:Look for signs for the pool. It’s to the left about. 1/4 mile after the playground up a driveway on the left",
           "coordinates": {
             "lat": 41.417116,
             "lng": -75.711143
           },
-          "address": "1 Bald Mountain Rd, Scranton, PA 18507"
+          "address": "1 Bald Mountain Rd, Scranton, PA 18507",
+          "status": null
         },
         {
           "name": "South Abington Community Park",
@@ -806,7 +854,8 @@
             "lat": 41.478495,
             "lng": -75.684019
           },
-          "address": "642 Northern Blvd, South Abington Township, PA 18411"
+          "address": "642 Northern Blvd, South Abington Township, PA 18411",
+          "status": null
         }
       ]
     },
@@ -827,7 +876,8 @@
             "lat": 41.300872,
             "lng": -75.849079
           },
-          "address": "1080 Wyoming Ave, Wyoming, PA 18644"
+          "address": "1080 Wyoming Ave, Wyoming, PA 18644",
+          "status": null
         },
         {
           "name": "Sky Zone Trampoline Park",
@@ -843,7 +893,8 @@
             "lat": 41.309913,
             "lng": -75.765647
           },
-          "address": "195 Enterprise Way, Pittston, PA 18640"
+          "address": "195 Enterprise Way, Pittston, PA 18640",
+          "status": null
         },
         {
           "name": "Defy Scranton",
@@ -859,7 +910,8 @@
             "lat": 41.468952,
             "lng": -75.645205
           },
-          "address": "1011 Scranton Carbondale Hwy Ste #1, Scranton, PA 18508"
+          "address": "1011 Scranton Carbondale Hwy Ste #1, Scranton, PA 18508",
+          "status": null
         }
       ]
     },
@@ -880,7 +932,8 @@
             "lat": 41.298439,
             "lng": -75.934531
           },
-          "address": "65 Hillside Rd, Shavertown, PA 18708"
+          "address": "65 Hillside Rd, Shavertown, PA 18708",
+          "status": null
         },
         {
           "name": "Safari Farm Petting Zoo",
@@ -896,7 +949,8 @@
             "lat": 41.409996,
             "lng": -75.449202
           },
-          "address": "1675 Mt Cobb Rd, Lake Ariel, PA 18436"
+          "address": "1675 Mt Cobb Rd, Lake Ariel, PA 18436",
+          "status": null
         },
         {
           "name": "Quiet Valley Living Historical Farm",
@@ -912,7 +966,8 @@
             "lat": 40.957931,
             "lng": -75.252682
           },
-          "address": "347 Quiet Valley Rd, Stroudsburg, PA 18360"
+          "address": "347 Quiet Valley Rd, Stroudsburg, PA 18360",
+          "status": null
         },
         {
           "name": "Alpacas of Sunshine Farm",
@@ -928,7 +983,8 @@
             "lat": 41.884427,
             "lng": -75.672219
           },
-          "address": "2312 E Lake Rd, New Milford, PA 18834"
+          "address": "2312 E Lake Rd, New Milford, PA 18834",
+          "status": null
         },
         {
           "name": "Lehigh Valley Zoo",
@@ -944,7 +1000,8 @@
             "lat": 40.658722,
             "lng": -75.627304
           },
-          "address": "5150 Game Preserve Rd, Schnecksville, PA 18078"
+          "address": "5150 Game Preserve Rd, Schnecksville, PA 18078",
+          "status": null
         },
         {
           "name": "The Preserve",
@@ -960,7 +1017,8 @@
             "lat": 42.158228,
             "lng": -75.661682
           },
-          "address": "42 Pease Rd, Harpursville, NY 13787"
+          "address": "42 Pease Rd, Harpursville, NY 13787",
+          "status": null
         },
         {
           "name": "Goldschein's Homestead",
@@ -976,7 +1034,8 @@
             "lat": 41.813577,
             "lng": -74.755887
           },
-          "address": "196 Revonah Hill Rd, Liberty, NY 12754"
+          "address": "196 Revonah Hill Rd, Liberty, NY 12754",
+          "status": null
         },
         {
           "name": "Puppies & More",
@@ -992,23 +1051,8 @@
             "lat": 41.257459,
             "lng": -75.901237
           },
-          "address": "75 S Wyoming Ave, Kingston, PA 18704"
-        },
-        {
-          "name": "Bear Mountain Butterfly Sanctuary",
-          "times": {
-            "kingston": 36,
-            "scranton": 47,
-            "canadensis": 49
-          },
-          "map": "https://www.google.com/maps/search/?api=1&query=Bear%20Mountain%20Butterfly%20Sanctuary&query_place_id=ChIJkeYL-YdTxIkRfBBogaQbZLM",
-          "website": "https://bearmountainbutterflies.com/",
-          "notes": "18 Church Rd, Jim Thorpe, PA 18229  •  Indoor; insects, crafts, films | Site: https://bearmountainbutterflies.com",
-          "coordinates": {
-            "lat": 40.940108,
-            "lng": -75.656024
-          },
-          "address": "18 Church Rd, Jim Thorpe, PA 18229"
+          "address": "75 S Wyoming Ave, Kingston, PA 18704",
+          "status": null
         },
         {
           "name": "Safari Farm Petting Zoo & Sanctuary",
@@ -1024,7 +1068,8 @@
             "lat": 41.409996,
             "lng": -75.449202
           },
-          "address": "1675 Mt Cobb Rd, Lake Ariel, PA 18436"
+          "address": "1675 Mt Cobb Rd, Lake Ariel, PA 18436",
+          "status": null
         },
         {
           "name": "Alpacas of Windy Haven Farm",
@@ -1040,7 +1085,8 @@
             "lat": 41.309494,
             "lng": -75.503684
           },
-          "address": "153 Center St, Covington Township, PA 18424"
+          "address": "153 Center St, Covington Township, PA 18424",
+          "status": null
         },
         {
           "name": "Pocono Snake & Animal Farm",
@@ -1056,7 +1102,8 @@
             "lat": 41.021527,
             "lng": -75.129267
           },
-          "address": "424 Seven Bridge Rd, East Stroudsburg, PA 18301"
+          "address": "424 Seven Bridge Rd, East Stroudsburg, PA 18301",
+          "status": null
         },
         {
           "name": "Animal Adventure Park",
@@ -1072,7 +1119,8 @@
             "lat": 42.153897,
             "lng": -75.668072
           },
-          "address": "85 Martin Hill Rd, Harpursville, NY 13787"
+          "address": "85 Martin Hill Rd, Harpursville, NY 13787",
+          "status": null
         },
         {
           "name": "Philadelphia Zoo",
@@ -1088,7 +1136,8 @@
             "lat": 39.971496,
             "lng": -75.195538
           },
-          "address": "3400 W Girard Ave, Philadelphia, PA 19104"
+          "address": "3400 W Girard Ave, Philadelphia, PA 19104",
+          "status": null
         },
         {
           "name": "Essex County Turtle Back Zoo",
@@ -1104,7 +1153,8 @@
             "lat": 40.767685,
             "lng": -74.279911
           },
-          "address": "560 Northfield Ave, West Orange, NJ 07052"
+          "address": "560 Northfield Ave, West Orange, NJ 07052",
+          "status": null
         }
       ]
     },
@@ -1125,7 +1175,8 @@
             "lat": 41.270979,
             "lng": -75.872099
           },
-          "address": "525 River St, Forty Fort, PA 18704"
+          "address": "525 River St, Forty Fort, PA 18704",
+          "status": null
         }
       ]
     },
@@ -1146,7 +1197,8 @@
             "lat": 40.942804,
             "lng": -75.439153
           },
-          "address": "2668 PA-115, Effort, PA 18330"
+          "address": "2668 PA-115, Effort, PA 18330",
+          "status": null
         }
       ]
     },
@@ -1167,7 +1219,8 @@
             "lat": 40.997792,
             "lng": -76.452386
           },
-          "address": "2 W 7th St, Bloomsburg, PA 17815"
+          "address": "2 W 7th St, Bloomsburg, PA 17815",
+          "status": null
         },
         {
           "name": "Da Vinci Science Center",
@@ -1183,7 +1236,8 @@
             "lat": 40.601887,
             "lng": -75.474579
           },
-          "address": "815 Hamilton St, Allentown, PA 18101"
+          "address": "815 Hamilton St, Allentown, PA 18101",
+          "status": null
         },
         {
           "name": "America on Wheels",
@@ -1199,7 +1253,8 @@
             "lat": 40.606715,
             "lng": -75.456499
           },
-          "address": "5 N Front St, Allentown, PA 18102"
+          "address": "5 N Front St, Allentown, PA 18102",
+          "status": null
         },
         {
           "name": "Dorflinger Glass Museum",
@@ -1215,7 +1270,8 @@
             "lat": 41.526602,
             "lng": -75.203196
           },
-          "address": "670 Texas Palmyra Hwy, Hawley, PA 18428"
+          "address": "670 Texas Palmyra Hwy, Hawley, PA 18428",
+          "status": null
         },
         {
           "name": "general museum location finder",
@@ -1228,7 +1284,8 @@
           "website": null,
           "notes": "For those on food stamps, you can get into some museums at a very big discount or free",
           "coordinates": null,
-          "address": null
+          "address": null,
+          "status": null
         },
         {
           "name": "Everhart Museum",
@@ -1244,7 +1301,8 @@
             "lat": 41.400696,
             "lng": -75.644211
           },
-          "address": "1901 Mulberry St, Scranton, PA 18510"
+          "address": "1901 Mulberry St, Scranton, PA 18510",
+          "status": null
         },
         {
           "name": "Steamtown National Historic Site",
@@ -1260,7 +1318,8 @@
             "lat": 41.407906,
             "lng": -75.672011
           },
-          "address": "350 Cliff St, Scranton, PA 18503"
+          "address": "350 Cliff St, Scranton, PA 18503",
+          "status": null
         },
         {
           "name": "The Electric City Trolley Museum",
@@ -1276,7 +1335,8 @@
             "lat": 41.409508,
             "lng": -75.67342
           },
-          "address": "300 Cliff St, Scranton, PA 18503"
+          "address": "300 Cliff St, Scranton, PA 18503",
+          "status": null
         },
         {
           "name": "Asa Packer Mansion Museum",
@@ -1292,7 +1352,8 @@
             "lat": 40.864498,
             "lng": -75.738194
           },
-          "address": "Packer Hill Ave, Jim Thorpe, PA 18229"
+          "address": "Packer Hill Ave, Jim Thorpe, PA 18229",
+          "status": null
         },
         {
           "name": "Old Jail Museum",
@@ -1308,7 +1369,8 @@
             "lat": 40.863719,
             "lng": -75.746456
           },
-          "address": "128 W Broadway, Jim Thorpe, PA 18229"
+          "address": "128 W Broadway, Jim Thorpe, PA 18229",
+          "status": null
         },
         {
           "name": "Delaware & Hudson Canal Park at Lock 31",
@@ -1324,7 +1386,8 @@
             "lat": 41.493942,
             "lng": -75.194869
           },
-          "address": "179 Texas Palmyra Hwy, Hawley, PA 18428"
+          "address": "179 Texas Palmyra Hwy, Hawley, PA 18428",
+          "status": null
         },
         {
           "name": "Grey Towers National Historic Site",
@@ -1340,7 +1403,8 @@
             "lat": 41.328158,
             "lng": -74.818904
           },
-          "address": "151 Grey Towers Dr Drive, Milford, PA 18337"
+          "address": "151 Grey Towers Dr Drive, Milford, PA 18337",
+          "status": null
         },
         {
           "name": "Lewisburg Children's Museum",
@@ -1356,7 +1420,8 @@
             "lat": 40.960136,
             "lng": -76.891763
           },
-          "address": "815 Market St #14, Lewisburg, PA 17837"
+          "address": "815 Market St #14, Lewisburg, PA 17837",
+          "status": null
         },
         {
           "name": "National Canal Museum",
@@ -1372,7 +1437,8 @@
             "lat": 40.662085,
             "lng": -75.239176
           },
-          "address": "2750 Hugh Moore Park Rd, Easton, PA 18042"
+          "address": "2750 Hugh Moore Park Rd, Easton, PA 18042",
+          "status": "CLOSED_TEMPORARILY"
         },
         {
           "name": "The Discovery Center of the Southern Tier",
@@ -1388,7 +1454,8 @@
             "lat": 42.073813,
             "lng": -75.903749
           },
-          "address": "60 Morgan Rd, Binghamton, NY 13903"
+          "address": "60 Morgan Rd, Binghamton, NY 13903",
+          "status": null
         }
       ]
     },
@@ -1409,7 +1476,8 @@
             "lat": 41.235463,
             "lng": -75.810687
           },
-          "address": "900 Bear Creek Blvd, Wilkes-Barre, PA 18702"
+          "address": "900 Bear Creek Blvd, Wilkes-Barre, PA 18702",
+          "status": null
         },
         {
           "name": "Natural Lands' Bear Creek Preserve",
@@ -1425,7 +1493,8 @@
             "lat": 41.179753,
             "lng": -75.705164
           },
-          "address": "47 Rabbit Run Ln, Bear Creek Village, PA 18702"
+          "address": "47 Rabbit Run Ln, Bear Creek Village, PA 18702",
+          "status": null
         },
         {
           "name": "Eales Preserve at Moosic Mountain",
@@ -1441,7 +1510,8 @@
             "lat": 41.438252,
             "lng": -75.541163
           },
-          "address": "222 In The Deed, Jessup, PA 18434"
+          "address": "222 In The Deed, Jessup, PA 18434",
+          "status": null
         },
         {
           "name": "Ricketts Glen Falls",
@@ -1457,7 +1527,8 @@
             "lat": 41.31249,
             "lng": -76.275095
           },
-          "address": "Ricketts Glen Falls Trail, Fairmount Township, PA"
+          "address": "Ricketts Glen Falls Trail, Fairmount Township, PA",
+          "status": null
         },
         {
           "name": "Hawk Falls Parking",
@@ -1473,7 +1544,8 @@
             "lat": 41.010787,
             "lng": -75.634039
           },
-          "address": "2812 PA-534, Albrightsville, PA 18210"
+          "address": "2812 PA-534, Albrightsville, PA 18210",
+          "status": null
         },
         {
           "name": "Rail Gap Pocono Creek Nature Preserve",
@@ -1489,7 +1561,8 @@
             "lat": 40.9913,
             "lng": -75.255765
           },
-          "address": "3555 Shafers School House Rd, Stroudsburg, PA 18360"
+          "address": "3555 Shafers School House Rd, Stroudsburg, PA 18360",
+          "status": null
         },
         {
           "name": "Wheelchair/stroller friendly",
@@ -1502,7 +1575,8 @@
           "website": null,
           "notes": "",
           "coordinates": null,
-          "address": null
+          "address": null,
+          "status": null
         },
         {
           "name": "Susquehanna Riverlands",
@@ -1518,7 +1592,8 @@
             "lat": 41.096191,
             "lng": -76.134761
           },
-          "address": "634 Salem Blvd, Berwick, PA 18603"
+          "address": "634 Salem Blvd, Berwick, PA 18603",
+          "status": null
         },
         {
           "name": "Austin T. Blakeslee Natural Area",
@@ -1534,7 +1609,8 @@
             "lat": 41.083245,
             "lng": -75.584556
           },
-          "address": "20 PA-115, Blakeslee, PA 18610"
+          "address": "20 PA-115, Blakeslee, PA 18610",
+          "status": null
         },
         {
           "name": "D&L Trail White Haven North Trailhead",
@@ -1550,7 +1626,8 @@
             "lat": 41.063164,
             "lng": -75.772752
           },
-          "address": "201 Main St, White Haven, PA 18661"
+          "address": "201 Main St, White Haven, PA 18661",
+          "status": null
         },
         {
           "name": "Lazybrook Park",
@@ -1566,7 +1643,8 @@
             "lat": 41.553104,
             "lng": -75.897872
           },
-          "address": "152 Lazy Brk Pk, Tunkhannock, PA 18657"
+          "address": "152 Lazy Brk Pk, Tunkhannock, PA 18657",
+          "status": null
         },
         {
           "name": "Shades Of Death Trailhead",
@@ -1582,7 +1660,8 @@
             "lat": 41.024701,
             "lng": -75.709164
           },
-          "address": "PA-534, Jim Thorpe, PA 18229"
+          "address": "PA-534, Jim Thorpe, PA 18229",
+          "status": null
         },
         {
           "name": "Hickory Run State Park",
@@ -1598,7 +1677,8 @@
             "lat": 41.023678,
             "lng": -75.691605
           },
-          "address": "3 Family Camp Rd, White Haven, PA 18661"
+          "address": "3 Family Camp Rd, White Haven, PA 18661",
+          "status": null
         },
         {
           "name": "Little Rocky Glen Preserve",
@@ -1614,7 +1694,8 @@
             "lat": 41.554376,
             "lng": -75.834053
           },
-          "address": "Lithia Valley Rd, Factoryville, PA 18419"
+          "address": "Lithia Valley Rd, Factoryville, PA 18419",
+          "status": null
         }
       ]
     },
@@ -1635,7 +1716,8 @@
             "lat": 41.318628,
             "lng": -75.53311
           },
-          "address": "307 Winship Rd, Moscow, PA 18444"
+          "address": "307 Winship Rd, Moscow, PA 18444",
+          "status": null
         },
         {
           "name": "Gouldsboro State Park",
@@ -1651,7 +1733,8 @@
             "lat": 41.242632,
             "lng": -75.468733
           },
-          "address": "Pennsylvania 507 at, State Pk Rd, Gouldsboro, PA 18424"
+          "address": "Pennsylvania 507 at, State Pk Rd, Gouldsboro, PA 18424",
+          "status": null
         },
         {
           "name": "Lake Jean at Ricketts Glen",
@@ -1667,7 +1750,8 @@
             "lat": 41.338678,
             "lng": -76.284484
           },
-          "address": "Unnamed Road, Sweet Valley, PA 18656"
+          "address": "Unnamed Road, Sweet Valley, PA 18656",
+          "status": null
         },
         {
           "name": "Beltzville State Park",
@@ -1683,7 +1767,8 @@
             "lat": 40.865099,
             "lng": -75.627268
           },
-          "address": "2950 Pohopoco Dr, Lehighton, PA 18235"
+          "address": "2950 Pohopoco Dr, Lehighton, PA 18235",
+          "status": null
         },
         {
           "name": "Tobyhanna State Park",
@@ -1699,7 +1784,8 @@
             "lat": 41.207434,
             "lng": -75.396176
           },
-          "address": "PA-423, Tobyhanna, PA 18466"
+          "address": "PA-423, Tobyhanna, PA 18466",
+          "status": null
         },
         {
           "name": "Promised Land State Park Kids Playground",
@@ -1715,7 +1801,8 @@
             "lat": 41.318145,
             "lng": -75.207361
           },
-          "address": "Greentown, PA 18426"
+          "address": "Greentown, PA 18426",
+          "status": null
         },
         {
           "name": "Promised Land Main Beach",
@@ -1731,7 +1818,8 @@
             "lat": 41.317187,
             "lng": -75.207394
           },
-          "address": "Greentown, PA 18426"
+          "address": "Greentown, PA 18426",
+          "status": null
         },
         {
           "name": "Lake Wallenpaupack",
@@ -1747,7 +1835,8 @@
             "lat": 41.449192,
             "lng": -75.179767
           },
-          "address": "Palmyra Township Public Beach, 2512 Lake Wallenpaupack Rd, Hawley, PA 18428"
+          "address": "Palmyra Township Public Beach, 2512 Lake Wallenpaupack Rd, Hawley, PA 18428",
+          "status": null
         },
         {
           "name": "Moon Lake State Forest Recreation Area",
@@ -1763,7 +1852,8 @@
             "lat": 41.252042,
             "lng": -76.055975
           },
-          "address": "Deerwood Dr, Hunlock Creek, PA 18621"
+          "address": "Deerwood Dr, Hunlock Creek, PA 18621",
+          "status": null
         },
         {
           "name": "Francis E. Walter Dam",
@@ -1779,7 +1869,8 @@
             "lat": 41.112282,
             "lng": -75.721806
           },
-          "address": "St Fish and Game Commission Rd, White Haven, PA 18661"
+          "address": "St Fish and Game Commission Rd, White Haven, PA 18661",
+          "status": null
         },
         {
           "name": "Nescopeck State Park",
@@ -1795,7 +1886,8 @@
             "lat": 41.091042,
             "lng": -75.879559
           },
-          "address": "1137 Honey Hole Rd, Drums, PA 18222"
+          "address": "1137 Honey Hole Rd, Drums, PA 18222",
+          "status": null
         },
         {
           "name": "Mauch Chunk Lake Park",
@@ -1811,7 +1903,8 @@
             "lat": 40.843669,
             "lng": -75.805535
           },
-          "address": "625 Lentz Trail, Jim Thorpe, PA 18229"
+          "address": "625 Lentz Trail, Jim Thorpe, PA 18229",
+          "status": null
         },
         {
           "name": "Palmyra Township Public Beach",
@@ -1827,7 +1920,8 @@
             "lat": 41.449192,
             "lng": -75.179767
           },
-          "address": "Palmyra Township Public Beach, 2512 Lake Wallenpaupack Rd, Hawley, PA 18428"
+          "address": "Palmyra Township Public Beach, 2512 Lake Wallenpaupack Rd, Hawley, PA 18428",
+          "status": null
         }
       ]
     },
@@ -1848,7 +1942,8 @@
             "lat": 41.251541,
             "lng": -75.885385
           },
-          "address": "Wilkes-Barre, PA 18704"
+          "address": "Wilkes-Barre, PA 18704",
+          "status": null
         },
         {
           "name": "Electric City Aquarium & Reptile Den",
@@ -1864,7 +1959,8 @@
             "lat": 41.407988,
             "lng": -75.668267
           },
-          "address": "300 Lackawanna Ave, Scranton, PA 18503"
+          "address": "300 Lackawanna Ave, Scranton, PA 18503",
+          "status": null
         },
         {
           "name": "Lakeland Orchard & Cidery",
@@ -1880,7 +1976,8 @@
             "lat": 41.57644,
             "lng": -75.594419
           },
-          "address": "1649 Lakeland Dr, Scott, PA 18433"
+          "address": "1649 Lakeland Dr, Scott, PA 18433",
+          "status": null
         },
         {
           "name": "Jim Thorpe scenic train ride",
@@ -1896,7 +1993,8 @@
             "lat": 40.863141,
             "lng": -75.737447
           },
-          "address": "1 Susquehanna St, Jim Thorpe, PA 18229"
+          "address": "1 Susquehanna St, Jim Thorpe, PA 18229",
+          "status": null
         },
         {
           "name": "Country Junction - World's Largest General Store",
@@ -1912,7 +2010,8 @@
             "lat": 40.862508,
             "lng": -75.590247
           },
-          "address": "6565 Interchange Rd, Lehighton, PA 18235"
+          "address": "6565 Interchange Rd, Lehighton, PA 18235",
+          "status": null
         },
         {
           "name": "general search",
@@ -1925,7 +2024,8 @@
           "website": null,
           "notes": "Go into the menu to search for specific things you're interested in (hikes, museum's etc)",
           "coordinates": null,
-          "address": null
+          "address": null,
+          "status": null
         },
         {
           "name": "general search",
@@ -1938,7 +2038,8 @@
           "website": null,
           "notes": "",
           "coordinates": null,
-          "address": null
+          "address": null,
+          "status": null
         }
       ]
     },
@@ -1959,7 +2060,8 @@
             "lat": 40.87996,
             "lng": -76.502076
           },
-          "address": "391 Knoebels Blvd, Elysburg, PA 17824"
+          "address": "391 Knoebels Blvd, Elysburg, PA 17824",
+          "status": null
         }
       ]
     },
@@ -1980,7 +2082,8 @@
             "lat": 41.25615,
             "lng": -75.901687
           },
-          "address": "75 S Wyoming Ave Ste 5, Edwardsville, PA 18704"
+          "address": "75 S Wyoming Ave Ste 5, Edwardsville, PA 18704",
+          "status": null
         },
         {
           "name": "Chuck E Cheese",
@@ -1996,7 +2099,8 @@
             "lat": 41.239063,
             "lng": -75.856611
           },
-          "address": "Market Place, 2120 Wilkes Barre Township Blvd, Wilkes-Barre Township, PA 18702"
+          "address": "Market Place, 2120 Wilkes Barre Township Blvd, Wilkes-Barre Township, PA 18702",
+          "status": null
         },
         {
           "name": "Dave & Buster's Scranton",
@@ -2012,7 +2116,8 @@
             "lat": 41.361037,
             "lng": -75.676089
           },
-          "address": "6000 Shoppes Blvd, Moosic, PA 18507"
+          "address": "6000 Shoppes Blvd, Moosic, PA 18507",
+          "status": null
         },
         {
           "name": "Bee's Backyard",
@@ -2028,7 +2133,8 @@
             "lat": 41.408139,
             "lng": -75.668527
           },
-          "address": "The Marketplace at Steamtown, 300 Lackawanna Ave, Scranton, PA 18503"
+          "address": "The Marketplace at Steamtown, 300 Lackawanna Ave, Scranton, PA 18503",
+          "status": null
         },
         {
           "name": "Bloom Waldessori Play Space",
@@ -2044,7 +2150,8 @@
             "lat": 40.977612,
             "lng": -75.236562
           },
-          "address": "106 Renastar Rd, Stroudsburg, PA 18360"
+          "address": "106 Renastar Rd, Stroudsburg, PA 18360",
+          "status": null
         },
         {
           "name": "Breakout Escape Room",
@@ -2060,7 +2167,8 @@
             "lat": 41.223045,
             "lng": -75.885142
           },
-          "address": "618 Blackman St, Wilkes-Barre Township, PA 18702"
+          "address": "618 Blackman St, Wilkes-Barre Township, PA 18702",
+          "status": null
         },
         {
           "name": "Wilkes-Barre Climbing Gym Indoor Rock Climbing",
@@ -2076,7 +2184,8 @@
             "lat": 41.243598,
             "lng": -75.885439
           },
-          "address": "102 S Main St, Wilkes-Barre, PA 18701"
+          "address": "102 S Main St, Wilkes-Barre, PA 18701",
+          "status": null
         },
         {
           "name": "Yum Yum Fun",
@@ -2092,7 +2201,8 @@
             "lat": 41.241803,
             "lng": -75.942733
           },
-          "address": "125 E Main St, Plymouth, PA 18651"
+          "address": "125 E Main St, Plymouth, PA 18651",
+          "status": null
         },
         {
           "name": "Purrfect Mugs Cat Cafe",
@@ -2108,7 +2218,8 @@
             "lat": 41.289834,
             "lng": -75.84588
           },
-          "address": "1325 N River St Ste 102A, Hilldale, PA 18702"
+          "address": "1325 N River St Ste 102A, Hilldale, PA 18702",
+          "status": null
         },
         {
           "name": "Buff City Soap",
@@ -2124,7 +2235,8 @@
             "lat": 41.465784,
             "lng": -75.637038
           },
-          "address": "1249 Commerce Blvd Ste A, Dickson City, PA 18519"
+          "address": "1249 Commerce Blvd Ste A, Dickson City, PA 18519",
+          "status": null
         },
         {
           "name": "Clubhouse315",
@@ -2140,23 +2252,8 @@
             "lat": 41.27476,
             "lng": -75.803054
           },
-          "address": "1492 PA-315, Wilkes-Barre, PA 18702"
-        },
-        {
-          "name": "Zensory Zone",
-          "times": {
-            "kingston": 20,
-            "scranton": 11,
-            "canadensis": 45
-          },
-          "map": "https://www.google.com/maps/search/?api=1&query=Zensory%20Zone&query_place_id=ChIJXzvZFgDfxIkRq0-rcOXW7dA",
-          "website": "https://www.zensoryzone.com/",
-          "notes": "73 Montage Mountain Rd, Moosic, PA 18507 | Site: https://www.zensoryzone.com/",
-          "coordinates": {
-            "lat": 41.369219,
-            "lng": -75.686579
-          },
-          "address": "73 Montage Mountain Rd, Moosic, PA 18507"
+          "address": "1492 PA-315, Wilkes-Barre, PA 18702",
+          "status": null
         },
         {
           "name": "Noteology",
@@ -2172,7 +2269,8 @@
             "lat": 41.413288,
             "lng": -75.66029
           },
-          "address": "537 Wyoming Ave, Scranton, PA 18509"
+          "address": "537 Wyoming Ave, Scranton, PA 18509",
+          "status": null
         },
         {
           "name": "Idle Hours North",
@@ -2188,7 +2286,8 @@
             "lat": 41.475191,
             "lng": -75.625558
           },
-          "address": "2008 Scranton Carbondale Hwy, Scranton, PA 18508"
+          "address": "2008 Scranton Carbondale Hwy, Scranton, PA 18508",
+          "status": null
         },
         {
           "name": "United Sports Academy Ninja Nook - Mayfield",
@@ -2204,7 +2303,8 @@
             "lat": 41.541813,
             "lng": -75.543577
           },
-          "address": "603 Scranton Carbondale Hwy, Mayfield, PA 18433"
+          "address": "603 Scranton Carbondale Hwy, Mayfield, PA 18433",
+          "status": null
         },
         {
           "name": "Wonderland Madhouse",
@@ -2220,7 +2320,8 @@
             "lat": 41.049449,
             "lng": -75.313294
           },
-          "address": "Located behind the Food Trucks by Carters, 1000 Premium Outlets Dr Ste i01, Tannersville, PA 18372"
+          "address": "Located behind the Food Trucks by Carters, 1000 Premium Outlets Dr Ste i01, Tannersville, PA 18372",
+          "status": null
         },
         {
           "name": "Pocolandia - The EPIC PlayPark!",
@@ -2236,7 +2337,8 @@
             "lat": 40.989926,
             "lng": -75.224615
           },
-          "address": "344 Stroud Mall Rd #430, Stroudsburg, PA 18360"
+          "address": "344 Stroud Mall Rd #430, Stroudsburg, PA 18360",
+          "status": null
         },
         {
           "name": "Imagi Nation",
@@ -2252,7 +2354,8 @@
             "lat": 40.579384,
             "lng": -75.525325
           },
-          "address": "3313 Hamilton Blvd, Allentown, PA 18103"
+          "address": "3313 Hamilton Blvd, Allentown, PA 18103",
+          "status": null
         },
         {
           "name": "Slime Time II",
@@ -2268,7 +2371,8 @@
             "lat": 40.560158,
             "lng": -75.410096
           },
-          "address": "2845 Center Valley Pkwy, Center Valley, PA 18034"
+          "address": "2845 Center Valley Pkwy, Center Valley, PA 18034",
+          "status": null
         },
         {
           "name": "Lost River Caverns",
@@ -2284,7 +2388,8 @@
             "lat": 40.580837,
             "lng": -75.330613
           },
-          "address": "726 Durham St, Hellertown, PA 18055"
+          "address": "726 Durham St, Hellertown, PA 18055",
+          "status": null
         },
         {
           "name": "Crayola Experience",
@@ -2300,7 +2405,8 @@
             "lat": 40.690933,
             "lng": -75.209857
           },
-          "address": "30 Centre Sq Cir, Easton, PA 18042"
+          "address": "30 Centre Sq Cir, Easton, PA 18042",
+          "status": null
         },
         {
           "name": "Otherworld Philadelphia",
@@ -2316,7 +2422,8 @@
             "lat": 40.078106,
             "lng": -75.025012
           },
-          "address": "2500 Grant Ave #1, Philadelphia, PA 19114"
+          "address": "2500 Grant Ave #1, Philadelphia, PA 19114",
+          "status": null
         },
         {
           "name": "Penn's Cave and Wildlife Park",
@@ -2332,7 +2439,8 @@
             "lat": 40.88255,
             "lng": -77.611657
           },
-          "address": "222 Penns Cave Rd, Centre Hall, PA 16828"
+          "address": "222 Penns Cave Rd, Centre Hall, PA 16828",
+          "status": null
         }
       ]
     },
@@ -2353,7 +2461,8 @@
             "lat": 41.410815,
             "lng": -75.659349
           },
-          "address": "520 Vine St, Scranton, PA 18509"
+          "address": "520 Vine St, Scranton, PA 18509",
+          "status": null
         },
         {
           "name": "Abington Community Library",
@@ -2369,7 +2478,8 @@
             "lat": 41.485672,
             "lng": -75.718692
           },
-          "address": "1200 W Grove St, Clarks Summit, PA 18411"
+          "address": "1200 W Grove St, Clarks Summit, PA 18411",
+          "status": null
         },
         {
           "name": "Back Mountain Memorial Library",
@@ -2385,7 +2495,8 @@
             "lat": 41.33305,
             "lng": -75.962673
           },
-          "address": "96 Huntsville Rd, Dallas, PA 18612"
+          "address": "96 Huntsville Rd, Dallas, PA 18612",
+          "status": null
         },
         {
           "name": "Albright Memorial Library Building Scranton Public Library",
@@ -2401,7 +2512,8 @@
             "lat": 41.411024,
             "lng": -75.65961
           },
-          "address": "500 Vine St, Scranton, PA 18509"
+          "address": "500 Vine St, Scranton, PA 18509",
+          "status": null
         }
       ]
     },
@@ -2422,7 +2534,8 @@
             "lat": 41.241667,
             "lng": -75.868395
           },
-          "address": "38 Coal St, Wilkes-Barre, PA 18702"
+          "address": "38 Coal St, Wilkes-Barre, PA 18702",
+          "status": null
         },
         {
           "name": "Skateaway",
@@ -2438,7 +2551,8 @@
             "lat": 41.223555,
             "lng": -75.885867
           },
-          "address": "610 Blackman St, Wilkes-Barre Township, PA 18702"
+          "address": "610 Blackman St, Wilkes-Barre Township, PA 18702",
+          "status": null
         },
         {
           "name": "Revolution Ice Centre",
@@ -2454,7 +2568,8 @@
             "lat": 41.296219,
             "lng": -75.772774
           },
-          "address": "12 Old Boston Rd, Pittston, PA 18640"
+          "address": "12 Old Boston Rd, Pittston, PA 18640",
+          "status": "CLOSED_TEMPORARILY"
         },
         {
           "name": "Electric City Axe Throwing",
@@ -2470,7 +2585,8 @@
             "lat": 41.421928,
             "lng": -75.654685
           },
-          "address": "1141 Capouse Ave, Scranton, PA 18509"
+          "address": "1141 Capouse Ave, Scranton, PA 18509",
+          "status": "CLOSED_PERMANENTLY"
         },
         {
           "name": "High Tines Archery and Outdoors",
@@ -2486,7 +2602,8 @@
             "lat": 41.43089,
             "lng": -75.616092
           },
-          "address": "116 Monahan Ave, Dunmore, PA 18512"
+          "address": "116 Monahan Ave, Dunmore, PA 18512",
+          "status": "CLOSED_PERMANENTLY"
         },
         {
           "name": "940 Golf N'Fun",
@@ -2502,7 +2619,8 @@
             "lat": 41.119018,
             "lng": -75.548845
           },
-          "address": "951 PA-940, Pocono Lake, PA 18347"
+          "address": "951 PA-940, Pocono Lake, PA 18347",
+          "status": null
         },
         {
           "name": "Pocono Biking, Jim Thorpe",
@@ -2518,7 +2636,8 @@
             "lat": 40.863542,
             "lng": -75.737727
           },
-          "address": "7 Hazard Square, Jim Thorpe, PA 18229"
+          "address": "7 Hazard Square, Jim Thorpe, PA 18229",
+          "status": null
         },
         {
           "name": "Dingmans Shooting Range",
@@ -2534,7 +2653,8 @@
             "lat": 41.281529,
             "lng": -74.931781
           },
-          "address": "1497 PA-739, Dingmans Ferry, PA 18328"
+          "address": "1497 PA-739, Dingmans Ferry, PA 18328",
+          "status": null
         }
       ]
     },
@@ -2555,7 +2675,8 @@
             "lat": 40.863141,
             "lng": -75.737447
           },
-          "address": "1 Susquehanna St, Jim Thorpe, PA 18229"
+          "address": "1 Susquehanna St, Jim Thorpe, PA 18229",
+          "status": null
         },
         {
           "name": "Reading Blue Mountain & Northern Railroad",
@@ -2571,7 +2692,8 @@
             "lat": 40.576243,
             "lng": -76.024758
           },
-          "address": "1 Railroad Blvd, Port Clinton, PA 19549"
+          "address": "1 Railroad Blvd, Port Clinton, PA 19549",
+          "status": null
         }
       ]
     },
@@ -2592,7 +2714,8 @@
             "lat": 41.059849,
             "lng": -75.322075
           },
-          "address": "1 Great Wolf Dr, Scotrun, PA 18355"
+          "address": "1 Great Wolf Dr, Scotrun, PA 18355",
+          "status": null
         },
         {
           "name": "Eagles Mere Toboggan Slide",
@@ -2608,7 +2731,8 @@
             "lat": 41.412394,
             "lng": -76.581527
           },
-          "address": "PO Box 56, Eagles Mere, PA 17731"
+          "address": "PO Box 56, Eagles Mere, PA 17731",
+          "status": null
         },
         {
           "name": "Pocono Guided Zip TreeVentures",
@@ -2624,7 +2748,8 @@
             "lat": 41.071962,
             "lng": -75.036209
           },
-          "address": "1575 Fairway Blvd, East Stroudsburg, PA 18302"
+          "address": "1575 Fairway Blvd, East Stroudsburg, PA 18302",
+          "status": null
         },
         {
           "name": "Land of Make Believe",
@@ -2640,7 +2765,8 @@
             "lat": 40.902847,
             "lng": -74.958016
           },
-          "address": "354 Great Meadows Rd, Hope, NJ 07844"
+          "address": "354 Great Meadows Rd, Hope, NJ 07844",
+          "status": null
         },
         {
           "name": "Thrillz High Flying Adventure Park",
@@ -2656,7 +2782,8 @@
             "lat": 40.079521,
             "lng": -75.355894
           },
-          "address": "555 S Henderson Rd, King of Prussia, PA 19406"
+          "address": "555 S Henderson Rd, King of Prussia, PA 19406",
+          "status": null
         },
         {
           "name": "American Dream",
@@ -2672,7 +2799,8 @@
             "lat": 40.809129,
             "lng": -74.068567
           },
-          "address": "1 American Dream Wy, East Rutherford, NJ 07073"
+          "address": "1 American Dream Wy, East Rutherford, NJ 07073",
+          "status": null
         }
       ]
     },
@@ -2693,7 +2821,8 @@
             "lat": 41.351243,
             "lng": -75.662917
           },
-          "address": "1000 Montage Mountain Rd, Scranton, PA 18507"
+          "address": "1000 Montage Mountain Rd, Scranton, PA 18507",
+          "status": null
         },
         {
           "name": "Camelback Resort",
@@ -2709,7 +2838,8 @@
             "lat": 41.052224,
             "lng": -75.346053
           },
-          "address": "193 Resort Dr, Tannersville, PA 18372"
+          "address": "193 Resort Dr, Tannersville, PA 18372",
+          "status": null
         }
       ]
     },
@@ -2730,7 +2860,8 @@
             "lat": 41.286338,
             "lng": -75.900631
           },
-          "address": null
+          "address": null,
+          "status": null
         },
         {
           "name": "Frances Slocum State Park",
@@ -2746,7 +2877,8 @@
             "lat": 41.340711,
             "lng": -75.892579
           },
-          "address": "565 Mt Olivet Rd, Wyoming, PA 18644"
+          "address": "565 Mt Olivet Rd, Wyoming, PA 18644",
+          "status": null
         },
         {
           "name": "Bloomsburg Rail Trail",
@@ -2762,7 +2894,8 @@
             "lat": 41.004129,
             "lng": -76.460635
           },
-          "address": "Bloomsburg Rail-Trail, Bloomsburg, PA 17815"
+          "address": "Bloomsburg Rail-Trail, Bloomsburg, PA 17815",
+          "status": null
         },
         {
           "name": "Cherry Valley National Wildlife Refuge",
@@ -2778,7 +2911,8 @@
             "lat": 40.883408,
             "lng": -75.304598
           },
-          "address": "Stroudsburg, PA 18360"
+          "address": "Stroudsburg, PA 18360",
+          "status": null
         },
         {
           "name": "D&H Rail-Trail",
@@ -2794,7 +2928,8 @@
             "lat": 41.96599,
             "lng": -75.578079
           },
-          "address": "D&H Rail-Trail, Lanesboro, PA 18847"
+          "address": "D&H Rail-Trail, Lanesboro, PA 18847",
+          "status": null
         },
         {
           "name": "ForEvergreen Nature Preserve",
@@ -2810,7 +2945,8 @@
             "lat": 41.060233,
             "lng": -75.216877
           },
-          "address": "1539 Cherry Lane Rd, East Stroudsburg, PA 18301"
+          "address": "1539 Cherry Lane Rd, East Stroudsburg, PA 18301",
+          "status": null
         },
         {
           "name": "Greater Hazleton Rails to Trails",
@@ -2826,7 +2962,8 @@
             "lat": 40.941399,
             "lng": -75.947451
           },
-          "address": "Greater Hazleton Rails to Trails, Hazle Township, PA 18201"
+          "address": "Greater Hazleton Rails to Trails, Hazle Township, PA 18201",
+          "status": null
         },
         {
           "name": "Hawk Mountain Sanctuary",
@@ -2842,7 +2979,8 @@
             "lat": 40.633803,
             "lng": -75.986928
           },
-          "address": "1700 Hawk Mountain Rd, Kempton, PA 19529"
+          "address": "1700 Hawk Mountain Rd, Kempton, PA 19529",
+          "status": null
         },
         {
           "name": "Iroquois Trail",
@@ -2858,7 +2996,8 @@
             "lat": 41.541563,
             "lng": -75.926391
           },
-          "address": "51 Sunnyside Rd, Tunkhannock, PA 18657"
+          "address": "51 Sunnyside Rd, Tunkhannock, PA 18657",
+          "status": null
         },
         {
           "name": "Lackawanna River Heritage Trail",
@@ -2874,7 +3013,8 @@
             "lat": 41.405306,
             "lng": -75.672188
           },
-          "address": "Lackawanna River Heritage Trail, Scranton, PA"
+          "address": "Lackawanna River Heritage Trail, Scranton, PA",
+          "status": null
         },
         {
           "name": "Lake Scranton Walking Trail",
@@ -2890,7 +3030,8 @@
             "lat": 41.38995,
             "lng": -75.631802
           },
-          "address": "Lake Scranton Walking Trail, Pennsylvania"
+          "address": "Lake Scranton Walking Trail, Pennsylvania",
+          "status": null
         },
         {
           "name": "Lehigh Canal Park",
@@ -2906,7 +3047,8 @@
             "lat": 40.816271,
             "lng": -75.673708
           },
-          "address": "Lehighton, PA 18235"
+          "address": "Lehighton, PA 18235",
+          "status": null
         },
         {
           "name": "Lehigh Gorge Trail",
@@ -2922,7 +3064,8 @@
             "lat": 41.051153,
             "lng": -75.771721
           },
-          "address": "Lehigh Gorge Trail, White Haven, PA"
+          "address": "Lehigh Gorge Trail, White Haven, PA",
+          "status": null
         },
         {
           "name": "Levee Loop Trail",
@@ -2938,7 +3081,8 @@
             "lat": 41.002896,
             "lng": -75.191784
           },
-          "address": "Levee Loop Trail, Arlington Heights, PA 18360"
+          "address": "Levee Loop Trail, Arlington Heights, PA 18360",
+          "status": null
         },
         {
           "name": "Locust Lake State Park",
@@ -2954,7 +3098,8 @@
             "lat": 40.783787,
             "lng": -76.12036
           },
-          "address": "220 Locust Lake Rd, Barnesville, PA 18214"
+          "address": "220 Locust Lake Rd, Barnesville, PA 18214",
+          "status": null
         },
         {
           "name": "Luzerne County Levee Trail",
@@ -2970,7 +3115,8 @@
             "lat": 41.258592,
             "lng": -75.87822
           },
-          "address": "Luzerne County Levee Trail, Kingston, PA 18704"
+          "address": "Luzerne County Levee Trail, Kingston, PA 18704",
+          "status": null
         },
         {
           "name": "Luzerne County Rail Trail",
@@ -2986,7 +3132,8 @@
             "lat": 41.320718,
             "lng": -75.79838
           },
-          "address": "Luzerne County Rail Trail, Pittston, PA 18640"
+          "address": "Luzerne County Rail Trail, Pittston, PA 18640",
+          "status": null
         },
         {
           "name": "Susquehanna Warrior Trail",
@@ -3002,7 +3149,8 @@
             "lat": 41.189389,
             "lng": -76.088826
           },
-          "address": "Susquehanna Warrior Trail, Pennsylvania"
+          "address": "Susquehanna Warrior Trail, Pennsylvania",
+          "status": null
         },
         {
           "name": "Trolley Trail",
@@ -3018,7 +3166,8 @@
             "lat": 41.510349,
             "lng": -75.718707
           },
-          "address": "Trolley Trail, Pennsylvania"
+          "address": "Trolley Trail, Pennsylvania",
+          "status": null
         },
         {
           "name": "Wallenpaupack Lake Trail",
@@ -3034,7 +3183,30 @@
             "lat": 41.458969,
             "lng": -75.183618
           },
-          "address": "126 Lamberton Ln, Hawley, PA 18428"
+          "address": "126 Lamberton Ln, Hawley, PA 18428",
+          "status": null
+        }
+      ]
+    },
+    {
+      "name": "Out door nature attractions",
+      "items": [
+        {
+          "name": "Buttermilk Falls",
+          "times": {
+            "kingston": 19,
+            "scranton": 32,
+            "canadensis": 49
+          },
+          "map": "https://www.google.com/maps/place/Buttermilk+Falls/@41.166951,-75.7433136,151m/data=!3m1!1e3!4m14!1m7!3m6!1s0x89c502e98a3111af:0x3429825e7e5c5d02!2sButtermilk+Falls!8m2!3d41.1668935!4d-75.7432866!16s%2Fg%2F11b6mhtb9q!3m5!1s0x89c502e98a3111af:0x3429825e7e5",
+          "website": null,
+          "notes": "",
+          "coordinates": {
+            "lat": 41.166894,
+            "lng": -75.743287
+          },
+          "address": "White Haven Rd, Wilkes-Barre Township, PA 18702",
+          "status": null
         }
       ]
     }

@@ -18,6 +18,12 @@ export interface Coordinates {
   lng: number;
 }
 
+/**
+ * Google Maps BusinessStatus, narrowed to the two "closed" states we record.
+ * An operational (or unknown) place has `null`.
+ */
+export type BusinessStatus = 'CLOSED_TEMPORARILY' | 'CLOSED_PERMANENTLY';
+
 export interface Outing {
   name: string;
   times: Record<OriginId, number | null>;
@@ -26,6 +32,7 @@ export interface Outing {
   notes: string;
   coordinates: Coordinates | null;
   address: string | null;
+  status: BusinessStatus | null;
 }
 
 export interface Category {
